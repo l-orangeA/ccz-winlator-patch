@@ -1,0 +1,9 @@
+﻿# 大文件不进 git：APK / 整合包 / 编译产物走 Release
+*.apk
+*.zip
+*.so
+*.dll
+*.exe
+*.bin
+*.tar.gz
+*.log
