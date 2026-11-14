@@ -1,0 +1,50 @@
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x23(trace:virtual:get_vprot_range_size )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:get_vprot_range_size base 0x7bf8a000, size 0x4000, mask 0x20.
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view View: 0x7bef0000 - 0x7bf8dfff (image)
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bef0000 - 0x7bef0fff c-r--
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bef1000 - 0x7bf61fff c-r-x
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bf62000 - 0x7bf65fff c-rW-
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bf66000 - 0x7bf80fff c-r--
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bf81000 - 0x7bf82fff c-rW-
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bf83000 - 0x7bf89fff c-r--
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bf8a000 - 0x7bf8cfff c-rW-
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bf8d000 - 0x7bf8dfff c-r--
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x25(trace:virtual:NtProtectVirtualMemory )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:NtProtectVirtualMemory 0xffffffffffffffff 0x7bf8a000 00001000 00000008
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x23(trace:virtual:get_vprot_range_size )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:get_vprot_range_size base 0x7bf8a000, size 0x4000, mask 0x20.
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view View: 0x7bef0000 - 0x7bf8dfff (image)
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bef0000 - 0x7bef0fff c-r--
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bef1000 - 0x7bf61fff c-r-x
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bf62000 - 0x7bf65fff c-rW-
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bf66000 - 0x7bf80fff c-r--
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bf81000 - 0x7bf82fff c-rW-
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bf83000 - 0x7bf89fff c-r--
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bf8a000 - 0x7bf8cfff c-rW-
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bf8d000 - 0x7bf8dfff c-r--
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x25(trace:virtual:NtProtectVirtualMemory )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:NtProtectVirtualMemory 0xffffffffffffffff 0x7bfdcfc0 000000d8 00000004
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x23(trace:virtual:get_vprot_range_size )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:get_vprot_range_size base 0x7bfdc000, size 0x6000, mask 0x20.
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view View: 0x7bfa0000 - 0x7bfe1fff (image)
+24605|0x3f0004283c: Calling snprintf(0x7ffc3409, 1015, "%s:%s:%s " (,0x3f000a3d17)) => return 0x18(trace:virtual:dump_view )
+24605|0x3f000426ed: Calling write(2, 0x7ffc3404"002c:trace:virtual:dump_view       0x7bfa0000 - 0x7bfa0fff c-r--

@@ -1,0 +1,4 @@
+WCTX ctx=0x10020ed50 eip=7ae49cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x10020ea80 eip=7a60bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x31ef24 eip=7ae48efc esp=31f1f0 ef=202 flags=1003f dr0=0 dr1=0 dr7=0 eax=56f7d0
+TRAP sig=5 code=128 rip=587033 trap=80 tf=0

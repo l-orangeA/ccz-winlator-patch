@@ -1,0 +1,15 @@
+{
+  "label": "jit9",
+  "elapsed": 61.6,
+  "marks": {
+    "ws": 1.5
+  },
+  "hwbp_last": "",
+  "hw_rows": [],
+  "cpu_split": {},
+  "clk_tck": 100,
+  "samples": [],
+  "exec": "/storage/emulated/0/ccz/Ekd5.exe",
+  "clean_leftover": [],
+  "sample_count": 0
+}

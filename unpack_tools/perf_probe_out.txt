@@ -1,0 +1,32 @@
+  [boot1] t=1.2 state=other shot=59130
+  [boot1] t=91.7 state=title shot=972741
+  tap1 -> title (shot=974358)
+  tap2 -> title (shot=974358)
+  tap3 -> confirm (shot=643271)
+  slot tap1 -> confirm (shot=634084) {'title': 3359, 'dialog': 105, 'confirm': 51}
+  confirm -> other (shot=91899)
+  slot tap2 -> other (shot=92305) {'title': 7810, 'dialog': 13473, 'confirm': 13582}
+  slot tap3 -> scene (shot=2059365) {'title': 8690, 'dialog': 9714, 'confirm': 9772}
+BATTLE OK
+app=['3010'] game=['5897']
+HWBP_BEFORE:
+pid=5897 arms=1600 faults=44106 steps=43006 hits=400 t=50.1
+FPS frames=127 span=3.75s fps=33.6 median=16.64 p90=58.14 max=373.7 {'<40': 38, '<20': 67, '>=80': 10, '<80': 11}
+FPS frames=127 span=4.07s fps=31.0 median=16.62 p90=82.73 max=423.6 {'<20': 71, '<40': 22, '<80': 20, '>=80': 13}
+FPS frames=127 span=4.34s fps=29.1 median=16.63 p90=66.45 max=539.9 {'<20': 66, '<40': 22, '<80': 30, '>=80': 8}
+FPS frames=127 span=3.60s fps=35.0 median=8.45 p90=58.14 max=365.4 {'>=80': 9, '<40': 21, '<20': 75, '<80': 21}
+FPS frames=126 span=4.39s fps=28.5 median=16.66 p90=74.76 max=357.3 {'<20': 64, '<40': 22, '<80': 27, '>=80': 12}
+APP total 0.39 core over 26.9s
+APP threads: GLThread 245550=0.16, Thread-5=0.10, mali-event-hand=0.03, com.winlatcn=0.02, Timer-0=0.01, ged-swd=0.01, mali-cpu-comman=0.01, mali-mem-purge=0.01
+GAME total 0.42 core
+GAME threads: Ekd5.exe=0.42
+FREQ before {0: 400, 3: 1000, 4: 1500, 6: 1500, 7: 2100} after {0: 1700, 3: 1700, 4: 400, 6: 400, 7: 2200}
+TEMP before {}
+TEMP after  {}
+HWBP_AFTER:
+pid=5897 arms=1600 faults=44106 steps=43006 hits=400 t=50.1
+LOGCAT:
+11-05 16:30:40.425  5395  5395 E adbd    : service_to_fd shell,v2,TERM=xterm-256color,raw:logcat -d -t 400 | grep -E 'GC freed|Choreographer|Davey|Skipped|ANR' | tail -30
+
+
+DONE

@@ -1,0 +1,56 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  binutils-common binutils-x86-64-linux-gnu cpp-9-x86-64-linux-gnu gcc-10-base
+  gcc-10-cross-base gcc-9-cross-base gcc-9-x86-64-linux-gnu-base
+  libasan5-amd64-cross libatomic1-amd64-cross libc6-amd64-cross libcc1-0
+  libgcc-9-dev-amd64-cross libgcc-s1 libgcc-s1-amd64-cross
+  libgomp1-amd64-cross libisl22 libitm1-amd64-cross liblsan0-amd64-cross
+  libmpc3 libmpfr6 libquadmath0-amd64-cross libstdc++6 libstdc++6-amd64-cross
+  libtsan0-amd64-cross libubsan1-amd64-cross
+Suggested packages:
+  binutils-doc gcc-9-locales gcc-9-multilib-x86-64-linux-gnu gcc-9-doc
+The following NEW packages will be installed:
+  binutils-common binutils-x86-64-linux-gnu cpp-9-x86-64-linux-gnu
+  gcc-10-cross-base gcc-9-cross-base gcc-9-x86-64-linux-gnu
+  gcc-9-x86-64-linux-gnu-base libasan5-amd64-cross libatomic1-amd64-cross
+  libc6-amd64-cross libc6-dev-amd64-cross libcc1-0 libgcc-9-dev-amd64-cross
+  libgcc-s1-amd64-cross libgomp1-amd64-cross libisl22 libitm1-amd64-cross
+  liblsan0-amd64-cross libmpc3 libmpfr6 libquadmath0-amd64-cross
+  libstdc++6-amd64-cross libtsan0-amd64-cross libubsan1-amd64-cross
+  linux-libc-dev-amd64-cross
+The following packages will be upgraded:
+  gcc-10-base libgcc-s1 libstdc++6
+3 upgraded, 25 newly installed, 0 to remove and 42 not upgraded.
+Need to get 32.6 MB of archives.
+After this operation, 123 MB of additional disk space will be used.
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10/gcc-10-base_10.5.0-1ubuntu1~20.04_arm64.deb' gcc-10-base_10.5.0-1ubuntu1~20.04_arm64.deb 20780 MD5Sum:81f27b403a6571911d848f861e4552dd
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10/libstdc++6_10.5.0-1ubuntu1~20.04_arm64.deb' libstdc++6_10.5.0-1ubuntu1~20.04_arm64.deb 461192 MD5Sum:0a77803504181fc77a54c6a992cbff58
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10/libgcc-s1_10.5.0-1ubuntu1~20.04_arm64.deb' libgcc-s1_10.5.0-1ubuntu1~20.04_arm64.deb 34596 MD5Sum:e9c46ddc48798633884aa71463c73e6e
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/b/binutils/binutils-common_2.34-6ubuntu1.11_arm64.deb' binutils-common_2.34-6ubuntu1.11_arm64.deb 207852 MD5Sum:e1db171393405daf56b497c42917dd41
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-9-cross/gcc-9-x86-64-linux-gnu-base_9.4.0-1ubuntu1~20.04.2cross2_arm64.deb' gcc-9-x86-64-linux-gnu-base_9.4.0-1ubuntu1~20.04.2cross2_arm64.deb 19128 MD5Sum:5852b50b5acbcb1ebe3511a80330d754
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/i/isl/libisl22_0.22.1-1_arm64.deb' libisl22_0.22.1-1_arm64.deb 536956 MD5Sum:7e6708e9b6fd8247d510dd4f8dcff13f
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/m/mpfr4/libmpfr6_4.0.2-1_arm64.deb' libmpfr6_4.0.2-1_arm64.deb 212068 MD5Sum:1a80462aee38bdb25445b73fb73794e5
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/m/mpclib3/libmpc3_1.1.0-1_arm64.deb' libmpc3_1.1.0-1_arm64.deb 37156 MD5Sum:2dc56049a096bfa7027b40a37a017480
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-9-cross/cpp-9-x86-64-linux-gnu_9.4.0-1ubuntu1~20.04.2cross2_arm64.deb' cpp-9-x86-64-linux-gnu_9.4.0-1ubuntu1~20.04.2cross2_arm64.deb 6888016 MD5Sum:1b079b8225dd86d259369e2a1aae6361
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10-cross/gcc-10-cross-base_10.5.0-1ubuntu1~20.04cross1_all.deb' gcc-10-cross-base_10.5.0-1ubuntu1~20.04cross1_all.deb 15456 MD5Sum:c4a0d2851205834820ef4dca1b6b064f
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-9-cross/gcc-9-cross-base_9.4.0-1ubuntu1~20.04.2cross2_all.deb' gcc-9-cross-base_9.4.0-1ubuntu1~20.04.2cross2_all.deb 14416 MD5Sum:dcc958a13e27b5cbd96e7b7d6e9d26a3
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10/libcc1-0_10.5.0-1ubuntu1~20.04_arm64.deb' libcc1-0_10.5.0-1ubuntu1~20.04_arm64.deb 46248 MD5Sum:0b83e4fd625a65597fa4226649365fe3
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/b/binutils/binutils-x86-64-linux-gnu_2.34-6ubuntu1.11_arm64.deb' binutils-x86-64-linux-gnu_2.34-6ubuntu1.11_arm64.deb 1904628 MD5Sum:eb8b5b82b6629bb9b11a9adf9aa62878
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-10-cross/libgcc-s1-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb' libgcc-s1-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb 41796 MD5Sum:2e11c99fea84bd742a29da7ca380f9c6
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-10-cross/libgomp1-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb' libgomp1-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb 99652 MD5Sum:fa56942ef465c28581160ff79d17fc63
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-10-cross/libitm1-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb' libitm1-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb 25664 MD5Sum:2d6b622a2e1796bffca8b5856ab75da1
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-10-cross/libatomic1-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb' libatomic1-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb 8992 MD5Sum:4a8a37e6a8c51029a323fd7785e7b50d
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-9-cross/libasan5-amd64-cross_9.4.0-1ubuntu1~20.04.2cross2_all.deb' libasan5-amd64-cross_9.4.0-1ubuntu1~20.04.2cross2_all.deb 2748852 MD5Sum:10cbda989f9ed931affdc636077766e2
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-10-cross/liblsan0-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb' liblsan0-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb 834028 MD5Sum:9f5a2d41b2ddfb01f50d96de57788637
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-10-cross/libtsan0-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb' libtsan0-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb 2009292 MD5Sum:f2091d3be21e612e4fd852934a5be537
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/c/cross-toolchain-base/libc6-amd64-cross_2.31-0ubuntu9.9cross1_all.deb' libc6-amd64-cross_2.31-0ubuntu9.9cross1_all.deb 1471776 MD5Sum:bda24bc6f1ee1314262fef369faac430
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-10-cross/libstdc++6-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb' libstdc++6-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb 460972 MD5Sum:fa61686591c74de3f17b7ad05399a55f
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-10-cross/libubsan1-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb' libubsan1-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb 783880 MD5Sum:bc9886802ae3eb6148fa085562fe6e3c
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-10-cross/libquadmath0-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb' libquadmath0-amd64-cross_10.5.0-1ubuntu1~20.04cross1_all.deb 146384 MD5Sum:c3578f8e4557ad1763dda4058785138c
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-9-cross/libgcc-9-dev-amd64-cross_9.4.0-1ubuntu1~20.04.2cross2_all.deb' libgcc-9-dev-amd64-cross_9.4.0-1ubuntu1~20.04.2cross2_all.deb 2357684 MD5Sum:b002bfb164c21a052ec85025cede8fff
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-9-cross/gcc-9-x86-64-linux-gnu_9.4.0-1ubuntu1~20.04.2cross2_arm64.deb' gcc-9-x86-64-linux-gnu_9.4.0-1ubuntu1~20.04.2cross2_arm64.deb 7666468 MD5Sum:cd00a5bbafe4ae84c46dbda3ab5b8a15
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/c/cross-toolchain-base/linux-libc-dev-amd64-cross_5.4.0-110.124cross1_all.deb' linux-libc-dev-amd64-cross_5.4.0-110.124cross1_all.deb 1072180 MD5Sum:cc3b825743348e483210968d52d6373c
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/c/cross-toolchain-base/libc6-dev-amd64-cross_2.31-0ubuntu9.9cross1_all.deb' libc6-dev-amd64-cross_2.31-0ubuntu9.9cross1_all.deb 2515592 MD5Sum:cbf7b1a3b9893c6b25c0f44af64b833c
+RC=0

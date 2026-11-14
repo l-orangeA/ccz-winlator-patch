@@ -1,0 +1,41 @@
+{
+  "label": "m3c7",
+  "elapsed": 60.3,
+  "marks": {
+    "ws": 1.7,
+    "ekd": 5.9
+  },
+  "hwbp_last": "",
+  "hw_rows": [],
+  "cpu_split": {},
+  "clk_tck": 100,
+  "samples": [
+    {
+      "pid": 12458,
+      "utime": 10,
+      "stime": 11,
+      "minflt": 10043,
+      "majflt": 0,
+      "state": "S (sleeping)",
+      "cpu": 5,
+      "rchar": 2301000,
+      "wchar": 60928,
+      "syscr": 820,
+      "syscw": 691,
+      "read_bytes": 0,
+      "write_bytes": 20480,
+      "cancelled_write_bytes": 12288,
+      "threads": 1,
+      "cpus": "0-7",
+      "vctx": 1707,
+      "nvctx": 215,
+      "freq_0": 2000000,
+      "freq_4": 3000000,
+      "freq_7": 2700000,
+      "t": 5.91
+    }
+  ],
+  "exec": "/storage/emulated/0/ccz/Ekd5.exe",
+  "clean_leftover": [],
+  "sample_count": 1
+}

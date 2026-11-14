@@ -1,0 +1,5 @@
+init "D:\ccz_winlator_patch\unpack_tools\game\Ekd5.exe"
+bphws 4817E0
+erun
+savedata "D:\ccz_winlator_patch\unpack_tools\Ekd5_oepdump.bin", 400000, 246000
+stop

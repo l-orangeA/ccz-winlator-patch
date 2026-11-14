@@ -1,0 +1,11 @@
+  [boot1] t=1.3 state=other shot=57806
+  [boot1] t=83.4 state=title shot=972741
+TITLE
+  tap1 -> title (shot=974358)
+  tap2 -> title (shot=974358)
+  tap3 -> dialog (shot=680631)
+  slot tap1 -> confirm (shot=634294) {'title': 3359, 'dialog': 105, 'confirm': 51}
+  confirm -> other (shot=91899)
+  slot tap2 -> other (shot=92305) {'title': 7810, 'dialog': 13473, 'confirm': 13582}
+  slot tap3 -> other (shot=92305) {'title': 7810, 'dialog': 13473, 'confirm': 13582}
+BATTLE LOAD FAILED

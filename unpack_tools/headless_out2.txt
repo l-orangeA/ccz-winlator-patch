@@ -1,0 +1,224 @@
+Initializing wait objects...
+Initializing debugger...
+Initializing debugger functions...
+Setting JSON memory management functions...
+Getting directory information...
+[TODO] Not implemented GUI_MENU_ADD (39)
+[TODO] Not implemented GUI_MENU_ADD (39)
+[TODO] Not implemented GUI_MENU_ADD (39)
+[TODO] Not implemented GUI_MENU_ADD (39)
+[TODO] Not implemented GUI_MENU_ADD (39)
+[TODO] Not implemented GUI_MENU_ADD (39)
+[TODO] Not implemented GUI_MENU_ADD (39)
+[TODO] Not implemented GUI_MENU_ADD_ENTRY (40)
+[TODO] Not implemented GUI_MENU_ADD (39)
+[TODO] Not implemented GUI_MENU_ADD_ENTRY (40)
+[TODO] Not implemented GUI_MENU_ADD_ENTRY (40)
+[TODO] Not implemented GUI_MENU_ADD_ENTRY (40)
+[TODO] Not implemented GUI_MENU_ADD_ENTRY (40)
+[TODO] Not implemented GUI_MENU_ADD_ENTRY (40)
+[TODO] Not implemented GUI_MENU_ADD_ENTRY (40)
+[TODO] Not implemented GUI_MENU_ADD_ENTRY (40)
+[TODO] Not implemented GUI_MENU_ADD_SEPARATOR (41)
+[TODO] Not implemented GUI_MENU_ADD_ENTRY (40)
+[TODO] Not implemented GUI_MENU_ADD_SEPARATOR (41)
+Symbol Path: D:\ccz_winlator_patch\unpack_tools\x64dbg\release\x32\headless\symbols
+Start file read thread...
+Retrieving syscall indices...
+Syscall indices loaded!
+Error codes database loaded!
+Exception codes database loaded!
+NTSTATUS codes database loaded!
+Windows constant database loaded!
+Reading notes file...
+File read thread finished!
+Allocating message stack...
+Initializing global script variables...
+Registering debugger commands...
+Registering GUI command handler...
+Registering expression functions...
+Registering format functions...
+Registering Script DLL command handler...
+Starting command loop...
+Initialization successful!
+Loading plugins...
+[pluginload] ScyllaHideX64DBGPlugin
+[PLUGIN] ScyllaHide v900 Loaded!
+ScyllaHide Plugin v1.4.760-a727ac3 Copyright (C) 2014 Aguila / cypher
+[TODO] Not implemented GUI_MENU_ADD_ENTRY (40)
+[TODO] Not implemented GUI_MENU_ADD_SEPARATOR (41)
+[TODO] Not implemented GUI_MENU_ADD_ENTRY (40)
+[TODO] Not implemented GUI_MENU_SET_ICON (60)
+[headless] entering command loop...
+[TODO] Not implemented GUI_SCRIPT_CLEAR (11)
+[TODO] Not implemented GUI_SCRIPT_ENABLEHIGHLIGHTING (49)
+[TODO] Not implemented GUI_SCRIPT_ADD (10)
+[STATE] initialized
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\wntdll.pdb\8D2BE395E6ADEA11A4A6A7B048B7983C1\wntdll.pdb
+[SYMBOL] No symbols loaded for: ntdll.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\wntdll.pdb
+[SYMBOL] No symbols loaded for: ntdll.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\ntdll.pdb
+[SYMBOL] No symbols loaded for: ntdll.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\wkernel32.pdb\07EA17BD57EAD131C0A8903254E2BF401\wkernel32.pdb
+Handling command line...
+  "D:\ccz_winlator_patch\unpack_tools\x64dbg\release\x32\headless.exe" -workingDir "D:\ccz_winlator_patch\unpack_tools\game" -plugin "D:\ccz_winlator_patch\unpack_tools\x64dbg\release\x32\plugins\ScyllaHideX64DBGPlugin.dp32" -cf "D:\ccz_winlator_patch\unpack_tools\x64dbg_script2.txt"
+Debugging: D:\ccz\曹操传加强版2.2\Ekd5.exe
+Database file: D:\ccz_winlator_patch\unpack_tools\x64dbg\release\x32\headless\db\Ekd5.exe.dd32
+Process Started: 00400000 D:\ccz\曹操传加强版2.2\Ekd5.exe
+  "D:\ccz\曹操传加强版2.2\Ekd5.exe"
+  argv[0]: D:\ccz\曹操传加强版2.2\Ekd5.exe
+Module ekd5.exe loaded from disk path
+Breakpoint at 004817E0 (entry breakpoint) set!
+DLL Loaded: 77650000 C:\Windows\SysWOW64\ntdll.dll
+[SYMBOL] No symbols loaded for: kernel32.dll
+[TODO] Not implemented GUI_PROCESS_EVENTS (91)
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\wkernel32.pdb
+[SYMBOL] No symbols loaded for: kernel32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\kernel32.pdb
+[SYMBOL] No symbols loaded for: kernel32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\wkernelbase.pdb\9650B57F8BC8E292D50158B023E1D7AF1\wkernelbase.pdb
+[SYMBOL] No symbols loaded for: kernelbase.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\wkernelbase.pdb
+[SYMBOL] No symbols loaded for: kernelbase.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\kernelbase.pdb
+[SYMBOL] No symbols loaded for: kernelbase.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\wgdi32.pdb\F6B2CD85625E4DC6A9A0F7FBDADBB4121\wgdi32.pdb
+[SYMBOL] No symbols loaded for: gdi32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\wgdi32.pdb
+[SYMBOL] No symbols loaded for: gdi32.dll
+DLL Loaded: 76F10000 C:\Windows\SysWOW64\kernel32.dll
+DLL Loaded: 755F0000 C:\Windows\SysWOW64\KernelBase.dll
+Thread 20608 created, Entry: ntdll.776A6120, Parameter: 00AC93E0
+[TODO] Not implemented GUI_PROCESS_EVENTS (91)
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\gdi32.pdb
+[SYMBOL] No symbols loaded for: gdi32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\comctl32v582.pdb\A546CF6510877A12B57814C15966D9011\comctl32v582.pdb
+[SYMBOL] No symbols loaded for: comctl32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.26100.5074_none_cf989b7a8eac3574\comctl32v582.pdb
+[SYMBOL] No symbols loaded for: comctl32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.26100.5074_none_cf989b7a8eac3574\comctl32.pdb
+[SYMBOL] No symbols loaded for: comctl32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\wwin32u.pdb\CEA2F831169A9EBD8F6FF24E5193D7851\wwin32u.pdb
+[SYMBOL] No symbols loaded for: win32u.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\wwin32u.pdb
+[SYMBOL] No symbols loaded for: win32u.dll
+[TODO] Not implemented GUI_PROCESS_EVENTS (91)
+DLL Loaded: 75D50000 C:\Windows\SysWOW64\gdi32.dll
+DLL Loaded: 728E0000 C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.26100.5074_none_cf989b7a8eac3574\comctl32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\win32u.pdb
+[SYMBOL] No symbols loaded for: win32u.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\advapi32.pdb\3EA65523FC43AFDCF3B3E350D50D36B51\advapi32.pdb
+[SYMBOL] No symbols loaded for: advapi32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\advapi32.pdb
+[SYMBOL] No symbols loaded for: advapi32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\advapi32.pdb
+[SYMBOL] No symbols loaded for: advapi32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\wgdi32full.pdb\3706093515BA35B21B26A913B48F9E5B1\wgdi32full.pdb
+[SYMBOL] No symbols loaded for: gdi32full.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\wgdi32full.pdb
+[SYMBOL] No symbols loaded for: gdi32full.dll
+[TODO] Not implemented GUI_PROCESS_EVENTS (91)
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\gdi32full.pdb
+[SYMBOL] No symbols loaded for: gdi32full.dll
+DLL Loaded: 76CE0000 C:\Windows\SysWOW64\win32u.dll
+DLL Loaded: 75CC0000 C:\Windows\SysWOW64\advapi32.dll
+Thread 8896 created, Entry: ntdll.776A6120, Parameter: 00AC93E0
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\msvcrt.pdb\BC440B39DDBB399982B135220E73C5EE1\msvcrt.pdb
+[SYMBOL] No symbols loaded for: msvcrt.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\msvcrt.pdb
+[SYMBOL] No symbols loaded for: msvcrt.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\msvcrt.pdb
+[SYMBOL] No symbols loaded for: msvcrt.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\msvcp_win.pdb\BBD06838F3D6C9F50F30C84614DAC9671\msvcp_win.pdb
+[SYMBOL] No symbols loaded for: msvcp_win.dll
+[TODO] Not implemented GUI_PROCESS_EVENTS (91)
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\msvcp_win.pdb
+[SYMBOL] No symbols loaded for: msvcp_win.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\msvcp_win.pdb
+[SYMBOL] No symbols loaded for: msvcp_win.dll
+DLL Loaded: 76480000 C:\Windows\SysWOW64\gdi32full.dll
+DLL Loaded: 774E0000 C:\Windows\SysWOW64\msvcrt.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\sechost.pdb\060E24D50C142622FDA8F4C785C3E9D71\sechost.pdb
+[SYMBOL] No symbols loaded for: sechost.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\sechost.pdb
+[SYMBOL] No symbols loaded for: sechost.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\sechost.pdb
+[SYMBOL] No symbols loaded for: sechost.dll
+[TODO] Not implemented GUI_PROCESS_EVENTS (91)
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\ucrtbase.pdb\32472ABC34B980AEBDEA8CA78FF12D371\ucrtbase.pdb
+[SYMBOL] No symbols loaded for: ucrtbase.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\ucrtbase.pdb
+[SYMBOL] No symbols loaded for: ucrtbase.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\ucrtbase.pdb
+[SYMBOL] No symbols loaded for: ucrtbase.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\wuser32.pdb\D541A2C74BB63714DF1123BDD857AB281\wuser32.pdb
+DLL Loaded: 753F0000 C:\Windows\SysWOW64\msvcp_win.dll
+DLL Loaded: 76290000 C:\Windows\SysWOW64\sechost.dll
+DLL Loaded: 77240000 C:\Windows\SysWOW64\ucrtbase.dll
+Thread 24040 created, Entry: ntdll.776A6120, Parameter: 00AC93E0
+[SYMBOL] No symbols loaded for: user32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\wuser32.pdb
+[SYMBOL] No symbols loaded for: user32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\user32.pdb
+[TODO] Not implemented GUI_PROCESS_EVENTS (91)
+[SYMBOL] No symbols loaded for: user32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\wrpcrt4.pdb\7FF53CDB3ACD128BE6815A28F07338F01\wrpcrt4.pdb
+[SYMBOL] No symbols loaded for: rpcrt4.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\wrpcrt4.pdb
+[SYMBOL] No symbols loaded for: rpcrt4.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\rpcrt4.pdb
+[SYMBOL] No symbols loaded for: rpcrt4.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\winmm.pdb\4E23CCDC55807F92D7F403256D129EF41\winmm.pdb
+[SYMBOL] No symbols loaded for: winmm.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\winmm.pdb
+DLL Loaded: 76D10000 C:\Windows\SysWOW64\user32.dll
+DLL Loaded: 763C0000 C:\Windows\SysWOW64\rpcrt4.dll
+[SYMBOL] No symbols loaded for: winmm.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\winmm.pdb
+[SYMBOL] No symbols loaded for: winmm.dll
+[TODO] Not implemented GUI_PROCESS_EVENTS (91)
+[STATE] running
+[STATE] paused
+[STATE] running
+[STATE] running
+[SYMBOL] [DIA] Skipping non-existent PDB: .\symbols\wimm32.pdb\15CB595DEBD13FCDEB03A9C0E91FAE211\wimm32.pdb
+[SYMBOL] No symbols loaded for: imm32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\wimm32.pdb
+[SYMBOL] No symbols loaded for: imm32.dll
+[SYMBOL] [DIA] Skipping non-existent PDB: C:\Windows\SysWOW64\imm32.pdb
+[SYMBOL] No symbols loaded for: imm32.dll
+[TODO] Not implemented GUI_PROCESS_EVENTS (91)
+[STATE] paused
+[STATE] running
+DLL Loaded: 73210000 C:\Windows\SysWOW64\winmm.dll
+[ScyllaHide] Loaded VA for NtUserBlockInput = 0x76CE4C30
+[ScyllaHide] Loaded VA for NtUserQueryWindow = 0x76CE1230
+[ScyllaHide] Loaded VA for NtUserGetForegroundWindow = 0x76CE14C0
+[ScyllaHide] Loaded VA for NtUserBuildHwndList = 0x76CE12F0
+[ScyllaHide] Loaded VA for NtUserFindWindowEx = 0x76CE17C0
+[ScyllaHide] Loaded VA for NtUserGetClassName = 0x76CE1890
+[ScyllaHide] Loaded VA for NtUserInternalGetWindowText = 0x76CE1720
+[ScyllaHide] Loaded VA for NtUserGetThreadState = 0x76CE1150
+[ScyllaHide] Hook injection successful, image base 001E0000
+System breakpoint reached!
+Breakpoint at 776C92F0 set!
+Breakpoint at 76F3B070 set!
+DLL Loaded: 75AB0000 C:\Windows\SysWOW64\imm32.dll
+INT3 breakpoint "entry breakpoint" at <ekd5.OptionalHeader.AddressOfEntryPoint> (004817E0)!
+[TODO] Not implemented GUI_PROCESS_EVENTS (91)
+[TODO] Not implemented GUI_PROCESS_EVENTS (91)
+[STATE] paused
+Thread 20608 exit
+Thread 24040 exit
+Thread 8896 exit
+INT3 breakpoint at <ntdll.NtTerminateProcess> (776C92F0)!
+0084FE8C[512] written to "D:\ccz_winlator_patch\unpack_tools\exitstack.bin" !
+[TODO] Not implemented GUI_PROCESS_EVENTS (91)
+[STATE] stopped
+[TODO] Not implemented GUI_SCRIPT_CLEAR (11)
+[STATE] paused
+Process stopped with exit code 0x0 (0)
+Saving database to D:\ccz_winlator_patch\unpack_tools\x64dbg\release\x32\headless\db\Ekd5.exe.dd32 0ms
+Debugging stopped!
+Script finished!

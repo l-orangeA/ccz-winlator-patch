@@ -1,0 +1,131 @@
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 00000000, 00000000...) => return 0x3FFE2000
+5072|0xefb226c9: Calling my_read (/opt/wine/bin/wine) (00000006, 0084D920, 00000040...) => return 0x00000040
+5072|0xefb22e04: Calling pthread_sigmask (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000002, 0084D820, 00000000...) => return 0x00000000
+5072|0x7e3112e8: Calling my___pthread_mutex_lock (/opt/wine/bin/wine) (7E388C18, 636918C8, 00000020...) => return 0x00000000
+5072|0x7c3e0921: Calling my___pthread_mutex_lock (/opt/wine/bin/wine) (7C44DDA4, 636918D4, 0084F028...) => return 0x00000000
+5072|0x7c3e0968: Calling my_pthread_mutex_unlock (/opt/wine/bin/wine) (7C44DDA4, 636918D4, 0084F028...) => return 0x00000000
+5072|0x7e312951: Calling my_pthread_mutex_unlock (/opt/wine/bin/wine) (7E388C18, 00000001, 00000000...) => return 0x00000000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 0094F970, 00000002...) => return 0x3FFE2000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 0094F970, 00000002...) => return 0x3FFE2000
+5072|0x7e31139d: Calling my___pthread_mutex_lock (/opt/wine/bin/wine) (7E388BD0, 00000000, 00000001...) => return 0x00000000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 7E372000, 0084EF78...) => return 0x3FFE2000
+5072|0x7e248a3b: Calling memcmp (/usr/lib/arm-linux-gnueabihf/libc.so.6) (636C66A8, 0084F078, 0000003C...) => return 0x00000000
+5072|0x7e248a3b: Calling memcmp (/usr/lib/arm-linux-gnueabihf/libc.so.6) (636C4498, 0084F078, 0000003C...) => return 0x00000000
+5072|0x7e3113fd: Calling my_pthread_mutex_unlock (/opt/wine/bin/wine) (7E388BD0, 00000000, 00000001...) => return 0x00000000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 00000040, 7E3391E0...) => return 0x3FFE2000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 7E3721F8, 7E32ED9C...) => return 0x3FFE2000
+5072|0x7e241ead: Calling calloc (/opt/wine/bin/wine) (00000001, 0000024C, 7E32ED9C...) => return 0x636DD110
+5072|0xefb22de1: Calling pthread_sigmask (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000000, EFB9CF60, 0094F9D0...) => return 0x00000000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 00000000, 00000060...) => return 0x3FFE2000
+5072|0xefb22cd3: Calling writev (/usr/lib/arm-linux-gnueabihf/libc.so.6) (00000005, 0094F970, 00000002...) => return 0x0000005E
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 00000000, 00000000...) => return 0x3FFE2000
+5072|0xefb226c9: Calling my_read (/opt/wine/bin/wine) (00000006, 0094FB04, 00000040...) => return 0x00000040
+5072|0xefb22e04: Calling pthread_sigmask (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000002, 0094F9D0, 00000000...) => return 0x00000000
+5072|0x7e31139d: Calling my___pthread_mutex_lock (/opt/wine/bin/wine) (7E388BD0, 7E3721F8, 7E32ED9C...) => return 0x00000000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 0094FB50, 00000040...) => return 0x3FFE2000
+5072|0x7e2425fe: Calling my___pthread_mutex_lock (/opt/wine/bin/wine) (7E37B32C, 0000024C, 7E32ED9C...) => return 0x00000000
+5072|0x7e24262e: Calling my_pthread_mutex_unlock (/opt/wine/bin/wine) (7E37B32C, 0000024C, 7E32ED9C...) => return 0x00000000
+5072|0x7e3113fd: Calling my_pthread_mutex_unlock (/opt/wine/bin/wine) (7E388BD0, 7E3721F8, 7E32ED9C...) => return 0x00000000
+5072|0xefb22e4d: Calling pthread_sigmask (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000000, EFB9CF60, 0094FBC0...) => return 0x00000000
+5072|0xefb22e6c: Calling my___pthread_mutex_lock (/opt/wine/bin/wine) (EFB9CECC, EFB9CF60, 0094FBC0...) => return 0x00000000
+5072|0xefb55498: Calling strrchr (/usr/lib/arm-linux-gnueabihf/libc.so.6) (634BD650, 0000002F, EFB88980...) => return 0x634BD66C
+5072|0xefb557af: Calling my_dlopen (/opt/wine/bin/wine) (634BD650, 00000002, EFB88980...) =>BOX86: Call to dlopen("/opt/wine/lib/wine/i386-unix/ws2_32.so"/0x634bd650, 2)
+Trying to Get "/opt/wine/lib/wine/i386-unix/ws2_32.so" to maplib
+Trying to add "/opt/wine/lib/wine/i386-unix/ws2_32.so" to maplib (local)
+Trying to load "/opt/wine/lib/wine/i386-unix/ws2_32.so"
+Simplified name is "ws2_32.so"
+Read 29 Section header
+Read 9 Program header
+Loading Sections Table String (idx = 28)
+Loading SymTab Strings (idx = 27)
+Loading SymTab (idx = 26)
+Loading Dynamic (idx = 20)
+The DT_INIT is at address 0x1000
+The DT_FINI is at address 0x2e4c
+The DT_INIT_ARRAY is at address 0x4ed4
+The DT_INIT_ARRAYSZ is 1
+The DT_FINI_ARRAY is at address 0x4ed8
+The DT_FINI_ARRAYSZ is 1
+The DT_VERNEED is at address 0x4c8
+The DT_VERNEEDNUM is 1
+Rel Table @0x518 (0x60/0x8)
+PLT Table @0x578 (type=17 0x90/0x8)
+The GOT.PLT Table is at address 0x5000
+The GOT Table is at address 0x4ff0..0x5000
+The PLT Table is at address 0x1030..0x1160
+The .gnu.version is at address 0x496
+The .text is at address 0x1170, and is 7388 big
+The .bss is at address 0x5068, and is 4 big
+Loading DynSym Strings (idx = 4)
+Loading DynSym (idx = 3)
+Adding "/opt/wine/lib/wine/i386-unix/ws2_32.so" as #5 in elf collection
+Elf Addr(v/p)=(nil)/(nil) Memsize=0x506c (align=0x1000)
+Elf Stack Memsize=1048576 (align=16)
+Elf TLS Memsize=0 (align=0)
+Using emulated /opt/wine/lib/wine/i386-unix/ws2_32.so
+Trying to add "ntdll.so" to maplib
+Already present in maplib => success
+Trying to add "libc.so.6" to maplib
+Already present in maplib => success
+Trying to add "librt.so.1" to maplib
+Already present in maplib => success
+Trying to add "libpthread.so.0" to maplib
+Already present in maplib => success
+Trying to add "libm.so.6" to maplib
+Already present in maplib => success
+Trying to add "libdl.so.2" to maplib
+Already present in maplib => success
+Trying to add "libc.so.6" to maplib
+Already present in maplib => success
+Created lib and added to maplib => success
+Created lib and added to maplib => success
+Applying 12 Relocation(s) for /opt/wine/lib/wine/i386-unix/ws2_32.so
+Applying 18 PLT Relocation(s) for /opt/wine/lib/wine/i386-unix/ws2_32.so
+Created lib and added to maplib => success
+Trying to Get "/opt/wine/lib/wine/i386-unix/ws2_32.so" to maplib
+Calling Init for /opt/wine/lib/wine/i386-unix/ws2_32.so 0x7d207000
+5072|0x7d20701f: Calling my___gmon_start__ (/opt/wine/bin/wine) (EFB9CECC, EFB9CF60, EFB76000...) =>__gmon_start__ called (dummy call)
+ return 0x40050040
+Done Init for /opt/wine/lib/wine/i386-unix/ws2_32.so
+Calling Init[0] for /opt/wine/lib/wine/i386-unix/ws2_32.so 0x7d207260
+All Init Done for /opt/wine/lib/wine/i386-unix/ws2_32.so
+dlopen: New handle 0xf (/opt/wine/lib/wine/i386-unix/ws2_32.so), dlopened=1
+ return 0x0000000F
+5072|0xefb5562b: Calling my_dlsym (/opt/wine/bin/wine) (0000000F, EFB681D8, EFB88980...) =>Call to dlsym(0xf, "__wine_unix_call_funcs")
+ return 0x7D20AEDC
+5072|0xefb22ecc: Calling my_pthread_mutex_unlock (/opt/wine/bin/wine) (EFB9CECC, EFB76000, 0094FC58...) => return 0x00000000
+5072|0xefb22eb3: Calling pthread_sigmask (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000002, 0094FBC0, 00000000...) => return 0x00000000
+5072|0xefb22e4d: Calling pthread_sigmask (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000000, EFB9CF60, 0094FBD0...) => return 0x00000000
+5072|0xefb22e6c: Calling my___pthread_mutex_lock (/opt/wine/bin/wine) (EFB9CECC, EFB9CF60, 0094FBD0...) => return 0x00000000
+5072|0xefb48f50: Calling my_munmap (/opt/wine/bin/wine) (20000000, 1FE00000, 0000C032...) => return 0x00000000
+5072|0xefb48f11: Calling my_munmap (/opt/wine/bin/wine) (40000000, 00000000, 0000C032...) => return 0xFFFFFFFF
+5072|0xefb22ecc: Calling my_pthread_mutex_unlock (/opt/wine/bin/wine) (EFB9CECC, EFB9CF60, 0094FBD0...) => return 0x00000000
+5072|0xefb22eb3: Calling pthread_sigmask (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000002, 0094FBD0, 00000000...) => return 0x00000000
+5072|0xefb22de1: Calling pthread_sigmask (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000000, EFB9CF60, 0094FA60...) => return 0x00000000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 00000000, 00000000...) => return 0x3FFE2000
+5072|0xefb22d30: Calling __write (/usr/lib/arm-linux-gnueabihf/libc.so.6) (00000005, 0094FBC0, 00000040...) => return 0x00000040
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 0094F9D0, 0094FA68...) => return 0x3FFE2000
+5072|0xefb226c9: Calling my_read (/opt/wine/bin/wine) (00000006, 0094FBC0, 00000040...) => return 0x00000040
+5072|0xefb22e04: Calling pthread_sigmask (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000002, 0094FA60, 00000000...) => return 0x00000000
+5072|0xefb255a0: Calling pthread_sigmask (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000000, EFB9CF60, 0094FB70...) => return 0x00000000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 0094FBC0, 00000040...) => return 0x3FFE2000
+5072|0xefb22cd3: Calling writev (/usr/lib/arm-linux-gnueabihf/libc.so.6) (00000005, 0094FA00, 00000002...) => return 0x00000068
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 0094F9D0, 0094FA68...) => return 0x3FFE2000
+5072|0xefb226c9: Calling my_read (/opt/wine/bin/wine) (00000006, 0094FB00, 00000040...) => return 0x00000040
+5072|0xefb2576e: Calling pthread_sigmask (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000002, 0094FB70, 00000000...) => return 0x00000000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 634BD630, 634BD650...) => return 0x3FFE2000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 00000000, 00000000...) => return 0x3FFE2000
+5072|SIGSEGV @0x7ba31b98 (???(0x7ba31b98)) (x86pc=0x587057/???:"???", esp=0xddfda0, stack=0xeed39000:0xef539000 own=(nil) fp=(nil)), for accessing 0xddfd9e (code=2/prot=5), db=0x636e5e50(0x7ba3184c:0x7ba31cb0/0x586f83:0x587078/???:clean, hash:47f3da3e/47f3da3e)
+EAX:0x00000000 ECX:0x7bc74df0 EDX:0x00000000 EBX:0x367b66a7 
+ESP:0x00ddfda0 EBP:0x0084fe60 ESI:0x005ab08f EDI:0x0084fdc4 
+ESP-0x10:0xdf30d865 ESP-0x0c:0x02b5ca9e ESP-0x08:0xdf31d865 ESP-0x04:0x0276c683
+ESP+0x00:0xdf32d865 ESP+0x04:0x0219c403 ESP+0x08:0xdf33d865 ESP+0x0c:0x02c1d028
+Sigactionhanlder for signal #11 called (jump to 0xefb26b70/???(0xefb26b70)), simple=0
+5072|signal function handler 0xefb26b70 called, ESP=0x3ffefc30
+Run X86 (0x633d3480), EIP=0xefb26b70, Stack=0x3ffefc20
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 00000000, 00000000...) => return 0x3FFE2000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 00000000, 00000000...) => return 0x3FFE2000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 00000000, 00000000...) => return 0x3FFE2000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 00000000, 00000000...) => return 0x3FFE2000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 00000000, 00000000...) => return 0x3FFE2000
+5072|0xefb43a43: Calling __pthread_getspecific (/usr/lib/arm-linux-gnueabihf/libpthread.so.0) (00000005, 00000000, 00000000...) => return 0x3FFE2000

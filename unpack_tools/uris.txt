@@ -1,0 +1,339 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  binutils binutils-aarch64-linux-gnu binutils-common binutils-mingw-w64-i686
+  binutils-mingw-w64-x86-64 cpp cpp-9 dpkg-dev fontconfig-config
+  fonts-dejavu-core g++ g++-9 gcc gcc-10-base gcc-9 gcc-9-base
+  gcc-mingw-w64-base gettext-base icu-devtools libapparmor1 libasan5
+  libasound2 libasound2-data libasyncns0 libatomic1 libbinutils libblkid-dev
+  libblkid1 libbsd0 libc-dev-bin libc6 libc6-dev libcc1-0 libcroco3
+  libcrypt-dev libctf-nobfd0 libctf0 libdbus-1-3 libdpkg-perl libdrm-amdgpu1
+  libdrm-common libdrm-nouveau2 libdrm-radeon1 libdrm2 libedit2 libegl-mesa0
+  libegl1 libelf1 libevent-2.1-7 libexpat1 libexpat1-dev libffi-dev libflac8
+  libfontconfig1 libfreetype-dev libfreetype6 libgbm1 libgcc-9-dev libgcc-s1
+  libgdbm-compat4 libgdbm6 libgl1 libgl1-mesa-dri libglapi-mesa libglib2.0-0
+  libglib2.0-bin libglib2.0-data libglib2.0-dev libglib2.0-dev-bin libglvnd0
+  libglx-dev libglx-mesa0 libglx0 libgmp-dev libgmp10 libgmpxx4ldbl
+  libgnutls-dane0 libgnutls-openssl27 libgnutls30 libgnutlsxx28 libgomp1
+  libicu-dev libicu66 libidn2-dev libisl22 libitm1 libllvm12 liblsan0
+  liblzma-dev libmount-dev libmount1 libmpc3 libmpdec2 libmpfr6 libncurses6
+  libncursesw6 libogg0 libp11-kit-dev libpcre16-3 libpcre2-16-0 libpcre2-32-0
+  libpcre2-8-0 libpcre2-dev libpcre2-posix2 libpcre3-dev libpcre32-3
+  libpcrecpp0v5 libperl5.30 libpng-dev libpng16-16 libpthread-stubs0-dev
+  libpulse-mainloop-glib0 libpulse0 libpython3-stdlib libpython3.8-minimal
+  libpython3.8-stdlib libreadline8 libselinux1-dev libsensors-config
+  libsensors5 libsepol1-dev libsigsegv2 libsndfile1 libsqlite3-0 libssl1.1
+  libstdc++-9-dev libstdc++6 libtasn1-6 libtasn1-6-dev libtinfo6 libtsan0
+  libubsan1 libunbound8 libunwind8 libuuid1 libvorbis0a libvorbisenc2
+  libvulkan1 libwayland-client0 libwayland-server0 libwrap0 libx11-6
+  libx11-data libx11-xcb1 libxau-dev libxau6 libxcb-dri2-0 libxcb-dri3-0
+  libxcb-glx0 libxcb-present0 libxcb-shm0 libxcb-sync1 libxcb-xfixes0 libxcb1
+  libxcb1-dev libxcomposite1 libxcursor1 libxdmcp-dev libxdmcp6 libxext6
+  libxfixes3 libxi6 libxinerama1 libxkbcommon0 libxml2 libxrandr2 libxrender1
+  libxshmfence1 libxxf86vm1 linux-libc-dev m4 make mime-support
+  mingw-w64-common mingw-w64-i686-dev mingw-w64-x86-64-dev nettle-dev patch
+  perl perl-base perl-modules-5.30 python3 python3-distutils python3-lib2to3
+  python3-minimal python3.8 python3.8-minimal readline-common tzdata ucf
+  uuid-dev x11proto-core-dev x11proto-dev x11proto-input-dev
+  x11proto-randr-dev x11proto-xext-dev x11proto-xinerama-dev xkb-data
+  xorg-sgml-doctools xtrans-dev xz-utils zlib1g zlib1g-dev
+Suggested packages:
+  binutils-doc bison-doc cpp-doc gcc-9-locales debian-keyring flex-doc
+  gcc-9-doc gcc-multilib manpages-dev autoconf automake libtool gdb gcc-doc
+  gettext-doc autopoint libasprintf-dev libgettextpo-dev libasound2-plugins
+  alsa-utils libasound2-doc glibc-doc locales gnupg | gnupg2 git bzr
+  freetype2-doc gdbm-l10n libgirepository1.0-dev libglib2.0-doc
+  libgdk-pixbuf2.0-bin | libgdk-pixbuf2.0-dev libxml2-utils gmp-doc
+  libgmp10-doc libmpfr-dev dns-root-data gnutls-bin gnutls-doc icu-doc
+  liblzma-doc ncurses-doc pulseaudio lm-sensors libstdc++-9-doc libx11-doc
+  libxcb-doc libxext-doc m4-doc make-doc wine wine64 ed diffutils-doc perl-doc
+  libterm-readline-gnu-perl | libterm-readline-perl-perl libb-debug-perl
+  liblocale-codes-perl python3-doc python3-tk python3-venv python3.8-venv
+  python3.8-doc binfmt-support readline-doc
+Recommended packages:
+  fakeroot gnupg | gnupg2 libalgorithm-merge-perl libfl-dev curl | wget | lynx
+  alsa-ucm-conf alsa-topology-conf manpages manpages-dev dbus
+  libfile-fcntllock-perl liblocale-gettext-perl shared-mime-info xdg-user-dirs
+  libgpm2 libpng-tools libtasn1-doc uuid-runtime mesa-vulkan-drivers
+  | vulkan-icd file netbase
+The following NEW packages will be installed:
+  binutils binutils-aarch64-linux-gnu binutils-common binutils-mingw-w64-i686
+  binutils-mingw-w64-x86-64 bison build-essential cpp cpp-9 dpkg-dev flex
+  fontconfig-config fonts-dejavu-core g++ g++-9 gcc gcc-9 gcc-9-base
+  gcc-mingw-w64-base gcc-mingw-w64-i686 gcc-mingw-w64-x86-64 gettext
+  gettext-base icu-devtools libapparmor1 libasan5 libasound2 libasound2-data
+  libasound2-dev libasyncns0 libatomic1 libbinutils libblkid-dev libbsd0
+  libc-dev-bin libc6-dev libcc1-0 libcroco3 libcrypt-dev libctf-nobfd0 libctf0
+  libdbus-1-3 libdbus-1-dev libdpkg-perl libdrm-amdgpu1 libdrm-common
+  libdrm-nouveau2 libdrm-radeon1 libdrm2 libedit2 libegl-dev libegl-mesa0
+  libegl1 libelf1 libevent-2.1-7 libexpat1 libexpat1-dev libffi-dev libflac8
+  libfontconfig1 libfontconfig1-dev libfreetype-dev libfreetype6
+  libfreetype6-dev libgbm1 libgcc-9-dev libgdbm-compat4 libgdbm6 libgl-dev
+  libgl1 libgl1-mesa-dri libglapi-mesa libglib2.0-0 libglib2.0-bin
+  libglib2.0-data libglib2.0-dev libglib2.0-dev-bin libglvnd0 libglx-dev
+  libglx-mesa0 libglx0 libgmp-dev libgmpxx4ldbl libgnutls-dane0
+  libgnutls-openssl27 libgnutls28-dev libgnutlsxx28 libgomp1 libicu-dev
+  libicu66 libidn2-dev libisl22 libitm1 libllvm12 liblsan0 liblzma-dev
+  libmount-dev libmpc3 libmpdec2 libmpfr6 libncurses-dev libogg0
+  libp11-kit-dev libpcre16-3 libpcre2-16-0 libpcre2-32-0 libpcre2-dev
+  libpcre2-posix2 libpcre3-dev libpcre32-3 libpcrecpp0v5 libperl5.30
+  libpng-dev libpng16-16 libpthread-stubs0-dev libpulse-dev
+  libpulse-mainloop-glib0 libpulse0 libpython3-stdlib libpython3.8-minimal
+  libpython3.8-stdlib libreadline8 libselinux1-dev libsensors-config
+  libsensors5 libsepol1-dev libsigsegv2 libsndfile1 libsqlite3-0 libssl1.1
+  libstdc++-9-dev libtasn1-6-dev libtsan0 libubsan1 libunbound8 libunwind-dev
+  libunwind8 libvorbis0a libvorbisenc2 libvulkan1 libwayland-client0
+  libwayland-server0 libwrap0 libx11-6 libx11-data libx11-dev libx11-xcb1
+  libxau-dev libxau6 libxcb-dri2-0 libxcb-dri3-0 libxcb-glx0 libxcb-present0
+  libxcb-shm0 libxcb-sync1 libxcb-xfixes0 libxcb1 libxcb1-dev
+  libxcomposite-dev libxcomposite1 libxcursor-dev libxcursor1 libxdmcp-dev
+  libxdmcp6 libxext-dev libxext6 libxfixes-dev libxfixes3 libxi-dev libxi6
+  libxinerama-dev libxinerama1 libxkbcommon-dev libxkbcommon0 libxml2
+  libxml2-dev libxrandr-dev libxrandr2 libxrender-dev libxrender1
+  libxshmfence1 libxxf86vm1 linux-libc-dev m4 make mime-support
+  mingw-w64-common mingw-w64-i686-dev mingw-w64-x86-64-dev nettle-dev patch
+  perl perl-modules-5.30 pkg-config python3 python3-distutils python3-lib2to3
+  python3-minimal python3.8 python3.8-minimal readline-common tzdata ucf
+  uuid-dev x11proto-core-dev x11proto-dev x11proto-input-dev
+  x11proto-randr-dev x11proto-xext-dev x11proto-xinerama-dev xkb-data
+  xorg-sgml-doctools xtrans-dev xz-utils zlib1g-dev
+The following packages will be upgraded:
+  gcc-10-base libblkid1 libc6 libgcc-s1 libgmp10 libgnutls30 libmount1
+  libncurses6 libncursesw6 libpcre2-8-0 libstdc++6 libtasn1-6 libtinfo6
+  libuuid1 perl-base zlib1g
+16 upgraded, 215 newly installed, 0 to remove and 29 not upgraded.
+Need to get 205 MB of archives.
+After this operation, 1976 MB of additional disk space will be used.
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/perl/perl-base_5.30.0-9ubuntu0.5_arm64.deb' perl-base_5.30.0-9ubuntu0.5_arm64.deb 1392072 MD5Sum:92cf91524ecda8455e3c9441e13f2e31
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10/gcc-10-base_10.5.0-1ubuntu1~20.04_arm64.deb' gcc-10-base_10.5.0-1ubuntu1~20.04_arm64.deb 20780 MD5Sum:81f27b403a6571911d848f861e4552dd
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10/libgcc-s1_10.5.0-1ubuntu1~20.04_arm64.deb' libgcc-s1_10.5.0-1ubuntu1~20.04_arm64.deb 34596 MD5Sum:e9c46ddc48798633884aa71463c73e6e
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10/libstdc++6_10.5.0-1ubuntu1~20.04_arm64.deb' libstdc++6_10.5.0-1ubuntu1~20.04_arm64.deb 461192 MD5Sum:0a77803504181fc77a54c6a992cbff58
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/glibc/libc6_2.31-0ubuntu9.18_arm64.deb' libc6_2.31-0ubuntu9.18_arm64.deb 2277572 MD5Sum:6b1cf9363397351db6c43ff729a7db6c
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/o/openssl/libssl1.1_1.1.1f-1ubuntu2.24_arm64.deb' libssl1.1_1.1.1f-1ubuntu2.24_arm64.deb 1159156 MD5Sum:a804de65a8988dc9a156fe8f60729c42
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/python3.8/libpython3.8-minimal_3.8.10-0ubuntu1~20.04.18_arm64.deb' libpython3.8-minimal_3.8.10-0ubuntu1~20.04.18_arm64.deb 717424 MD5Sum:71c1615e7a94faa21c041d42bba6c9a3
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/e/expat/libexpat1_2.2.9-1ubuntu0.8_arm64.deb' libexpat1_2.2.9-1ubuntu0.8_arm64.deb 63000 MD5Sum:b74008cc3ebccef43b7175c5e10edc3e
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/z/zlib/zlib1g_1.2.11.dfsg-2ubuntu1.5_arm64.deb' zlib1g_1%3a1.2.11.dfsg-2ubuntu1.5_arm64.deb 51564 MD5Sum:400aa6d207b86f1ff6199795a9ace5b6
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/python3.8/python3.8-minimal_3.8.10-0ubuntu1~20.04.18_arm64.deb' python3.8-minimal_3.8.10-0ubuntu1~20.04.18_arm64.deb 1828904 MD5Sum:68f39b422020d849f900403557da7a49
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/python3-defaults/python3-minimal_3.8.2-0ubuntu2_arm64.deb' python3-minimal_3.8.2-0ubuntu2_arm64.deb 23560 MD5Sum:0478297efb6cfa63984502a8bfdf3444
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/m/mime-support/mime-support_3.64ubuntu1_all.deb' mime-support_3.64ubuntu1_all.deb 30596 MD5Sum:2462b3c6b0c8148bd9d5ed229f6d2c64
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/m/mpdecimal/libmpdec2_2.4.2-3_arm64.deb' libmpdec2_2.4.2-3_arm64.deb 79600 MD5Sum:feb2e6d9ce62fc934916f18b28412ce5
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/n/ncurses/libncurses6_6.2-0ubuntu2.1_arm64.deb' libncurses6_6.2-0ubuntu2.1_arm64.deb 91848 MD5Sum:7115d7dbfb167792f2af254ab3d9e4ce
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/n/ncurses/libncursesw6_6.2-0ubuntu2.1_arm64.deb' libncursesw6_6.2-0ubuntu2.1_arm64.deb 120268 MD5Sum:4d00bd890b8a5529e31b41a9f281f50b
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/n/ncurses/libtinfo6_6.2-0ubuntu2.1_arm64.deb' libtinfo6_6.2-0ubuntu2.1_arm64.deb 82064 MD5Sum:2bb810f677aeb9365ca7aac52ecb034a
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/r/readline/readline-common_8.0-4_all.deb' readline-common_8.0-4_all.deb 53492 MD5Sum:df3bdd61df336b466f7e32c7404b7e9a
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/r/readline/libreadline8_8.0-4_arm64.deb' libreadline8_8.0-4_arm64.deb 123152 MD5Sum:1fefd2f574dcdebe8006094e704bcc95
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/s/sqlite3/libsqlite3-0_3.31.1-4ubuntu0.7_arm64.deb' libsqlite3-0_3.31.1-4ubuntu0.7_arm64.deb 506464 MD5Sum:8a449289f43f99dd06262267b06032a7
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/u/util-linux/libuuid1_2.34-0.1ubuntu9.6_arm64.deb' libuuid1_2.34-0.1ubuntu9.6_arm64.deb 19400 MD5Sum:a64daf6840ead13775baee7d2735d2d3
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/python3.8/libpython3.8-stdlib_3.8.10-0ubuntu1~20.04.18_arm64.deb' libpython3.8-stdlib_3.8.10-0ubuntu1~20.04.18_arm64.deb 1649648 MD5Sum:6ce1724460e216ed041352936cf29215
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/python3.8/python3.8_3.8.10-0ubuntu1~20.04.18_arm64.deb' python3.8_3.8.10-0ubuntu1~20.04.18_arm64.deb 386744 MD5Sum:b735d60a7446e4a48c8c18cb52563127
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/python3-defaults/libpython3-stdlib_3.8.2-0ubuntu2_arm64.deb' libpython3-stdlib_3.8.2-0ubuntu2_arm64.deb 7068 MD5Sum:18fe4dbe2eb9528c8ddc2263f092563a
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/python3-defaults/python3_3.8.2-0ubuntu2_arm64.deb' python3_3.8.2-0ubuntu2_arm64.deb 47616 MD5Sum:543403eafe94bfc6b749c0eebe78f97c
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libs/libsigsegv/libsigsegv2_2.12-2_arm64.deb' libsigsegv2_2.12-2_arm64.deb 13336 MD5Sum:af0e1277786a05d5f6214644b77e5a1d
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/m/m4/m4_1.4.18-4_arm64.deb' m4_1.4.18-4_arm64.deb 194068 MD5Sum:0337acae66e300aaeb1a52bba337372b
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/f/flex/flex_2.6.4-6.2_arm64.deb' flex_2.6.4-6.2_arm64.deb 306784 MD5Sum:7d0c3d7c3a61f00da709162369905067
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/perl/perl-modules-5.30_5.30.0-9ubuntu0.5_all.deb' perl-modules-5.30_5.30.0-9ubuntu0.5_all.deb 2738632 MD5Sum:efddaa7eaff10ca8c21609a5dfd657c8
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gdbm/libgdbm6_1.18.1-5_arm64.deb' libgdbm6_1.18.1-5_arm64.deb 26396 MD5Sum:db36ba24af8f44842ddfe30793b7faaa
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gdbm/libgdbm-compat4_1.18.1-5_arm64.deb' libgdbm-compat4_1.18.1-5_arm64.deb 6040 MD5Sum:c46e06e4116889da106317c91e9e9b20
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/perl/libperl5.30_5.30.0-9ubuntu0.5_arm64.deb' libperl5.30_5.30.0-9ubuntu0.5_arm64.deb 3763296 MD5Sum:b11f5d405ecfb994c91c0a66e8d132de
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/perl/perl_5.30.0-9ubuntu0.5_arm64.deb' perl_5.30.0-9ubuntu0.5_arm64.deb 224128 MD5Sum:cae205e054456a334c7603d591a502ef
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/u/util-linux/libblkid1_2.34-0.1ubuntu9.6_arm64.deb' libblkid1_2.34-0.1ubuntu9.6_arm64.deb 128748 MD5Sum:d407731ede814a4aa69dc2505af431e7
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/u/util-linux/libmount1_2.34-0.1ubuntu9.6_arm64.deb' libmount1_2.34-0.1ubuntu9.6_arm64.deb 139600 MD5Sum:c228f90b382573f05f646cbb0c0d2c0b
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/pcre2/libpcre2-8-0_10.34-7ubuntu0.1_arm64.deb' libpcre2-8-0_10.34-7ubuntu0.1_arm64.deb 170340 MD5Sum:3cdc5ef75f13c205db3302e92f6757f4
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gmp/libgmp10_6.2.0+dfsg-4ubuntu0.1_arm64.deb' libgmp10_2%3a6.2.0+dfsg-4ubuntu0.1_arm64.deb 217624 MD5Sum:88525965de854a46a5acaf862496a959
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libt/libtasn1-6/libtasn1-6_4.16.0-2ubuntu0.1_arm64.deb' libtasn1-6_4.16.0-2ubuntu0.1_arm64.deb 36968 MD5Sum:de67cfdcd2dbcfd16b55b4b684de7a66
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gnutls28/libgnutls30_3.6.13-2ubuntu1.12_arm64.deb' libgnutls30_3.6.13-2ubuntu1.12_arm64.deb 753496 MD5Sum:db3d123162b27d0d795d2451da06f057
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/a/apparmor/libapparmor1_2.13.3-7ubuntu5.4_arm64.deb' libapparmor1_2.13.3-7ubuntu5.4_arm64.deb 34904 MD5Sum:b909510d76467f161d24ccb11abf3fc5
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libb/libbsd/libbsd0_0.10.0-1_arm64.deb' libbsd0_0.10.0-1_arm64.deb 43736 MD5Sum:3603623835c0493328a1e5efaaa8dfbc
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/d/dbus/libdbus-1-3_1.12.16-2ubuntu2.3_arm64.deb' libdbus-1-3_1.12.16-2ubuntu2.3_arm64.deb 169260 MD5Sum:53653e9d975839bcef4f691928d9a12c
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/e/elfutils/libelf1_0.176-1.1ubuntu0.1_arm64.deb' libelf1_0.176-1.1ubuntu0.1_arm64.deb 44396 MD5Sum:20fc5a1d494b9743474d86f76bae8542
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/glib2.0/libglib2.0-0_2.64.6-1~ubuntu20.04.9_arm64.deb' libglib2.0-0_2.64.6-1~ubuntu20.04.9_arm64.deb 1201064 MD5Sum:379ce6a22327c7ed56e0814f158fd61a
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/glib2.0/libglib2.0-data_2.64.6-1~ubuntu20.04.9_all.deb' libglib2.0-data_2.64.6-1~ubuntu20.04.9_all.deb 5836 MD5Sum:88aa74280b6eb4632a5352cd079e5205
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/t/tzdata/tzdata_2025b-0ubuntu0.20.04.1_all.deb' tzdata_2025b-0ubuntu0.20.04.1_all.deb 300012 MD5Sum:2a4c9d4a5846163370f4fd6287d85470
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/i/icu/libicu66_66.1-2ubuntu2.1_arm64.deb' libicu66_66.1-2ubuntu2.1_arm64.deb 8359564 MD5Sum:8df73eb6c4ee11c5e45d1dae405e7773
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxml2/libxml2_2.9.10+dfsg-5ubuntu0.20.04.10_arm64.deb' libxml2_2.9.10+dfsg-5ubuntu0.20.04.10_arm64.deb 571820 MD5Sum:40e95c5f7d779652fa4e4fd891c8ed6e
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/u/ucf/ucf_3.0038+nmu1_all.deb' ucf_3.0038+nmu1_all.deb 51620 MD5Sum:4f9b6de36dce0fc25483ab8d098dd5a9
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/x/xkeyboard-config/xkb-data_2.29-2_all.deb' xkb-data_2.29-2_all.deb 348648 MD5Sum:4ec5c51b100981403888c7c3c08bfd5f
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/x/xz-utils/xz-utils_5.2.4-1ubuntu1.1_arm64.deb' xz-utils_5.2.4-1ubuntu1.1_arm64.deb 81368 MD5Sum:386f19b2a047a9942069554bc88fa2c9
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gettext/gettext-base_0.19.8.1-10build1_arm64.deb' gettext-base_0.19.8.1-10build1_arm64.deb 48160 MD5Sum:3303961444ce493eebe139b1ac0a4f67
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libd/libdrm/libdrm-common_2.4.107-8ubuntu1~20.04.2_all.deb' libdrm-common_2.4.107-8ubuntu1~20.04.2_all.deb 5396 MD5Sum:0411887d9fa6b22457891fd478a6dc8c
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libd/libdrm/libdrm2_2.4.107-8ubuntu1~20.04.2_arm64.deb' libdrm2_2.4.107-8ubuntu1~20.04.2_arm64.deb 33940 MD5Sum:55b274e4d71e3898b161ea86f789f29a
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libe/libedit/libedit2_3.1-20191231-1_arm64.deb' libedit2_3.1-20191231-1_arm64.deb 82724 MD5Sum:10fab915c9e3c5bd5ac2a2cb80da7fb9
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libp/libpng1.6/libpng16-16_1.6.37-2_arm64.deb' libpng16-16_1.6.37-2_arm64.deb 173524 MD5Sum:b3e8d85f27cec8f023a7e291b31d5fab
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxau/libxau6_1.0.9-0ubuntu1_arm64.deb' libxau6_1%3a1.0.9-0ubuntu1_arm64.deb 7356 MD5Sum:778330b2b0b397dd782751e54288304a
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxdmcp/libxdmcp6_1.1.3-0ubuntu1_arm64.deb' libxdmcp6_1%3a1.1.3-0ubuntu1_arm64.deb 10272 MD5Sum:1a87759bc2d4199db6514afbe46057ba
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxcb/libxcb1_1.14-2_arm64.deb' libxcb1_1.14-2_arm64.deb 42988 MD5Sum:16b9dc33cdb8d34cc3de05579f500f64
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libx11/libx11-data_1.6.9-2ubuntu1.6_all.deb' libx11-data_2%3a1.6.9-2ubuntu1.6_all.deb 113552 MD5Sum:08354bdaf6afb83fe9893339b0ad8224
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libx11/libx11-6_1.6.9-2ubuntu1.6_arm64.deb' libx11-6_2%3a1.6.9-2ubuntu1.6_arm64.deb 553708 MD5Sum:baa4177a524e2b703c65446da24e8d5e
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxext/libxext6_1.3.4-0ubuntu1_arm64.deb' libxext6_2%3a1.3.4-0ubuntu1_arm64.deb 27656 MD5Sum:300f94cc48e2bef0c26682031a354e97
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/b/binutils/binutils-common_2.34-6ubuntu1.11_arm64.deb' binutils-common_2.34-6ubuntu1.11_arm64.deb 207852 MD5Sum:e1db171393405daf56b497c42917dd41
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/b/binutils/libbinutils_2.34-6ubuntu1.11_arm64.deb' libbinutils_2.34-6ubuntu1.11_arm64.deb 474740 MD5Sum:3146904eeecb981f3cd83a758cb89c32
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/b/binutils/libctf-nobfd0_2.34-6ubuntu1.11_arm64.deb' libctf-nobfd0_2.34-6ubuntu1.11_arm64.deb 44848 MD5Sum:21f991ee0b5d6e01107756c81f657ef7
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/b/binutils/libctf0_2.34-6ubuntu1.11_arm64.deb' libctf0_2.34-6ubuntu1.11_arm64.deb 43224 MD5Sum:2ecad3477e7522c70e46d91c1116e409
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/b/binutils/binutils-aarch64-linux-gnu_2.34-6ubuntu1.11_arm64.deb' binutils-aarch64-linux-gnu_2.34-6ubuntu1.11_arm64.deb 1985644 MD5Sum:6d379674780ae775b5d026a4025cdb61
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/b/binutils/binutils_2.34-6ubuntu1.11_arm64.deb' binutils_2.34-6ubuntu1.11_arm64.deb 3356 MD5Sum:a136b46f1ffa13b952885c89ca4f6f4d
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/b/bison/bison_3.5.1+dfsg-1_arm64.deb' bison_2%3a3.5.1+dfsg-1_arm64.deb 639808 MD5Sum:fedcf16dfd56215ccdbb2e4ae77f8f94
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/glibc/libc-dev-bin_2.31-0ubuntu9.18_arm64.deb' libc-dev-bin_2.31-0ubuntu9.18_arm64.deb 64132 MD5Sum:6d8cfd6f887124f93e6d9b3e66cb6e8f
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/l/linux/linux-libc-dev_5.4.0-216.236_arm64.deb' linux-libc-dev_5.4.0-216.236_arm64.deb 1090820 MD5Sum:7153509e0cb5a71d833ba1810a3753bd
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxcrypt/libcrypt-dev_4.4.10-10ubuntu4_arm64.deb' libcrypt-dev_1%3a4.4.10-10ubuntu4_arm64.deb 110804 MD5Sum:e7b9c19b2315949aa7898e2cab9fd063
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/glibc/libc6-dev_2.31-0ubuntu9.18_arm64.deb' libc6-dev_2.31-0ubuntu9.18_arm64.deb 2068712 MD5Sum:88f16a53da2415ee57c41dd4cc108e60
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-9/gcc-9-base_9.4.0-1ubuntu1~20.04.2_arm64.deb' gcc-9-base_9.4.0-1ubuntu1~20.04.2_arm64.deb 18904 MD5Sum:06454a40cafa5ba0f56f2465b05460e6
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/i/isl/libisl22_0.22.1-1_arm64.deb' libisl22_0.22.1-1_arm64.deb 536956 MD5Sum:7e6708e9b6fd8247d510dd4f8dcff13f
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/m/mpfr4/libmpfr6_4.0.2-1_arm64.deb' libmpfr6_4.0.2-1_arm64.deb 212068 MD5Sum:1a80462aee38bdb25445b73fb73794e5
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/m/mpclib3/libmpc3_1.1.0-1_arm64.deb' libmpc3_1.1.0-1_arm64.deb 37156 MD5Sum:2dc56049a096bfa7027b40a37a017480
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-9/cpp-9_9.4.0-1ubuntu1~20.04.2_arm64.deb' cpp-9_9.4.0-1ubuntu1~20.04.2_arm64.deb 5985420 MD5Sum:a5ee5639c00fb4284b6cbab92d80f14b
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-defaults/cpp_9.3.0-1ubuntu2_arm64.deb' cpp_4%3a9.3.0-1ubuntu2_arm64.deb 27592 MD5Sum:988501e01678c75921342807dfd86cf5
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10/libcc1-0_10.5.0-1ubuntu1~20.04_arm64.deb' libcc1-0_10.5.0-1ubuntu1~20.04_arm64.deb 46248 MD5Sum:0b83e4fd625a65597fa4226649365fe3
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10/libgomp1_10.5.0-1ubuntu1~20.04_arm64.deb' libgomp1_10.5.0-1ubuntu1~20.04_arm64.deb 93512 MD5Sum:9db952046ae325cababd4e5d642cab7d
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10/libitm1_10.5.0-1ubuntu1~20.04_arm64.deb' libitm1_10.5.0-1ubuntu1~20.04_arm64.deb 24068 MD5Sum:7ebd8917d8dd1593fbba511729753459
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10/libatomic1_10.5.0-1ubuntu1~20.04_arm64.deb' libatomic1_10.5.0-1ubuntu1~20.04_arm64.deb 9808 MD5Sum:49886fd5e2d7fd098ff04de26b006821
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-9/libasan5_9.4.0-1ubuntu1~20.04.2_arm64.deb' libasan5_9.4.0-1ubuntu1~20.04.2_arm64.deb 2689592 MD5Sum:25bd97cec6a388cde6285ec287c24efd
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10/liblsan0_10.5.0-1ubuntu1~20.04_arm64.deb' liblsan0_10.5.0-1ubuntu1~20.04_arm64.deb 800424 MD5Sum:017418d68cb00930c3095bb33d17d2c4
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10/libtsan0_10.5.0-1ubuntu1~20.04_arm64.deb' libtsan0_10.5.0-1ubuntu1~20.04_arm64.deb 1972040 MD5Sum:089caac6494cd0a3b31779a6f99dc99f
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-10/libubsan1_10.5.0-1ubuntu1~20.04_arm64.deb' libubsan1_10.5.0-1ubuntu1~20.04_arm64.deb 765316 MD5Sum:ebf7a56047d98fdb4e03518e550425bc
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-9/libgcc-9-dev_9.4.0-1ubuntu1~20.04.2_arm64.deb' libgcc-9-dev_9.4.0-1ubuntu1~20.04.2_arm64.deb 920440 MD5Sum:34deaf5aa9ce053750469ed9fd6618f1
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-9/gcc-9_9.4.0-1ubuntu1~20.04.2_arm64.deb' gcc-9_9.4.0-1ubuntu1~20.04.2_arm64.deb 6735540 MD5Sum:9efd30ccf167cadbd6bacc8c5fd26528
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-defaults/gcc_9.3.0-1ubuntu2_arm64.deb' gcc_4%3a9.3.0-1ubuntu2_arm64.deb 5228 MD5Sum:99276bb383bb7fdacfa82c49015d7902
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-9/libstdc++-9-dev_9.4.0-1ubuntu1~20.04.2_arm64.deb' libstdc++-9-dev_9.4.0-1ubuntu1~20.04.2_arm64.deb 1687112 MD5Sum:826221fc8ae9dad5ddfee1a6c45d00aa
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-9/g++-9_9.4.0-1ubuntu1~20.04.2_arm64.deb' g++-9_9.4.0-1ubuntu1~20.04.2_arm64.deb 6842740 MD5Sum:228d7ae538951b60247afb2949d6d2a9
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gcc-defaults/g++_9.3.0-1ubuntu2_arm64.deb' g++_4%3a9.3.0-1ubuntu2_arm64.deb 1592 MD5Sum:b1d72d814f5db8680e62b434748444d4
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/m/make-dfsg/make_4.2.1-1.2_arm64.deb' make_4.2.1-1.2_arm64.deb 153664 MD5Sum:dbad5d0ad0d8b721328032756c3068e0
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/d/dpkg/libdpkg-perl_1.19.7ubuntu3.2_all.deb' libdpkg-perl_1.19.7ubuntu3.2_all.deb 230764 MD5Sum:ce98a0ad3b3a4e9159c3ce579ca2aede
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/patch/patch_2.7.6-6_arm64.deb' patch_2.7.6-6_arm64.deb 98088 MD5Sum:b738e68cdddee3276ca646954693de7c
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/d/dpkg/dpkg-dev_1.19.7ubuntu3.2_all.deb' dpkg-dev_1.19.7ubuntu3.2_all.deb 678936 MD5Sum:a30304465ab14f0eeba5cea80279f111
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/b/build-essential/build-essential_12.8ubuntu1.1_arm64.deb' build-essential_12.8ubuntu1.1_arm64.deb 4664 MD5Sum:8d83631de4cd78f84998424739e2c8ed
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/f/fonts-dejavu/fonts-dejavu-core_2.37-1_all.deb' fonts-dejavu-core_2.37-1_all.deb 1040712 MD5Sum:be036b423d84ce26700dacdbdcddf7b5
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/f/fontconfig/fontconfig-config_2.13.1-2ubuntu3_all.deb' fontconfig-config_2.13.1-2ubuntu3_all.deb 28780 MD5Sum:962b743a3bbf95b70d8e439c97445c1b
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libc/libcroco/libcroco3_0.6.13-1ubuntu0.1_arm64.deb' libcroco3_0.6.13-1ubuntu0.1_arm64.deb 77168 MD5Sum:282cec342e72d58582b893dfecd1077d
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gettext/gettext_0.19.8.1-10build1_arm64.deb' gettext_0.19.8.1-10build1_arm64.deb 850480 MD5Sum:b6424f71aa477e6999ac2452452345e4
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/i/icu/icu-devtools_66.1-2ubuntu2.1_arm64.deb' icu-devtools_66.1-2ubuntu2.1_arm64.deb 175516 MD5Sum:8f9ca3322ec343e0b38a2546efd5b41d
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/a/alsa-lib/libasound2-data_1.2.2-2.1ubuntu2.5_all.deb' libasound2-data_1.2.2-2.1ubuntu2.5_all.deb 20104 MD5Sum:6ead95d746e711adaaf3667053a14474
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/a/alsa-lib/libasound2_1.2.2-2.1ubuntu2.5_arm64.deb' libasound2_1.2.2-2.1ubuntu2.5_arm64.deb 304140 MD5Sum:810e80f2b8944218028358d8cfda2d73
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/a/alsa-lib/libasound2-dev_1.2.2-2.1ubuntu2.5_arm64.deb' libasound2-dev_1.2.2-2.1ubuntu2.5_arm64.deb 103644 MD5Sum:1169b9b5fd475d648e554ab82bd269a8
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/liba/libasyncns/libasyncns0_0.8-6_arm64.deb' libasyncns0_0.8-6_arm64.deb 10862 MD5Sum:d91daba456cc21610d6c3485f4dc9510
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/pkg-config/pkg-config_0.29.1-0ubuntu4_arm64.deb' pkg-config_0.29.1-0ubuntu4_arm64.deb 43832 MD5Sum:fd74e9ad3365935fa06c19d0a3e8bb5a
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/d/dbus/libdbus-1-dev_1.12.16-2ubuntu2.3_arm64.deb' libdbus-1-dev_1.12.16-2ubuntu2.3_arm64.deb 164632 MD5Sum:e565b2a636aec40e2ff2eba0bc86f6a3
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libd/libdrm/libdrm-amdgpu1_2.4.107-8ubuntu1~20.04.2_arm64.deb' libdrm-amdgpu1_2.4.107-8ubuntu1~20.04.2_arm64.deb 17928 MD5Sum:e14348d81bb14a6c421f5825ec11756e
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libd/libdrm/libdrm-nouveau2_2.4.107-8ubuntu1~20.04.2_arm64.deb' libdrm-nouveau2_2.4.107-8ubuntu1~20.04.2_arm64.deb 15900 MD5Sum:7bb10177a34f3af6656317db0a26eb4b
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libd/libdrm/libdrm-radeon1_2.4.107-8ubuntu1~20.04.2_arm64.deb' libdrm-radeon1_2.4.107-8ubuntu1~20.04.2_arm64.deb 18724 MD5Sum:7368fe4e2b792a514e7b2b35f38d3e9c
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libg/libglvnd/libglvnd0_1.3.2-1~ubuntu0.20.04.2_arm64.deb' libglvnd0_1.3.2-1~ubuntu0.20.04.2_arm64.deb 42576 MD5Sum:15fbc38a626ebf9fc284e864f5d6f8e9
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/w/wayland/libwayland-server0_1.18.0-1ubuntu0.1_arm64.deb' libwayland-server0_1.18.0-1ubuntu0.1_arm64.deb 30284 MD5Sum:bb172aac08887a7daadfc54fa4af87af
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/m/mesa/libgbm1_21.2.6-0ubuntu0.1~20.04.2_arm64.deb' libgbm1_21.2.6-0ubuntu0.1~20.04.2_arm64.deb 27912 MD5Sum:8af8685f4397cfcbb0376c06b25e8b35
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/m/mesa/libglapi-mesa_21.2.6-0ubuntu0.1~20.04.2_arm64.deb' libglapi-mesa_21.2.6-0ubuntu0.1~20.04.2_arm64.deb 52160 MD5Sum:fe84daad15d956b405279cdba516efa9
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/w/wayland/libwayland-client0_1.18.0-1ubuntu0.1_arm64.deb' libwayland-client0_1.18.0-1ubuntu0.1_arm64.deb 23128 MD5Sum:8ac38f74e1c77cbbc2010d7a603c4cec
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libx11/libx11-xcb1_1.6.9-2ubuntu1.6_arm64.deb' libx11-xcb1_2%3a1.6.9-2ubuntu1.6_arm64.deb 9468 MD5Sum:4927abd5cc6ee32265b7731eeed09ae4
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxcb/libxcb-dri2-0_1.14-2_arm64.deb' libxcb-dri2-0_1.14-2_arm64.deb 6872 MD5Sum:f8207f2e94315ffbe36dfe451bc7f275
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxcb/libxcb-dri3-0_1.14-2_arm64.deb' libxcb-dri3-0_1.14-2_arm64.deb 6556 MD5Sum:f442a5c83be8a2cee0a1ef9257056d40
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxcb/libxcb-present0_1.14-2_arm64.deb' libxcb-present0_1.14-2_arm64.deb 5484 MD5Sum:9c8e38a5a4951567ba93350aefbec34a
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxcb/libxcb-sync1_1.14-2_arm64.deb' libxcb-sync1_1.14-2_arm64.deb 8824 MD5Sum:d21893a54f86729aa8cf978ecf3740aa
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxcb/libxcb-xfixes0_1.14-2_arm64.deb' libxcb-xfixes0_1.14-2_arm64.deb 9268 MD5Sum:afde8b5942277f163c775d1c56e260c1
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxshmfence/libxshmfence1_1.3-1_arm64.deb' libxshmfence1_1.3-1_arm64.deb 4868 MD5Sum:4bdad15e463a4c3b7732f960c3ad0f73
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/m/mesa/libegl-mesa0_21.2.6-0ubuntu0.1~20.04.2_arm64.deb' libegl-mesa0_21.2.6-0ubuntu0.1~20.04.2_arm64.deb 89368 MD5Sum:18f5c3af5e4a9f2c763dc26b0d319ab9
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libg/libglvnd/libegl1_1.3.2-1~ubuntu0.20.04.2_arm64.deb' libegl1_1.3.2-1~ubuntu0.20.04.2_arm64.deb 31156 MD5Sum:b97ef0f9ac034b2586c80c088ecf4145
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxcb/libxcb-glx0_1.14-2_arm64.deb' libxcb-glx0_1.14-2_arm64.deb 22144 MD5Sum:b34418d1d6f466272e686ccd94be0264
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxcb/libxcb-shm0_1.14-2_arm64.deb' libxcb-shm0_1.14-2_arm64.deb 5560 MD5Sum:b1c6e2819a29ba642d11215877db1ae6
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxfixes/libxfixes3_5.0.3-2_arm64.deb' libxfixes3_1%3a5.0.3-2_arm64.deb 10764 MD5Sum:3ce2c8c27a7a38572e334bdbee00cb19
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxxf86vm/libxxf86vm1_1.1.4-1build1_arm64.deb' libxxf86vm1_1%3a1.1.4-1build1_arm64.deb 9908 MD5Sum:ee6db00f381f28d6694f467dac07ba4e
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/l/llvm-toolchain-12/libllvm12_12.0.0-3ubuntu1~20.04.5_arm64.deb' libllvm12_1%3a12.0.0-3ubuntu1~20.04.5_arm64.deb 16084768 MD5Sum:f0024d91beb0b207c34e0788102ec35f
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/l/lm-sensors/libsensors-config_3.6.0-2ubuntu1.1_all.deb' libsensors-config_1%3a3.6.0-2ubuntu1.1_all.deb 6052 MD5Sum:19c315207caada108980db07e3257063
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/l/lm-sensors/libsensors5_3.6.0-2ubuntu1.1_arm64.deb' libsensors5_1%3a3.6.0-2ubuntu1.1_arm64.deb 26040 MD5Sum:37c58a23a7957894fcf6132c38ccceef
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/v/vulkan-loader/libvulkan1_1.2.131.2-1_arm64.deb' libvulkan1_1.2.131.2-1_arm64.deb 89844 MD5Sum:eaeb27d83471707018d0c3cc071eeafe
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/m/mesa/libgl1-mesa-dri_21.2.6-0ubuntu0.1~20.04.2_arm64.deb' libgl1-mesa-dri_21.2.6-0ubuntu0.1~20.04.2_arm64.deb 7595120 MD5Sum:0845962f077a62d516459f8e7ca27eaf
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/m/mesa/libglx-mesa0_21.2.6-0ubuntu0.1~20.04.2_arm64.deb' libglx-mesa0_21.2.6-0ubuntu0.1~20.04.2_arm64.deb 137680 MD5Sum:d755705e11b9cbc2790ddf4068a1a2c4
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libg/libglvnd/libglx0_1.3.2-1~ubuntu0.20.04.2_arm64.deb' libglx0_1.3.2-1~ubuntu0.20.04.2_arm64.deb 29012 MD5Sum:7d006de49847e6bd449d42f614624d00
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libg/libglvnd/libgl1_1.3.2-1~ubuntu0.20.04.2_arm64.deb' libgl1_1.3.2-1~ubuntu0.20.04.2_arm64.deb 88648 MD5Sum:9e1fb35f052bbe57e41501c972490c9d
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/x/xorg-sgml-doctools/xorg-sgml-doctools_1.11-1_all.deb' xorg-sgml-doctools_1%3a1.11-1_all.deb 12926 MD5Sum:50af86828f27de21901ac305fcbcd97a
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/x/xorgproto/x11proto-dev_2019.2-1ubuntu1_all.deb' x11proto-dev_2019.2-1ubuntu1_all.deb 593592 MD5Sum:14c605004f0a3597dc21fa10bfe4e129
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/x/xorgproto/x11proto-core-dev_2019.2-1ubuntu1_all.deb' x11proto-core-dev_2019.2-1ubuntu1_all.deb 2620 MD5Sum:c87f05bce99517e1b3e0fd24dcedf636
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxau/libxau-dev_1.0.9-0ubuntu1_arm64.deb' libxau-dev_1%3a1.0.9-0ubuntu1_arm64.deb 9728 MD5Sum:289b8a8490eb702dafc76a96fadd0c5d
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxdmcp/libxdmcp-dev_1.1.3-0ubuntu1_arm64.deb' libxdmcp-dev_1%3a1.1.3-0ubuntu1_arm64.deb 25108 MD5Sum:c9d9176c053f7bd343e18bd128cf2e1a
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/x/xtrans/xtrans-dev_1.4.0-1_all.deb' xtrans-dev_1.4.0-1_all.deb 68900 MD5Sum:5411362f7caeccc1185750f3a1a508ee
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libp/libpthread-stubs/libpthread-stubs0-dev_0.4-1_arm64.deb' libpthread-stubs0-dev_0.4-1_arm64.deb 5376 MD5Sum:93dbd5c581ed753f34c2cc84253d3069
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxcb/libxcb1-dev_1.14-2_arm64.deb' libxcb1-dev_1.14-2_arm64.deb 80928 MD5Sum:3928f69de7670a907f1507a233189525
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libx11/libx11-dev_1.6.9-2ubuntu1.6_arm64.deb' libx11-dev_2%3a1.6.9-2ubuntu1.6_arm64.deb 635988 MD5Sum:e78607367133d10a6fa1beeed9957068
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libg/libglvnd/libglx-dev_1.3.2-1~ubuntu0.20.04.2_arm64.deb' libglx-dev_1.3.2-1~ubuntu0.20.04.2_arm64.deb 13972 MD5Sum:9c21531a2b1cbdb352bf42fb40e71417
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libg/libglvnd/libgl-dev_1.3.2-1~ubuntu0.20.04.2_arm64.deb' libgl-dev_1.3.2-1~ubuntu0.20.04.2_arm64.deb 97812 MD5Sum:83d2c19d644557478d9fa6c4e9d7ae41
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libg/libglvnd/libegl-dev_1.3.2-1~ubuntu0.20.04.2_arm64.deb' libegl-dev_1.3.2-1~ubuntu0.20.04.2_arm64.deb 17204 MD5Sum:5482b47b228ca4fa3c27010c16c5d134
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libe/libevent/libevent-2.1-7_2.1.11-stable-1_arm64.deb' libevent-2.1-7_2.1.11-stable-1_arm64.deb 125236 MD5Sum:357491b57d8a5cee659084a6a568e18e
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/e/expat/libexpat1-dev_2.2.9-1ubuntu0.8_arm64.deb' libexpat1-dev_2.2.9-1ubuntu0.8_arm64.deb 104064 MD5Sum:af3b54dd643298d1e89309bd8a6aece1
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libo/libogg/libogg0_1.3.4-0ubuntu1_arm64.deb' libogg0_1.3.4-0ubuntu1_arm64.deb 22852 MD5Sum:ac559450229ee7b2fde042b63a2b8dc7
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/f/flac/libflac8_1.3.3-1ubuntu0.2_arm64.deb' libflac8_1.3.3-1ubuntu0.2_arm64.deb 85840 MD5Sum:0c7e52b89376ce0c98bd065499458c7b
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/f/freetype/libfreetype6_2.10.1-2ubuntu0.4_arm64.deb' libfreetype6_2.10.1-2ubuntu0.4_arm64.deb 315716 MD5Sum:1d852f47bb19c4442037340ff0c70473
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/f/fontconfig/libfontconfig1_2.13.1-2ubuntu3_arm64.deb' libfontconfig1_2.13.1-2ubuntu3_arm64.deb 110740 MD5Sum:b782135df14e8c925787a2c8fae1d90f
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/z/zlib/zlib1g-dev_1.2.11.dfsg-2ubuntu1.5_arm64.deb' zlib1g-dev_1%3a1.2.11.dfsg-2ubuntu1.5_arm64.deb 153592 MD5Sum:1cd2cdd08df5482ba7e443002b59ee0c
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libp/libpng1.6/libpng-dev_1.6.37-2_arm64.deb' libpng-dev_1.6.37-2_arm64.deb 171772 MD5Sum:05d3dc4ceeee1a4893a5afb268cff79e
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/f/freetype/libfreetype-dev_2.10.1-2ubuntu0.4_arm64.deb' libfreetype-dev_2.10.1-2ubuntu0.4_arm64.deb 473164 MD5Sum:9bd5cfd6af8e5e845f3d131ae83543b4
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/f/freetype/libfreetype6-dev_2.10.1-2ubuntu0.4_arm64.deb' libfreetype6-dev_2.10.1-2ubuntu0.4_arm64.deb 9808 MD5Sum:3f7a4c7398a50794f1c9d22072fbeefd
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/u/util-linux/uuid-dev_2.34-0.1ubuntu9.6_arm64.deb' uuid-dev_2.34-0.1ubuntu9.6_arm64.deb 33872 MD5Sum:19aa086a1b3fd6611358f88f5a8cc978
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/f/fontconfig/libfontconfig1-dev_2.13.1-2ubuntu3_arm64.deb' libfontconfig1-dev_2.13.1-2ubuntu3_arm64.deb 728316 MD5Sum:5a34f5c3763d8e04f9737d25794e8872
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/glib2.0/libglib2.0-bin_2.64.6-1~ubuntu20.04.9_arm64.deb' libglib2.0-bin_2.64.6-1~ubuntu20.04.9_arm64.deb 69204 MD5Sum:6382ff7f44a01d46a932ba4b1619a265
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libf/libffi/libffi-dev_3.3-4_arm64.deb' libffi-dev_3.3-4_arm64.deb 53480 MD5Sum:d0e053bdfdaa35c8a2cd61cb2cd66ffa
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/python3-stdlib-extensions/python3-lib2to3_3.8.10-0ubuntu1~20.04_all.deb' python3-lib2to3_3.8.10-0ubuntu1~20.04_all.deb 76320 MD5Sum:9d732452c091dfdaa3e10397b1815cf9
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/python3-stdlib-extensions/python3-distutils_3.8.10-0ubuntu1~20.04_all.deb' python3-distutils_3.8.10-0ubuntu1~20.04_all.deb 141344 MD5Sum:61b20199934101c296848f5056fb1861
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/glib2.0/libglib2.0-dev-bin_2.64.6-1~ubuntu20.04.9_arm64.deb' libglib2.0-dev-bin_2.64.6-1~ubuntu20.04.9_arm64.deb 107844 MD5Sum:789f68f733e3291eb2eee29d0a83a051
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/u/util-linux/libblkid-dev_2.34-0.1ubuntu9.6_arm64.deb' libblkid-dev_2.34-0.1ubuntu9.6_arm64.deb 169440 MD5Sum:7c611912c72cac1de2f74f2530bc6328
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/u/util-linux/libmount-dev_2.34-0.1ubuntu9.6_arm64.deb' libmount-dev_2.34-0.1ubuntu9.6_arm64.deb 181260 MD5Sum:3b4b781afd85c26348095e0684532fdb
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/pcre3/libpcre16-3_8.39-12ubuntu0.1_arm64.deb' libpcre16-3_2%3a8.39-12ubuntu0.1_arm64.deb 125968 MD5Sum:ed9eb8a8ff7b3c10adf58f34a76059bb
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/pcre3/libpcre32-3_8.39-12ubuntu0.1_arm64.deb' libpcre32-3_2%3a8.39-12ubuntu0.1_arm64.deb 118664 MD5Sum:8dc877e6803834df0764245553c6232d
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/pcre3/libpcrecpp0v5_8.39-12ubuntu0.1_arm64.deb' libpcrecpp0v5_2%3a8.39-12ubuntu0.1_arm64.deb 14732 MD5Sum:34d284d178e5f6a2e7c14cf5f88ffd2a
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/pcre3/libpcre3-dev_8.39-12ubuntu0.1_arm64.deb' libpcre3-dev_2%3a8.39-12ubuntu0.1_arm64.deb 467236 MD5Sum:a5308e93bcd806af81be2fa8a8266a3e
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libs/libsepol/libsepol1-dev_3.0-1ubuntu0.1_arm64.deb' libsepol1-dev_3.0-1ubuntu0.1_arm64.deb 316116 MD5Sum:a43bf6ed2fb7d917d814fbf591a174bf
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/pcre2/libpcre2-16-0_10.34-7ubuntu0.1_arm64.deb' libpcre2-16-0_10.34-7ubuntu0.1_arm64.deb 156740 MD5Sum:9aca36570d05c96633ee7555796a5e3c
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/pcre2/libpcre2-32-0_10.34-7ubuntu0.1_arm64.deb' libpcre2-32-0_10.34-7ubuntu0.1_arm64.deb 147600 MD5Sum:ce84eef6b0a3b08a0888302457fa81fd
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/pcre2/libpcre2-posix2_10.34-7ubuntu0.1_arm64.deb' libpcre2-posix2_10.34-7ubuntu0.1_arm64.deb 5836 MD5Sum:ff046b3095d704f7e49f66862a52b0c5
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/pcre2/libpcre2-dev_10.34-7ubuntu0.1_arm64.deb' libpcre2-dev_10.34-7ubuntu0.1_arm64.deb 596968 MD5Sum:d1e8af51e714abc109169268af46df95
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libs/libselinux/libselinux1-dev_3.0-1build2_arm64.deb' libselinux1-dev_3.0-1build2_arm64.deb 152432 MD5Sum:61d70f703fe050ddb1ceb48700ad9070
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/glib2.0/libglib2.0-dev_2.64.6-1~ubuntu20.04.9_arm64.deb' libglib2.0-dev_2.64.6-1~ubuntu20.04.9_arm64.deb 1521816 MD5Sum:ccbc47a585195e9d1955ab60392ce4c2
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gmp/libgmpxx4ldbl_6.2.0+dfsg-4ubuntu0.1_arm64.deb' libgmpxx4ldbl_2%3a6.2.0+dfsg-4ubuntu0.1_arm64.deb 8836 MD5Sum:a127e9f513cc3ed4a4f119eede08e2e9
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gmp/libgmp-dev_6.2.0+dfsg-4ubuntu0.1_arm64.deb' libgmp-dev_2%3a6.2.0+dfsg-4ubuntu0.1_arm64.deb 301072 MD5Sum:67c9263a7ad25edcb2c5d8a2058cf9d2
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gnutls28/libgnutls-openssl27_3.6.13-2ubuntu1.12_arm64.deb' libgnutls-openssl27_3.6.13-2ubuntu1.12_arm64.deb 27964 MD5Sum:8bb142ba77b978b46f426145896ff5e3
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/u/unbound/libunbound8_1.9.4-2ubuntu1.11_arm64.deb' libunbound8_1.9.4-2ubuntu1.11_arm64.deb 316540 MD5Sum:d4defe69e9ea9b12df7dd7b733df0ef3
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gnutls28/libgnutls-dane0_3.6.13-2ubuntu1.12_arm64.deb' libgnutls-dane0_3.6.13-2ubuntu1.12_arm64.deb 27508 MD5Sum:4915b5070d4bcc0a52fc176b99c3a5a6
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gnutls28/libgnutlsxx28_3.6.13-2ubuntu1.12_arm64.deb' libgnutlsxx28_3.6.13-2ubuntu1.12_arm64.deb 12956 MD5Sum:b944812c42906784cdd7e7fb81738471
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libi/libidn2/libidn2-dev_2.2.0-2_arm64.deb' libidn2-dev_2.2.0-2_arm64.deb 64332 MD5Sum:f2879890217b209065f1efeca3985df5
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/p11-kit/libp11-kit-dev_0.23.20-1ubuntu0.1_arm64.deb' libp11-kit-dev_0.23.20-1ubuntu0.1_arm64.deb 65148 MD5Sum:f17476ce432e97c448956e93e8c291f4
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libt/libtasn1-6/libtasn1-6-dev_4.16.0-2ubuntu0.1_arm64.deb' libtasn1-6-dev_4.16.0-2ubuntu0.1_arm64.deb 85188 MD5Sum:45303d0b0c7a1fa4916573631fe8dca5
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/n/nettle/nettle-dev_3.5.1+really3.5.1-2ubuntu0.2_arm64.deb' nettle-dev_3.5.1+really3.5.1-2ubuntu0.2_arm64.deb 996932 MD5Sum:9fb653986672f80b50169ba87576c528
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/g/gnutls28/libgnutls28-dev_3.6.13-2ubuntu1.12_arm64.deb' libgnutls28-dev_3.6.13-2ubuntu1.12_arm64.deb 897264 MD5Sum:3178481842335b97de41c5379b5090ef
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/i/icu/libicu-dev_66.1-2ubuntu2.1_arm64.deb' libicu-dev_66.1-2ubuntu2.1_arm64.deb 9320488 MD5Sum:7221e8aaa9a44c0956b391ad4607bc50
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/n/ncurses/libncurses-dev_6.2-0ubuntu2.1_arm64.deb' libncurses-dev_6.2-0ubuntu2.1_arm64.deb 327088 MD5Sum:aa5ab81154e6015bf1c37ce6d1d64a23
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libv/libvorbis/libvorbis0a_1.3.6-2ubuntu1_arm64.deb' libvorbis0a_1.3.6-2ubuntu1_arm64.deb 79536 MD5Sum:a238e44dc233734cc707d08110b927d0
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libv/libvorbis/libvorbisenc2_1.3.6-2ubuntu1_arm64.deb' libvorbisenc2_1.3.6-2ubuntu1_arm64.deb 70476 MD5Sum:796269c96505922d859df3841172e3e2
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libs/libsndfile/libsndfile1_1.0.28-7ubuntu0.3_arm64.deb' libsndfile1_1.0.28-7ubuntu0.3_arm64.deb 162936 MD5Sum:8475ce3cb1d33ff427ac5d0d847c9c2a
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/t/tcp-wrappers/libwrap0_7.6.q-30_arm64.deb' libwrap0_7.6.q-30_arm64.deb 45668 MD5Sum:03743e521b067cbdc32febe24d93422c
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/pulseaudio/libpulse0_13.99.1-1ubuntu3.13_arm64.deb' libpulse0_1%3a13.99.1-1ubuntu3.13_arm64.deb 221964 MD5Sum:09259d8c05077dfc12abd50421ba2278
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/pulseaudio/libpulse-mainloop-glib0_13.99.1-1ubuntu3.13_arm64.deb' libpulse-mainloop-glib0_1%3a13.99.1-1ubuntu3.13_arm64.deb 11184 MD5Sum:5885085bbbfa976d431eee053e29a5b7
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/p/pulseaudio/libpulse-dev_13.99.1-1ubuntu3.13_arm64.deb' libpulse-dev_1%3a13.99.1-1ubuntu3.13_arm64.deb 72536 MD5Sum:f39d3f473b0ab7df797ee35aae9c1d93
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libu/libunwind/libunwind8_1.2.1-9ubuntu0.1_arm64.deb' libunwind8_1.2.1-9ubuntu0.1_arm64.deb 45248 MD5Sum:5485e431243037888f0b5bdfbfa6fdae
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/x/xz-utils/liblzma-dev_5.2.4-1ubuntu1.1_arm64.deb' liblzma-dev_5.2.4-1ubuntu1.1_arm64.deb 143936 MD5Sum:818d43333a4bc6fc3ea3fc4e1b44b9b9
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libu/libunwind/libunwind-dev_1.2.1-9ubuntu0.1_arm64.deb' libunwind-dev_1.2.1-9ubuntu0.1_arm64.deb 440140 MD5Sum:336218212ba0778505c2d0df50a7ccec
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxcomposite/libxcomposite1_0.4.5-1_arm64.deb' libxcomposite1_1%3a0.4.5-1_arm64.deb 6864 MD5Sum:070d44b640cf1416d70a41bc8dd7a4d1
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxfixes/libxfixes-dev_5.0.3-2_arm64.deb' libxfixes-dev_1%3a5.0.3-2_arm64.deb 11472 MD5Sum:f7d9e771b26c3893e1f5196c0606cefe
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/x/xorgproto/x11proto-xext-dev_2019.2-1ubuntu1_all.deb' x11proto-xext-dev_2019.2-1ubuntu1_all.deb 2616 MD5Sum:fd2611ca31614de934ba06cbace43962
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxext/libxext-dev_1.3.4-0ubuntu1_arm64.deb' libxext-dev_2%3a1.3.4-0ubuntu1_arm64.deb 82088 MD5Sum:bab998d667bcfa394dabdf6b5caddc1a
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxcomposite/libxcomposite-dev_0.4.5-1_arm64.deb' libxcomposite-dev_1%3a0.4.5-1_arm64.deb 9220 MD5Sum:eb1dcba7eed00d0e557214ae74baaaf9
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxrender/libxrender1_0.9.10-1_arm64.deb' libxrender1_1%3a0.9.10-1_arm64.deb 16088 MD5Sum:bc735af99800cf2014aa58b2ec4c1c44
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxcursor/libxcursor1_1.2.0-2_arm64.deb' libxcursor1_1%3a1.2.0-2_arm64.deb 19232 MD5Sum:1f2f1833507208e41856bcce3de7d51d
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxrender/libxrender-dev_0.9.10-1_arm64.deb' libxrender-dev_1%3a0.9.10-1_arm64.deb 22858 MD5Sum:2d09206560e001bcb9b455ea92504bb8
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxcursor/libxcursor-dev_1.2.0-2_arm64.deb' libxcursor-dev_1%3a1.2.0-2_arm64.deb 26728 MD5Sum:31cde09ac079c091dacc2972458cca39
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxi/libxi6_1.7.10-0ubuntu1_arm64.deb' libxi6_2%3a1.7.10-0ubuntu1_arm64.deb 28160 MD5Sum:b3ee9b268731a8794c1d40bc7a026a89
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/x/xorgproto/x11proto-input-dev_2019.2-1ubuntu1_all.deb' x11proto-input-dev_2019.2-1ubuntu1_all.deb 2628 MD5Sum:e858ef5791ce3fee51f249710376640b
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxi/libxi-dev_1.7.10-0ubuntu1_arm64.deb' libxi-dev_2%3a1.7.10-0ubuntu1_arm64.deb 185172 MD5Sum:2009c9e83e1585a081a14e8ba02953e2
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxinerama/libxinerama1_1.1.4-2_arm64.deb' libxinerama1_2%3a1.1.4-2_arm64.deb 6872 MD5Sum:273067ca95988989635d3fbb1d4f0e96
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/x/xorgproto/x11proto-xinerama-dev_2019.2-1ubuntu1_all.deb' x11proto-xinerama-dev_2019.2-1ubuntu1_all.deb 2628 MD5Sum:0df6b2e48eb1ed7cb79d640e61997064
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxinerama/libxinerama-dev_1.1.4-2_arm64.deb' libxinerama-dev_2%3a1.1.4-2_arm64.deb 7916 MD5Sum:1e1bc4c427f004790389186ab1238b9c
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxkbcommon/libxkbcommon0_0.10.0-1_arm64.deb' libxkbcommon0_0.10.0-1_arm64.deb 93008 MD5Sum:ee3fb47cda03ac28702d90cdaf78d84d
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxkbcommon/libxkbcommon-dev_0.10.0-1_arm64.deb' libxkbcommon-dev_0.10.0-1_arm64.deb 45424 MD5Sum:f6032e6420c206e8db71412ae47c859a
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxml2/libxml2-dev_2.9.10+dfsg-5ubuntu0.20.04.10_arm64.deb' libxml2-dev_2.9.10+dfsg-5ubuntu0.20.04.10_arm64.deb 692968 MD5Sum:5a83ca9d0f7879ff7fb719b7d3dddea9
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxrandr/libxrandr2_1.5.2-0ubuntu1_arm64.deb' libxrandr2_2%3a1.5.2-0ubuntu1_arm64.deb 17696 MD5Sum:1854cb48de76e2f3d82c7e0a5c9c012b
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/x/xorgproto/x11proto-randr-dev_2019.2-1ubuntu1_all.deb' x11proto-randr-dev_2019.2-1ubuntu1_all.deb 2620 MD5Sum:d37307a232e760d47a898e2c1ad68312
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/main/libx/libxrandr/libxrandr-dev_1.5.2-0ubuntu1_arm64.deb' libxrandr-dev_2%3a1.5.2-0ubuntu1_arm64.deb 24568 MD5Sum:bde6c0784f08dfc93463868e1607d92d
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/b/binutils-mingw-w64/binutils-mingw-w64-i686_2.34-5ubuntu1+8.8_arm64.deb' binutils-mingw-w64-i686_2.34-5ubuntu1+8.8_arm64.deb 2256376 MD5Sum:517cfbf1e995fa1ff82ff669d197d645
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/b/binutils-mingw-w64/binutils-mingw-w64-x86-64_2.34-5ubuntu1+8.8_arm64.deb' binutils-mingw-w64-x86-64_2.34-5ubuntu1+8.8_arm64.deb 2578948 MD5Sum:cff19ffc828fdf5ad919148f9b85fb75
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-mingw-w64/gcc-mingw-w64-base_9.3.0-7ubuntu1+22~exp1ubuntu4_arm64.deb' gcc-mingw-w64-base_9.3.0-7ubuntu1+22~exp1ubuntu4_arm64.deb 178760 MD5Sum:338a719be300f34ddfb519cc1e325a46
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/m/mingw-w64/mingw-w64-common_7.0.0-2_all.deb' mingw-w64-common_7.0.0-2_all.deb 4855052 MD5Sum:7742c421b852cbaf6502a27f3a4be46e
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/m/mingw-w64/mingw-w64-i686-dev_7.0.0-2_all.deb' mingw-w64-i686-dev_7.0.0-2_all.deb 2669256 MD5Sum:0b065176e21275d9919a34b83b1e73d3
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-mingw-w64/gcc-mingw-w64-i686_9.3.0-7ubuntu1+22~exp1ubuntu4_arm64.deb' gcc-mingw-w64-i686_9.3.0-7ubuntu1+22~exp1ubuntu4_arm64.deb 34652180 MD5Sum:24b9a7c09f1021b8c5fc524c3764cb69
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/m/mingw-w64/mingw-w64-x86-64-dev_7.0.0-2_all.deb' mingw-w64-x86-64-dev_7.0.0-2_all.deb 3557256 MD5Sum:397606dab9915c8db5be1581bb474bb8
+'http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/pool/universe/g/gcc-mingw-w64/gcc-mingw-w64-x86-64_9.3.0-7ubuntu1+22~exp1ubuntu4_arm64.deb' gcc-mingw-w64-x86-64_9.3.0-7ubuntu1+22~exp1ubuntu4_arm64.deb 34205460 MD5Sum:8e8b77ade79547fecbfdeab47e77c8cc
+RC=0

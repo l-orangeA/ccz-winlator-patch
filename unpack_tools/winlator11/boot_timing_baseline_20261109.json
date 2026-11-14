@@ -1,0 +1,23 @@
+{
+  "label": "baseline_20261109",
+  "elapsed": 82.4,
+  "marks": {
+    "wineserver": 1.6,
+    "ekd5": 7.7,
+    "title": 81.7
+  },
+  "seq": [
+    [
+      "wineserver",
+      1.6
+    ],
+    [
+      "ekd5",
+      7.7
+    ],
+    [
+      "title",
+      81.7
+    ]
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "label": "ds3",
+  "elapsed": 60.7,
+  "marks": {
+    "ws": 1.6,
+    "ekd": 6.5
+  },
+  "hwbp_last": "",
+  "hw_rows": [],
+  "cpu_split": {},
+  "clk_tck": 100,
+  "samples": [
+    {
+      "pid": 27814,
+      "utime": 11,
+      "stime": 13,
+      "minflt": 10054,
+      "majflt": 0,
+      "state": "R (running)",
+      "cpu": 4,
+      "rchar": 2301370,
+      "wchar": 60042,
+      "syscr": 864,
+      "syscw": 634,
+      "read_bytes": 0,
+      "write_bytes": 16384,
+      "cancelled_write_bytes": 12288,
+      "threads": 1,
+      "cpus": "0-7",
+      "vctx": 1458,
+      "nvctx": 560,
+      "freq_0": 1800000,
+      "freq_4": 2600000,
+      "freq_7": 2600000,
+      "t": 6.51
+    }
+  ],
+  "exec": "/storage/emulated/0/ccz/Ekd5.exe",
+  "clean_leftover": [],
+  "sample_count": 1
+}

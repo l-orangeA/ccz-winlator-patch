@@ -1,0 +1,86 @@
+{
+  "label": "audio1",
+  "elapsed": 60.5,
+  "marks": {
+    "ws": 1.7,
+    "ekd": 7.3
+  },
+  "hwbp_last": "pid=19947 arms=256 faults=6278 steps=6120 hits=64 t=1.0",
+  "hw_rows": [
+    {
+      "t": 8.3,
+      "arms": 192,
+      "faults": 3702,
+      "steps": 3608,
+      "hits": 48,
+      "ht": 0.6,
+      "rfault": null,
+      "wfault": null
+    },
+    {
+      "t": 8.97,
+      "arms": 256,
+      "faults": 6278,
+      "steps": 6120,
+      "hits": 64,
+      "ht": 1.0,
+      "rfault": null,
+      "wfault": null
+    }
+  ],
+  "cpu_split": {},
+  "clk_tck": 100,
+  "samples": [
+    {
+      "pid": 19947,
+      "utime": 12,
+      "stime": 15,
+      "minflt": 10671,
+      "majflt": 0,
+      "state": "R (running)",
+      "cpu": 4,
+      "rchar": 2346661,
+      "wchar": 102536,
+      "syscr": 1625,
+      "syscw": 1171,
+      "read_bytes": 0,
+      "write_bytes": 16384,
+      "cancelled_write_bytes": 12288,
+      "threads": 1,
+      "cpus": "0-7",
+      "vctx": 1921,
+      "nvctx": 888,
+      "freq_0": 1800000,
+      "freq_4": 2600000,
+      "freq_7": 1800000,
+      "t": 7.27
+    },
+    {
+      "pid": 19947,
+      "utime": 38,
+      "stime": 43,
+      "minflt": 17599,
+      "majflt": 1,
+      "state": "t (tracing stop)",
+      "cpu": 4,
+      "rchar": 3281615,
+      "wchar": 588137,
+      "syscr": 4122,
+      "syscw": 3139,
+      "read_bytes": 0,
+      "write_bytes": 32768,
+      "cancelled_write_bytes": 20480,
+      "threads": 1,
+      "cpus": "0-7",
+      "vctx": 10256,
+      "nvctx": 1322,
+      "freq_0": 1800000,
+      "freq_4": 1300000,
+      "freq_7": 1800000,
+      "t": 8.3
+    }
+  ],
+  "exec": "/storage/emulated/0/ccz/Ekd5.exe",
+  "clean_leftover": [],
+  "sample_count": 2
+}

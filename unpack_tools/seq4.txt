@@ -1,0 +1,9 @@
+56259:0599|SIGSEGV @0x7a732df670 (???(0x7a732df670)) (x64pc=0x587057/???:"???", rsp=0x8afdc0, stack=0x7a758f3000:0x7a760f3000 own=(nil) fp=0x31fe80), for accessing 0x8afdbe (code=2/prot=5), db=0x7a730f7f30(0x7a
+56286:0599|0x3f0007b50e: Calling write(2, 0x3f000ad6f0"MPROT_FALLBACK
+56307:0599|0x3f000426b4: Calling write(2, 0x7ffc3404"00e8:trace:seh:dispatch_exception code=c00000fd flags=0 addr=0000000000587057 ip=7bc11110
+56363:0599|0x3f0007c980: Calling pthread_getspecific(0x4, 0x10010ED00, 0x587057, ...) => return 0x7FFC0000
+56389:0599|0x3f000426d3: Calling write(2, 0x7ffc3404"00e8:trace:seh:dispatch_exception code=c00000fd flags=0 addr=00587057 ip=00587057
+56435:0599|SIGSEGV @0x7a732e001c (???(0x7a732e001c)) (x64pc=0x587073/???:"???", rsp=0xd1cf02ea, stack=0x7a758f3000:0x7a760f3000 own=(nil) fp=0x31fe80), for accessing 0xd1cf02e2 (code=1/prot=0), db=0x7a730e6388(
+56463:0599|0x3f0007b50e: Calling write(2, 0x3f000ad6f0"MPROT_FALLBACK
+56465:0599|0x3f0007b520: Calling memcpy(0x3F000E67E0, 0xD1CEF000, 0x2000, ...) =>0599|SIGSEGV @0x7a762d0fa8 (???(/usr/lib/aarch64-linux-gnu/libc.so.6+0x87fa8)) (x64pc=0x50173/???:"???", rsp=0x7ffcf158, stack=0x
+56502:0599|0x3f0004276d: Calling write(2, 0x7ffc3404"00e8:err:virtual:virtual_setup_exception nested exception on signal stack addr 0x50173 stack 0x7ffcf150

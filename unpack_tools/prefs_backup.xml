@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="current_box64_version">0.3.0</string>
+    <int name="inputcontrols_app_version" value="18" />
+    <boolean name="show_shortcuts_first" value="true" />
+    <string name="gpu_version">OpenGL ES 3.2 v1.r38p1</string>
+    <string name="gpu_renderer">Mali-G715-Immortalis MC11</string>
+    <string name="container_file_manager_view_style">LIST</string>
+    <string name="box64_version">0.3.0</string>
+    <string name="gpu_vendor">ARM</string>
+</map>

@@ -1,0 +1,6 @@
+action_bar_root||LinearLayout|[0,0][3048,2032]
+content||FrameLayout|[0,0][3048,2032]
+DrawerLayout||DrawerLayout|[0,0][3048,2032]
+FLXServerDisplay||FrameLayout|[0,0][3048,2032]
+||View|[0,0][3048,2032]
+||View|[0,0][3048,2032]

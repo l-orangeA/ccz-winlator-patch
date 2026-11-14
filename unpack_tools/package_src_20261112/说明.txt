@@ -1,0 +1,48 @@
+﻿曹操传加强版 v2.20 —— Winlator 8.0 补丁整合包（2026-11-13 精简版）
+====================================================================
+
+【包含】只放安装要用的东西；技术文档与工作日志不在本包内。
+2-模拟器\
+  winlator8.0_ccz_fr120.apk   现役 APK（120 Hz 改造版，2026-11-10）
+  winlator8.0_original.apk    原版 APK（回滚用）
+  testkey.p12                 重签 APK 用的测试证书（口令 android，别名 testkey）
+3-补丁\
+  ntdll_fix110b_modfix.so     Wine ntdll（补丁核心，启动 22.2 s 的版本）
+  win32u_r109g.so             字体修复版 win32u
+  wineserver_r112b.so         pin 核版 wineserver
+  container.json              生产容器配置（部署脚本会写入）
+  部署补丁.ps1                一键部署脚本（PowerShell 5.1 实测可用）
+  部署说明.txt                脚本说明
+
+【不含游戏】游戏本体仍在手机 /sdcard/ccz（= 容器内 D:\ccz），本包不带。
+
+【新机三步】
+1. 装 2-模拟器\winlator8.0_ccz_fr120.apk
+2. 打开 App：容器管理 -> 右上「添加」-> 直接「确认」（先让它把容器建出来）
+3. 电脑连手机，运行 3-补丁\部署补丁.ps1
+   （自动 force-stop、推三件套并逐个校验 md5、备份并写入容器配置、清 tmp）
+
+【启动】
+容器管理 -> ccz -> 管理 -> 磁盘(D:) -> ccz -> Ekd5.exe 的 ▶
+或：
+  adb shell am start -n com.winlatcn/com.winlator.XServerDisplayActivity \
+      --ei container_id 1 --es exec_path "/storage/emulated/0/ccz/Ekd5.exe"
+
+【校验值（md5）】
+APK fr120       e1bd0b4b9a1bbefb28cf529653497cdb
+APK original    46246c358db2b4760e06bc3d54c056bd
+ntdll           4e7d876de5f0d0defebd8a34b664e403
+win32u          2be1316c83d603c4defae8669fcc1dfb
+wineserver      9df1d0c325f2b9c2f7e71c82fb5fab70
+
+【验收基线】干净启动 22.2 s 出标题；hwbp_stats：arms=1536 faults=44090 hits=384。
+
+【必须知道】
+- APK 内置 imagefs 是 fix108 版：重装 App 或「重装系统文件」后必须重跑 部署补丁.ps1，
+  否则启动慢约 20 s。
+- 只适用于 Winlator 8.0 + Wine 9.2 + box64 0.3.0；官方 11.2 不可用。
+- 存档在 /sdcard/ccz/SV，升级前整目录备份。
+- 回滚：装 2-模拟器\winlator8.0_original.apk；容器配置可用脚本备份的
+  .container.bak_<时间戳> 还原。
+
+【技术文档】不在包内。仓库：https://github.com/l-orangeA/ccz-winlator-patch

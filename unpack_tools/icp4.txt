@@ -1,0 +1,1 @@
+{"id":4,"name":"1","cursorSpeed":1,"elements":[{"type":"BUTTON","shape":"CIRCLE","bindings":["MOUSE_RIGHT_BUTTON","NONE","NONE","NONE"],"scale":1,"x":0.7029703259468079,"y":0.31343284249305725,"toggleSwitch":false,"text":"","iconId":0}]}

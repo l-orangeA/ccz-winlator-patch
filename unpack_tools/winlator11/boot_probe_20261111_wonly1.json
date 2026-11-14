@@ -1,0 +1,90 @@
+{
+  "label": "wonly1",
+  "elapsed": 60.2,
+  "marks": {
+    "ws": 1.4,
+    "ekd": 6.2
+  },
+  "hwbp_last": "pid=29434 arms=64 faults=16 steps=16 hits=16 t=0.1\r\n wonly=1",
+  "hw_rows": [
+    {
+      "t": 6.88,
+      "arms": 64,
+      "faults": 16,
+      "steps": 16,
+      "hits": 16,
+      "ht": 0.1,
+      "rfault": null,
+      "wfault": null
+    }
+  ],
+  "cpu_split": {
+    "span_s": 0.63,
+    "samples": 2,
+    "utime_s": 0.17,
+    "stime_s": 0.16,
+    "cpu_total_s": 0.33,
+    "stime_pct": 48.5,
+    "vctx_delta": 4333,
+    "vctx_per_s": 6878.0,
+    "threads_first": 1,
+    "threads_last": 1,
+    "cpus": "0-7",
+    "cpu_core_first": 4,
+    "cpu_core_last": 4
+  },
+  "clk_tck": 100,
+  "samples": [
+    {
+      "pid": 29434,
+      "utime": 11,
+      "stime": 15,
+      "minflt": 9962,
+      "majflt": 0,
+      "state": "S (sleeping)",
+      "cpu": 4,
+      "rchar": 2297273,
+      "wchar": 56689,
+      "syscr": 812,
+      "syscw": 593,
+      "read_bytes": 24576,
+      "write_bytes": 16384,
+      "cancelled_write_bytes": 12288,
+      "threads": 1,
+      "cpus": "0-7",
+      "vctx": 1367,
+      "nvctx": 490,
+      "freq_0": 1000000,
+      "freq_4": 2600000,
+      "freq_7": 2600000,
+      "t": 6.25
+    },
+    {
+      "pid": 29434,
+      "utime": 28,
+      "stime": 31,
+      "minflt": 15372,
+      "majflt": 2,
+      "state": "R (running)",
+      "cpu": 4,
+      "rchar": 3043078,
+      "wchar": 251753,
+      "syscr": 3549,
+      "syscw": 2589,
+      "read_bytes": 24576,
+      "write_bytes": 16384,
+      "cancelled_write_bytes": 12288,
+      "threads": 1,
+      "cpus": "0-7",
+      "vctx": 5700,
+      "nvctx": 798,
+      "freq_0": 900000,
+      "freq_4": 2600000,
+      "freq_7": 1200000,
+      "t": 6.88
+    }
+  ],
+  "exec": "/storage/emulated/0/ccz/Ekd5.exe",
+  "clean_leftover": [],
+  "sample_count": 2
+}

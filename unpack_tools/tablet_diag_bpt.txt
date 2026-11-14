@@ -1,0 +1,363 @@
+HASL_DBG limit=7ffffffff000 pvsize=8000
+ALLOCPROBE req=2147352576 size=4096 type=3000 prot=2 ret=2147352576 rsize=4096 st=0
+ALLOCPROBE req=0 size=2097152 type=102000 prot=4 ret=2145255424 rsize=2097152 st=0
+ALLOCPROBE req=2147221504 size=131072 type=1000 prot=4 ret=2147221504 rsize=131072 st=0
+esync: up and running.
+HASL_DBG limit=7ffffffff000 pvsize=8000
+ALLOCPROBE req=2147352576 size=4096 type=3000 prot=2 ret=2147352576 rsize=4096 st=0
+ALLOCPROBE req=0 size=2097152 type=102000 prot=4 ret=2145255424 rsize=2097152 st=0
+ALLOCPROBE req=2147221504 size=131072 type=1000 prot=4 ret=2147221504 rsize=131072 st=0
+ALLOCPROBE req=0 size=6170 type=1000 prot=4 ret=65536 rsize=8192 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=3342336 size=65536 type=1000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=3407872 rsize=40960 st=0
+ALLOCPROBE req=0 size=1048576 type=1000 prot=4 ret=5177344 rsize=1048576 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=4063232 size=65536 type=1000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=4128768 rsize=40960 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=9764864 size=65536 type=1000 prot=4 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=9830400 rsize=40960 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=405880 edx=7ffd0000
+HASL_DBG limit=7ffffffff000 pvsize=8000
+ALLOCPROBE req=2147352576 size=4096 type=3000 prot=2 ret=2147352576 rsize=4096 st=0
+ALLOCPROBE req=0 size=2097152 type=102000 prot=4 ret=2145255424 rsize=2097152 st=0
+ALLOCPROBE req=2147221504 size=131072 type=1000 prot=4 ret=2147221504 rsize=131072 st=0
+ALLOCPROBE req=0 size=6364 type=1000 prot=4 ret=65536 rsize=8192 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=3342336 size=65536 type=1000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=3407872 rsize=40960 st=0
+HASL_DBG limit=7ffffffff000 pvsize=8000
+ALLOCPROBE req=2147352576 size=4096 type=3000 prot=2 ret=2147352576 rsize=4096 st=0
+ALLOCPROBE req=0 size=2097152 type=102000 prot=4 ret=2145255424 rsize=2097152 st=0
+ALLOCPROBE req=2147221504 size=131072 type=1000 prot=4 ret=2147221504 rsize=131072 st=0
+ALLOCPROBE req=0 size=6314 type=1000 prot=4 ret=65536 rsize=8192 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=3342336 size=65536 type=1000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=3407872 rsize=40960 st=0
+ALLOCPROBE req=0 size=1048576 type=1000 prot=4 ret=5177344 rsize=1048576 st=0
+ALLOCPROBE req=0 size=1048576 type=1000 prot=4 ret=5177344 rsize=1048576 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=4063232 size=65536 type=1000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=4128768 rsize=40960 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=9764864 size=65536 type=1000 prot=4 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=9830400 rsize=40960 st=0
+ALLOCPROBE req=0 size=1572864 type=3000 prot=4 ret=9895936 rsize=1572864 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=4063232 size=65536 type=1000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=4128768 rsize=40960 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=9764864 size=65536 type=1000 prot=4 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=9830400 rsize=40960 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=417a70 edx=7ffd0000
+ALLOCPROBE req=2147155968 size=65536 type=1000 prot=4 ret=2147155968 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b92f590 edx=958180
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=40d530 edx=7ffd0000
+HASL_DBG limit=7ffffffff000 pvsize=8000
+ALLOCPROBE req=2147352576 size=4096 type=3000 prot=2 ret=2147352576 rsize=4096 st=0
+ALLOCPROBE req=0 size=2097152 type=102000 prot=4 ret=2145255424 rsize=2097152 st=0
+ALLOCPROBE req=2147221504 size=131072 type=1000 prot=4 ret=2147221504 rsize=131072 st=0
+HASL_DBG limit=7ffffffff000 pvsize=8000
+ALLOCPROBE req=2147352576 size=4096 type=3000 prot=2 ret=2147352576 rsize=4096 st=0
+ALLOCPROBE req=0 size=2097152 type=102000 prot=4 ret=2145255424 rsize=2097152 st=0
+ALLOCPROBE req=2147221504 size=131072 type=1000 prot=4 ret=2147221504 rsize=131072 st=0
+ALLOCPROBE req=0 size=4498 type=1000 prot=4 ret=65536 rsize=8192 st=0
+ALLOCPROBE req=0 size=6362 type=1000 prot=4 ret=65536 rsize=8192 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=3342336 size=65536 type=1000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=3407872 rsize=40960 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=3342336 size=65536 type=1000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=3407872 rsize=40960 st=0
+ALLOCPROBE req=0 size=1048576 type=1000 prot=4 ret=5046272 rsize=1048576 st=0
+ALLOCPROBE req=0 size=1048576 type=1000 prot=4 ret=5177344 rsize=1048576 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=4063232 size=65536 type=1000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=4128768 rsize=40960 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=9633792 rsize=65536 st=0
+ALLOCPROBE req=9633792 size=65536 type=1000 prot=4 ret=9633792 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=9699328 rsize=40960 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=40 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=9764864 size=65536 type=1000 prot=40 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=9830400 rsize=40960 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=402b90 edx=7ffd0000
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=4063232 size=65536 type=1000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=4128768 rsize=40960 st=0
+ALLOCPROBE req=2147090432 size=65536 type=1000 prot=4 ret=2147090432 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b930ac0 edx=959990
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=9764864 size=65536 type=1000 prot=4 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=9830400 rsize=40960 st=0
+ALLOCPROBE req=2147024896 size=65536 type=1000 prot=4 ret=2147024896 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7ffffa8b80 edx=33b770
+ALLOCPROBE req=0 size=1572864 type=3000 prot=4 ret=9895936 rsize=1572864 st=0
+ALLOCPROBE req=2147155968 size=65536 type=1000 prot=4 ret=2147155968 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7beb7800 edx=933870
+ALLOCPROBE req=2147090432 size=65536 type=1000 prot=4 ret=2147090432 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7beb5370 edx=933810
+ALLOCPROBE req=2146959360 size=65536 type=1000 prot=4 ret=2146959360 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b930ac0 edx=95c1f0
+ALLOCPROBE req=2147024896 size=65536 type=1000 prot=4 ret=2147024896 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b21cbd0 edx=0
+ALLOCPROBE req=0 size=1048576 type=2000 prot=4 ret=16187392 rsize=1048576 st=0
+ALLOCPROBE req=16187392 size=65536 type=1000 prot=4 ret=16187392 rsize=65536 st=0
+ALLOCPROBE req=16252928 size=65536 type=1000 prot=4 ret=16252928 rsize=65536 st=0
+ALLOCPROBE req=2146959360 size=65536 type=1000 prot=4 ret=2146959360 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b1e3210 edx=b6f3b0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=413160 edx=7ffd0000
+ALLOCPROBE req=2146893824 size=65536 type=1000 prot=4 ret=2146893824 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b1e3210 edx=b6f3e0
+ALLOCPROBE req=16318464 size=65536 type=1000 prot=4 ret=16318464 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b1e3210 edx=b6f3e0
+ALLOCPROBE req=2146893824 size=65536 type=1000 prot=4 ret=2146893824 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7ffffa8b80 edx=33b770
+ALLOCPROBE req=0 size=1048576 type=2000 prot=4 ret=20381696 rsize=1048576 st=0
+ALLOCPROBE req=20381696 size=65536 type=1000 prot=4 ret=20381696 rsize=65536 st=0
+ALLOCPROBE req=0 size=2097152 type=2000 prot=4 ret=20381696 rsize=2097152 st=0
+ALLOCPROBE req=20381696 size=65536 type=1000 prot=4 ret=20381696 rsize=65536 st=0
+ALLOCPROBE req=0 size=1048576 type=2000 prot=4 ret=20381696 rsize=1048576 st=0
+ALLOCPROBE req=20381696 size=65536 type=1000 prot=4 ret=20381696 rsize=65536 st=0
+HASL_DBG limit=7ffffffff000 pvsize=8000
+ALLOCPROBE req=2147352576 size=4096 type=3000 prot=2 ret=2147352576 rsize=4096 st=0
+ALLOCPROBE req=0 size=2097152 type=102000 prot=4 ret=2145255424 rsize=2097152 st=0
+ALLOCPROBE req=2147221504 size=131072 type=1000 prot=4 ret=2147221504 rsize=131072 st=0
+ALLOCPROBE req=0 size=1572864 type=3000 prot=4 ret=19333120 rsize=1572864 st=0
+ALLOCPROBE req=0 size=4498 type=1000 prot=4 ret=65536 rsize=8192 st=0
+ALLOCPROBE req=0 size=65536 type=3000 prot=4 ret=11599872 rsize=65536 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=3342336 size=65536 type=1000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=3407872 rsize=40960 st=0
+ALLOCPROBE req=0 size=4096 type=3000 prot=4 ret=11665408 rsize=4096 st=0
+ALLOCPROBE req=0 size=4096 type=3000 prot=4 ret=11730944 rsize=4096 st=0
+ALLOCPROBE req=0 size=1048576 type=1000 prot=4 ret=5046272 rsize=1048576 st=0
+ALLOCPROBE req=0 size=1048576 type=2000 prot=4 ret=11796480 rsize=1048576 st=0
+ALLOCPROBE req=11796480 size=65536 type=1000 prot=4 ret=11796480 rsize=65536 st=0
+ALLOCPROBE req=0 size=2097152 type=2000 prot=4 ret=11796480 rsize=2097152 st=0
+ALLOCPROBE req=11796480 size=65536 type=1000 prot=4 ret=11796480 rsize=65536 st=0
+ALLOCPROBE req=0 size=4194304 type=2000 prot=4 ret=11796480 rsize=4194304 st=0
+ALLOCPROBE req=11796480 size=65536 type=1000 prot=4 ret=11796480 rsize=65536 st=0
+ALLOCPROBE req=11862016 size=65536 type=1000 prot=4 ret=11862016 rsize=65536 st=0
+ALLOCPROBE req=11927552 size=65536 type=1000 prot=4 ret=11927552 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b131430 edx=f75860
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=4063232 size=65536 type=1000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=4128768 rsize=40960 st=0
+ALLOCPROBE req=0 size=4194304 type=2000 prot=4 ret=20381696 rsize=4194304 st=0
+ALLOCPROBE req=20381696 size=65536 type=1000 prot=4 ret=20381696 rsize=65536 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=9633792 rsize=65536 st=0
+ALLOCPROBE req=9633792 size=65536 type=1000 prot=4 ret=9633792 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=9699328 rsize=40960 st=0
+ALLOCPROBE req=0 size=8388608 type=2000 prot=4 ret=20381696 rsize=8388608 st=0
+ALLOCPROBE req=20381696 size=65536 type=1000 prot=4 ret=20381696 rsize=65536 st=0
+ALLOCPROBE req=2146828288 size=65536 type=1000 prot=4 ret=2146828288 rsize=65536 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=40 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=9764864 size=65536 type=1000 prot=40 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=9830400 rsize=40960 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b131430 edx=f76400
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=402b90 edx=7ffd0000
+ALLOCPROBE req=11993088 size=65536 type=1000 prot=4 ret=11993088 rsize=65536 st=0
+ALLOCPROBE req=2146828288 size=65536 type=1000 prot=4 ret=2146828288 rsize=65536 st=0
+ALLOCPROBE req=0 size=2097152 type=2000 prot=4 ret=22478848 rsize=2097152 st=0
+ALLOCPROBE req=22478848 size=65536 type=1000 prot=4 ret=22478848 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b930ac0 edx=95fe20
+ALLOCPROBE req=0 size=16580608 type=2000 prot=4 ret=24576000 rsize=16580608 st=0
+ALLOCPROBE req=24576000 size=65536 type=1000 prot=4 ret=24576000 rsize=65536 st=0
+NTCONT rip=7b2252da eflags=282 tf=0 eax=7b225310 ecx=f6ded0 edx=7b2252da
+NTCONT rip=7b2252da eflags=202 tf=0 eax=7b225310 ecx=f6ded0 edx=7b2252da
+ALLOCPROBE req=2147155968 size=65536 type=1000 prot=4 ret=2147155968 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7beb7800 edx=933870
+NTCONT rip=7b2252da eflags=202 tf=0 eax=7b225310 ecx=f6ded0 edx=7b2252da
+NTCONT rip=7b2252da eflags=202 tf=0 eax=7b225310 ecx=f6ded0 edx=7b2252da
+ALLOCPROBE req=2147090432 size=65536 type=1000 prot=4 ret=2147090432 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7beb5370 edx=933810
+ALLOCPROBE req=2146762752 size=65536 type=1000 prot=4 ret=2146762752 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b930ac0 edx=1771e10
+ALLOCPROBE req=2147024896 size=65536 type=1000 prot=4 ret=2147024896 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b21cbd0 edx=0
+ALLOCPROBE req=2146959360 size=65536 type=1000 prot=4 ret=2146959360 rsize=65536 st=0
+ALLOCPROBE req=2146893824 size=65536 type=1000 prot=4 ret=2146893824 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b107ac0 edx=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b107930 edx=58
+ALLOCPROBE req=0 size=1048576 type=2000 prot=4 ret=20381696 rsize=1048576 st=0
+ALLOCPROBE req=20381696 size=65536 type=1000 prot=4 ret=20381696 rsize=65536 st=0
+ALLOCPROBE req=2146828288 size=65536 type=1000 prot=4 ret=2146828288 rsize=65536 st=0
+ALLOCPROBE req=2146762752 size=65536 type=1000 prot=4 ret=2146762752 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b0e1990 edx=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b0e1c00 edx=0
+ALLOCPROBE req=2146697216 size=65536 type=1000 prot=4 ret=2146697216 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=406760 edx=0
+ALLOCPROBE req=0 size=1572864 type=3000 prot=4 ret=9895936 rsize=1572864 st=0
+ALLOCPROBE req=0 size=1048576 type=2000 prot=4 ret=11599872 rsize=1048576 st=0
+ALLOCPROBE req=11599872 size=65536 type=1000 prot=4 ret=11599872 rsize=65536 st=0
+ALLOCPROBE req=0 size=6320 type=1000 prot=4 ret=65536 rsize=8192 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=3342336 size=65536 type=1000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=3407872 rsize=40960 st=0
+ALLOCPROBE req=0 size=1048576 type=1000 prot=4 ret=5177344 rsize=1048576 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=4063232 size=65536 type=1000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=4128768 rsize=40960 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=9764864 size=65536 type=1000 prot=4 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=9830400 rsize=40960 st=0
+ALLOCPROBE req=0 size=1572864 type=3000 prot=4 ret=9895936 rsize=1572864 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=403a10 edx=7ffd0000
+HASL_DBG limit=7ffffffff000 pvsize=8000
+ALLOCPROBE req=2147352576 size=4096 type=3000 prot=2 ret=2147352576 rsize=4096 st=0
+ALLOCPROBE req=0 size=2097152 type=102000 prot=4 ret=2145255424 rsize=2097152 st=0
+ALLOCPROBE req=2147221504 size=131072 type=1000 prot=4 ret=2147221504 rsize=131072 st=0
+ALLOCPROBE req=0 size=6474 type=1000 prot=4 ret=65536 rsize=8192 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=3342336 size=65536 type=1000 prot=4 ret=3342336 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=3407872 rsize=40960 st=0
+ALLOCPROBE req=0 size=1048576 type=1000 prot=4 ret=5177344 rsize=1048576 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=4063232 size=65536 type=1000 prot=4 ret=4063232 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=4128768 rsize=40960 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=9764864 size=65536 type=1000 prot=4 ret=9764864 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=9830400 rsize=40960 st=0
+ALLOCPROBE req=0 size=1572864 type=3000 prot=4 ret=9895936 rsize=1572864 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=413160 edx=7ffd0000
+ALLOCPROBE req=0 size=65536 type=3000 prot=4 ret=11599872 rsize=65536 st=0
+ALLOCPROBE req=0 size=4096 type=3000 prot=4 ret=11665408 rsize=4096 st=0
+ALLOCPROBE req=0 size=4096 type=3000 prot=4 ret=11730944 rsize=4096 st=0
+ALLOCPROBE req=0 size=4096 type=3000 prot=4 ret=11796480 rsize=4096 st=0
+ALLOCPROBE req=2147155968 size=65536 type=1000 prot=4 ret=2147155968 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=405f90 edx=0
+ALLOCPROBE req=0 size=1107840 type=3000 prot=4 ret=15073280 rsize=1110016 st=0
+ALLOCPROBE req=0 size=1024 type=3000 prot=4 ret=13959168 rsize=4096 st=0
+ALLOCPROBE req=0 size=1024 type=3000 prot=4 ret=14024704 rsize=4096 st=0
+ALLOCPROBE req=0 size=1024 type=3000 prot=4 ret=13959168 rsize=4096 st=0
+ALLOCPROBE req=0 size=1024 type=3000 prot=4 ret=14090240 rsize=4096 st=0
+ALLOCPROBE req=0 size=1024 type=3000 prot=4 ret=13959168 rsize=4096 st=0
+ALLOCPROBE req=0 size=262144 type=2000 prot=4 ret=14155776 rsize=262144 st=0
+ALLOCPROBE req=14155776 size=4096 type=1000 prot=4 ret=14155776 rsize=4096 st=0
+ALLOCPROBE req=0 size=1048576 type=2000 prot=4 ret=16187392 rsize=1048576 st=0
+ALLOCPROBE req=16187392 size=65536 type=1000 prot=4 ret=16187392 rsize=65536 st=0
+ALLOCPROBE req=0 size=2097152 type=2000 prot=4 ret=16187392 rsize=2097152 st=0
+ALLOCPROBE req=16187392 size=65536 type=1000 prot=4 ret=16187392 rsize=65536 st=0
+ALLOCPROBE req=0 size=4194304 type=2000 prot=4 ret=16187392 rsize=4194304 st=0
+ALLOCPROBE req=16187392 size=65536 type=1000 prot=4 ret=16187392 rsize=65536 st=0
+HASL_DBG limit=7ffffffff000 pvsize=8000
+ALLOCPROBE req=2147352576 size=4096 type=3000 prot=2 ret=2147352576 rsize=4096 st=0
+ALLOCPROBE req=0 size=2097152 type=102000 prot=4 ret=2145255424 rsize=2097152 st=0
+ALLOCPROBE req=2147221504 size=131072 type=1000 prot=4 ret=2147221504 rsize=131072 st=0
+ALLOCPROBE req=0 size=6328 type=1000 prot=4 ret=65536 rsize=8192 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=2149646336 rsize=65536 st=0
+ALLOCPROBE req=2149646336 size=65536 type=1000 prot=4 ret=2149646336 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=2149711872 rsize=40960 st=0
+ALLOCPROBE req=0 size=8388608 type=2000 prot=4 ret=16187392 rsize=8388608 st=0
+ALLOCPROBE req=16187392 size=65536 type=1000 prot=4 ret=16187392 rsize=65536 st=0
+ALLOCPROBE req=2147090432 size=65536 type=1000 prot=4 ret=2147090432 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b92f590 edx=954880
+NTCONT rip=7b6d8c6a eflags=202 tf=0 eax=7b6d8ca0 ecx=30d650 edx=7b6d8c6a
+ALLOCPROBE req=2146631680 size=65536 type=1000 prot=4 ret=2146631680 rsize=65536 st=0
+NTCONT rip=7ffff9d938 eflags=200 tf=0 eax=0 ecx=7b930ac0 edx=9595d0
+ALLOCPROBE req=0 size=1048576 type=1000 prot=4 ret=2151153664 rsize=1048576 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=2155675648 rsize=65536 st=0
+ALLOCPROBE req=2155675648 size=65536 type=1000 prot=4 ret=2155675648 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=2155741184 rsize=40960 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=2155937792 rsize=65536 st=0
+ALLOCPROBE req=2155937792 size=65536 type=1000 prot=4 ret=2155937792 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=2156003328 rsize=40960 st=0
+ALLOCPROBE req=0 size=1572864 type=3000 prot=4 ret=2156068864 rsize=1572864 st=0
+NTCONT rip=27fd7d938 eflags=200 tf=0 eax=0 ecx=1400012fd edx=7ffd0000
+ALLOCPROBE req=2147155968 size=65536 type=1000 prot=4 ret=2147155968 rsize=65536 st=0
+NTCONT rip=27fd7d938 eflags=200 tf=0 eax=0 ecx=140001dd0 edx=0
+ALLOCPROBE req=0 size=1048576 type=2000 prot=4 ret=2159869952 rsize=1048576 st=0
+ALLOCPROBE req=2159869952 size=65536 type=1000 prot=4 ret=2159869952 rsize=65536 st=0
+HASL_DBG limit=7ffffffff000 pvsize=8000
+ALLOCPROBE req=2147352576 size=4096 type=3000 prot=2 ret=2147352576 rsize=4096 st=0
+ALLOCPROBE req=0 size=2097152 type=102000 prot=4 ret=2145255424 rsize=2097152 st=0
+ALLOCPROBE req=2147221504 size=131072 type=1000 prot=4 ret=2147221504 rsize=131072 st=0
+ALLOCPROBE req=0 size=6288 type=1000 prot=4 ret=65536 rsize=8192 st=0
+ALLOCPROBE req=0 size=5920 type=1000 prot=4 ret=1114112 rsize=8192 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=3407872 rsize=65536 st=0
+ALLOCPROBE req=3407872 size=65536 type=1000 prot=4 ret=3407872 rsize=65536 st=0
+ALLOCPROBE req=0 size=39216 type=1000 prot=4 ret=3473408 rsize=40960 st=0
+WCTX ctx=0x10020fd24 eip=7ae3a310 esp=31ef10 ef=202 flags=1003f dr0=0 dr1=0 dr7=0 eax=56f7d0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=3538944 rsize=65536 st=0
+ALLOCPROBE req=3538944 size=65536 type=1000 prot=4 ret=3538944 rsize=65536 st=0
+ALLOCPROBE req=0 size=20640 type=3000 prot=4 ret=65536 rsize=24576 st=0
+ALLOCPROBE req=0 size=524288 type=3000 prot=4 ret=7405568 rsize=524288 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=11337728 rsize=65536 st=0
+ALLOCPROBE req=11337728 size=65536 type=1000 prot=4 ret=11337728 rsize=65536 st=0
+ALLOCPROBE req=0 size=20640 type=3000 prot=4 ret=11403264 rsize=24576 st=0
+ALLOCPROBE req=0 size=65536 type=2000 prot=4 ret=11599872 rsize=65536 st=0
+ALLOCPROBE req=11599872 size=65536 type=1000 prot=4 ret=11599872 rsize=65536 st=0
+ALLOCPROBE req=0 size=20640 type=3000 prot=4 ret=11665408 rsize=24576 st=0
+ALLOCPROBE req=0 size=1572864 type=3000 prot=4 ret=11730944 rsize=1572864 st=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed50 eip=7ae39cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x10020ea80 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed20 eip=7ae39cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+ALLOCPROBE req=0 size=65536 type=3000 prot=4 ret=13434880 rsize=65536 st=0
+ALLOCPROBE req=0 size=4096 type=3000 prot=4 ret=13500416 rsize=4096 st=0
+WCTX ctx=0x10020ea50 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed20 eip=7ae39cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x10020ea50 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed20 eip=7ae39cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x10020ea50 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed20 eip=7ae39cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x10020ea50 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed20 eip=7ae39cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x10020ea50 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed20 eip=7ae39cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x10020ea50 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed20 eip=7ae39cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x10020ea50 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed20 eip=7ae39cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x10020ea50 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed20 eip=7ae39cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x10020ea50 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed20 eip=7ae39cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x10020ea50 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed20 eip=7ae39cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x10020ea50 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed20 eip=7ae39cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+ALLOCPROBE req=0 size=4096 type=3000 prot=4 ret=13565952 rsize=4096 st=0
+WCTX ctx=0x10020ea50 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed70 eip=7ae39cd0 esp=31e0c0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x10020eaa0 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+GCTX_DBG size=2cc flags=10007 eip=0
+WCTX ctx=0x10020ed50 eip=7ae39cd0 esp=31e0a0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x10020ea80 eip=7a62bc84 esp=31e0e0 ef=246 flags=10007 dr0=0 dr1=0 dr7=0 eax=0
+WCTX ctx=0x31ef24 eip=7ae38efc esp=31f1f0 ef=202 flags=1003f dr0=0 dr1=0 dr7=0 eax=56f7d0
+TRAP sig=5 code=128 rip=587033 trap=80 tf=0
+BPT_RIP_FIX rip=587033 -> 587034 trap=80
+SRE_ENTRY code=80000003 addr=587034 rsp=31ef28 ef=246 cs=23 np=1 info0=0 thesp=31ef28
+DRPROBE dr0=0 dr1=0 dr2=0 dr3=0 dr6=0 dr7=0 eax=586f8c ecx=7ae4de70
+SRE_AFTER code=80000003 stack=31e800 stackptr=31ef20
+WCTX ctx=0x10020e8d0 eip=587033 esp=31ef28 ef=246 flags=1003f dr0=0 dr1=0 dr7=0 eax=586f8c
+GCTX_DBG size=2cc flags=1003f eip=0
+HWBP_DBG update dr0=0 dr1=0 dr2=0 dr3=0 dr7=0
+GCTX2 dr0=0 dr1=0 dr2=0 dr3=0 dr6=0 dr7=0 eip=587033
+WCTX ctx=0x10020e0d0 eip=7ae38df8 esp=31ea68 ef=246 flags=1003f dr0=0 dr1=0 dr7=0 eax=586f8c
+NTCONT rip=7b3a4a0a eflags=282 tf=0 eax=7b3a4a40 ecx=10020df50 edx=7b3a4a0a
+WCTX ctx=0x31eac0 eip=587035 esp=31ef28 ef=246 flags=1003f dr0=700 dr1=31f014 dr7=300104 eax=586f8c
+HWBP_DBG update dr0=700 dr1=31f014 dr2=600 dr3=700 dr7=300104
+HWBP_PERF software fd=-1 errno=13
+HWBP_PERF bp-noxk fd=-1 errno=13
+HWBP_PERF open fail addr=31f014 errno=13
+HWBP_ARMDBG rw3 page=31f000 vprot=20 prot=0
+HWBP_PERMS page=31f000 maps=0031f000-00320000 ---p 00000000 00:00 0 
+HWBP_DBG update dr0=700 dr1=31f014 dr2=600 dr3=700 dr7=300104
+HWBP_PERF open fail addr=31f014 errno=13
+HWBP_ARMDBG rw3 page=31f000 vprot=20 prot=0
+HWBP_PERMS page=31f000 maps=0031f000-00320000 ---p 00000000 00:00 0 

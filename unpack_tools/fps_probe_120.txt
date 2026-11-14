@@ -1,0 +1,21 @@
+  [boot1] t=1.1 state=other shot=69979
+  [boot1] t=98.0 state=title shot=972741
+TITLE
+  tap1 -> title (shot=974358)
+  tap2 -> title (shot=971025)
+  tap3 -> confirm (shot=643271)
+  slot tap1 -> confirm (shot=634084) {'title': 3359, 'dialog': 105, 'confirm': 51}
+  confirm -> other (shot=91899)
+  slot tap2 -> other (shot=92305) {'title': 7810, 'dialog': 13473, 'confirm': 13582}
+  slot tap3 -> scene (shot=2571551) {'title': 7623, 'dialog': 8642, 'confirm': 8700}
+BATTLE OK
+LAYER SurfaceView[com.winlatcn/com.winlator.XServerDisplayActivity](BLAST)#2576638
+app=24930 game=28059 gl=27916
+sample0 frames=54/s app=0.41 game=0.38 gl=0.21
+sample1 frames=56/s app=0.43 game=0.36 gl=0.18
+sample2 frames=66/s app=0.44 game=0.34 gl=0.20
+sample3 frames=56/s app=0.43 game=0.36 gl=0.19
+sample4 frames=49/s app=0.34 game=0.32 gl=0.16
+sample5 frames=58/s app=0.42 game=0.37 gl=0.20
+AVG_FPS 56.4
+DONE

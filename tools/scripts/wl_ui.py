@@ -1,7 +1,7 @@
 
 import subprocess, time, sys, xml.etree.ElementTree as ET, os
 ADB = __import__("os").environ.get("ADB", r"D:\MuMuPlayer\nx_main\adb.exe")
-SERIAL="88f39f0d"
+SERIAL="TABLET_SERIAL_REDACTED"
 env=dict(os.environ); env["MSYS_NO_PATHCONV"]="1"
 def sh(args, timeout=30):
     return subprocess.run([ADB,"-s",SERIAL]+args, capture_output=True, env=env, timeout=timeout)

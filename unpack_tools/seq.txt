@@ -1,0 +1,6 @@
+55892:30110|0x3f0007b22d: Calling write(2, 0x3f000ad6f0"WINE_MPROTECT_FRAME
+56066:30110|0x3f0007b22d: Calling write(2, 0x3f000ad6f0"WINE_MPROTECT_FRAME
+56224:30110|SIGSEGV @0x7c18ea84e0 (???(0x7c18ea84e0)) (x64pc=0x587057/???:"???", rsp=0x8afdc0, stack=0x7c1b4ba000:0x7c1bcba000 own=(nil) fp=0x31fe80), for accessing 0x8afdbe (code=2/prot=5), db=0x7c18c9d1a8(0x7c18ea8458:0x7c18ea86
+56248:30110|0x3f0007b22d: Calling write(2, 0x3f000ad6f0"WINE_MPROTECT_FRAME
+56253:30110|SIGSEGV @0x35015cb0 (???(Ekd5.exe+0x815cb0)) (x64pc=0x3f0007b268//opt/wine/bin/../lib/wine/x86_64-unix/ntdll.so:"???", rsp=0x7ffcf170, stack=0x7c1b4ba000:0x7c1bcba000 own=(nil) fp=0x7ffcf1b0), for accessing 0x8afbb0 (c
+56290:30110|0x3f0004276d: Calling write(2, 0x7ffc3404"00e8:err:virtual:virtual_setup_exception nested exception on signal stack addr 0x3f0007b268 stack 0x7ffcf170

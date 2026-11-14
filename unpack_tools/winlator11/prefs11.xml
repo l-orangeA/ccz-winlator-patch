@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="current_box64_version">0.4.4</string>
+    <int name="inputcontrols_app_version" value="33" />
+    <boolean name="show_shortcuts_first" value="false" />
+    <string name="gpu_version">OpenGL ES 3.2 v1.r38p1</string>
+    <string name="gpu_renderer">Mali-G715-Immortalis MC11</string>
+    <string name="box64_version">0.4.4</string>
+    <string name="gpu_vendor">ARM</string>
+    <string name="current_graphics_driver">vortek-2.1-gladio-1.1</string>
+    <boolean name="move_cursor_to_touchpoint" value="true" />
+</map>

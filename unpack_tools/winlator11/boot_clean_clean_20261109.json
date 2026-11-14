@@ -1,0 +1,11 @@
+{
+  "label": "clean_20261109",
+  "elapsed": 42.6,
+  "marks": {
+    "ws": 1.7,
+    "ekd": 5.8,
+    "unpack": 33.8,
+    "title": 41.6
+  },
+  "hwbp_last": "pid=13457 arms=1600 faults=44106 steps=43006 hits=400 t=26.8"
+}

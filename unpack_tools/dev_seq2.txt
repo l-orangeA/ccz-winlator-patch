@@ -1,0 +1,221 @@
+31890|0x3f0009f6a5: Calling write(2, 0x10010f860"HWBP_DBG update dr0=700 dr1=31f004 dr2=600 dr3=700 dr7=300104
+", 62) => return 0x3E
+31890|0x3f0009a671: Calling mprotect(0x31F000, 0x1000, 0x0, ...) =>mprotect(0x31f000, 4096, 0x0)
+ return 0x0
+31890|0x3f0009a6c7: Calling snprintf(0x10010f780, 160, "HWBP_ARMDBG rw3 page=%lx vprot=%x prot=%x
+" (,0x31f000)) => return 0x2C(HWBP_ARMDBG rw3 page=31f000 vprot=20 prot=0
+)
+31890|0x3f0009a6d7: Calling write(2, 0x10010f780"HWBP_ARMDBG rw3 page=31f000 vprot=20 prot=0
+", 44) => return 0x2C
+31890|0x3f0009373b: Calling pthread_getspecific(0x4, 0x10010F780, 0x1, ...) => return 0x7FFC0000
+31890|0x3f0007ccde: Calling pthread_getspecific(0x4, 0x10010F780, 0xFFFFFFFFFFFFFFFC, ...) => return 0x7FFC0000
+31890|0x3f0007cd54: Calling pthread_getspecific(0x4, 0x10010F780, 0x2B, ...) => return 0x7FFC0000
+31890|SIGSEGV @0x7bba82d794 (???(0x7bba82d794)) (x64pc=0x587036/???:"???", rsp=0x31ef18, stack=0x7bbce59000:0x7bbd659000 own=(nil) fp=0x31f070), for accessing 0x31f004 (code=2/prot=0), db=0x7bba65c298(0x7bba82d790:0x7bba82d9b8/0x587034:0x587078/???:clean, hash:c29835ab/c29835ab) handler=0x3f0007b880
+RAX:0x0000000000586f8c RCX:0x000000007acdde70 RDX:0x00000000ffffffff RBX:0x00000000c9849958 
+RSP:0x000000000031ef18 RBP:0x000000000031f070 RSI:0x00000000005ab08f RDI:0x000000000031efd4 
+ R8:0x0000000000000000  R9:0x0000000000000000 R10:0x0000003f000c5620 R11:0x0000000000000212 
+R12:0x000000007ffc0000 R13:0x000000010020fd24 R14:0x000000010020f350 R15:0x000000010020f630 
+ES:0x002b CS:0x0023 SS:0x002b DS:0x002b FS:0x004b GS:0x0053 
+RSP-0x20:0x7acc80ac00000000 RSP-0x18:0x0031ef107acc8f54 RSP-0x10:0x0000000000000001 RSP-0x08:0x7acdde700001003f
+RSP+0x00:0x00586f8c0031f180 RSP+0x08:0x005ab08f0031efd4 RSP+0x10:0x0031ef400031f070 RSP+0x18:0x00586f83367b66a7
+Sigactionhanlder for signal #11 called (jump to 0x3f0007b880/???(0x3f0007b880))
+31890|signal #11 function handler 0x3f0007b880 called, RSP=0x7ffcf868
+Run X86 (0x555d8e73e0), RIP=0x3f0007b880, Stack=0x7ffcf778 is32bits=0
+31890|0x3f0007b9fe: Calling syscall(0x9E, 0x1002, 0x555D91B950, ...) =>31890| 0x50cf3: Calling libc syscall 0x9E (158) 0x1002 0x555d91b950 (nil) (nil) (nil)
+31890| arch_prctl(ARCH_SET_FS, 0x555d91b950) (RSP=0x7ffcebd8, FS=0x4b, GS=0x53)
+Changing segment selector from 0x4b to 0x43
+ return 0x0
+31890|0x3f0007a119: Calling pthread_getspecific(0x4, 0x7FFCF868, 0x555D91B950, ...) => return 0x7FFC0000
+31890|0x3f0007a129: Calling pthread_getspecific(0x4, 0x7FFCF868, 0x555D91B950, ...) => return 0x7FFC0000
+31890|0x3f0007a139: Calling pthread_getspecific(0x4, 0x7FFCF868, 0x555D91B950, ...) => return 0x7FFC0000
+31890|0x3f0007a149: Calling pthread_getspecific(0x4, 0x7FFCF868, 0x555D91B950, ...) => return 0x7FFC0000
+31890|0x3f0007a159: Calling pthread_getspecific(0x4, 0x7FFCF868, 0x555D91B950, ...) => return 0x7FFC0000
+31890|0x3f0007a169: Calling pthread_getspecific(0x4, 0x7FFCF868, 0x555D91B950, ...) => return 0x7FFC0000
+31890|0x3f0007b9c5: Calling snprintf(0x7ffcf240, 192, "SEGV_ENTRY rip=%lx addr=%lx err=%x rsp=%lx trap=%lx
+" (,0x587036)) => return 0x3A(SEGV_ENTRY rip=587036 addr=31f004 err=2 rsp=31ef18 trap=e
+)
+31890|0x3f0007b9d5: Calling write(2, 0x7ffcf240"SEGV_ENTRY rip=587036 addr=31f004 err=2 rsp=31ef18 trap=e
+", 58) => return 0x3A
+31890|0x3f0009a4b5: Calling mprotect(0x31F000, 0x1000, 0x7, ...) =>mprotect(0x31f000, 4096, 0x7)
+ return 0x0
+31890|0x3f0007bc48: Calling pthread_getspecific(0x4, 0x1, 0x3, ...) => return 0x7FFC0000
+31890|0x3f0007a119: Calling pthread_getspecific(0x4, 0x7FFCF868, 0x3, ...) => return 0x7FFC0000
+31890|0x3f0007a129: Calling pthread_getspecific(0x4, 0x7FFCF868, 0x3, ...) => return 0x7FFC0000
+31890|0x3f0007a139: Calling pthread_getspecific(0x4, 0x7FFCF868, 0x3, ...) => return 0x7FFC0000
+31890|0x3f0007a149: Calling pthread_getspecific(0x4, 0x7FFCF868, 0x3, ...) => return 0x7FFC0000
+31890|0x3f0007a159: Calling pthread_getspecific(0x4, 0x7FFCF868, 0x3, ...) => return 0x7FFC0000
+31890|0x3f0007a169: Calling pthread_getspecific(0x4, 0x7FFCF868, 0x3, ...) => return 0x7FFC0000
+31890|0x3f0007b2cf: Calling snprintf(0x7ffceac0, 224, "SRE_ENTRY code=%lx addr=%lx rsp=%lx ef=%lx cs=%lx np=%lx info0=%lx thesp=%lx
+" (,0x80000004)) => return 0x56(SRE_ENTRY code=80000004 addr=587039 rsp=31ef18 ef=246 cs=23 np
+31890|0x3f0007b2e3: Calling write(2, 0x7ffceac0"SRE_ENTRY code=80000004 addr=587039 rsp=31ef18 ef=246 cs=23 np=0 info0=0 thesp=31ef18
+", 86) => return 0x56
+31890|0x3f0007b328: Calling snprintf(0x7ffceac0, 224, "DRPROBE dr0=%lx dr1=%lx dr2=%lx dr3=%lx dr6=%lx dr7=%lx eax=%lx ecx=%lx
+" (,0x700)) => return 0x5B(DRPROBE dr0=700 dr1=31f004 dr2=600 dr3=700 dr6=ffff0ff4 dr7=30
+31890|0x3f0007b33c: Calling write(2, 0x7ffceac0"DRPROBE dr0=700 dr1=31f004 dr2=600 dr3=700 dr6=ffff0ff4 dr7=300104 eax=586f8c ecx=7acdde70
+", 91) => return 0x5B
+31890|0x3f0007ab87: Calling pthread_getspecific(0x4, 0x7FFCF240, 0x5B, ...) => return 0x7FFC0000
+31890|0x3f00074ae1: Calling pthread_sigmask(0x0, 0x3F000F5CC0, 0x7FFCDB80, ...) => return 0x0
+31890|0x3f00074a45: Calling pthread_getspecific(0x4, 0x3F000F5CC0, 0x7FFCDB80, ...) => return 0x7FFC0000
+31890|0x3f00074a58: Calling write(9, 0x7ffcdc30, 64) => return 0x40
+31890|0x3f00074351: Calling pthread_getspecific(0x4, 0x40, 0x40, ...) => return 0x7FFC0000
+31890|0x3f00074362: Calling read(10, 0x7ffcdc30, 64) => return 0x40[00 00 00 00 B8 06 00 00 01 00 ...] 
+31890|0x3f00074351: Calling pthread_getspecific(0x4, 0x6B8, 0x40, ...) => return 0x7FFC0000
+31890|0x3f00074362: Calling read(10, 0x7ffcdcd0, 1720) => return 0x6B8[64 86 00 00 10 00 00 00 00 00 ...] 
+31890|0x3f00074afb: Calling pthread_sigmask(0x2, 0x7FFCDB80, 0x0, ...) => return 0x0
+31890|0x3f0007b086: Calling pthread_getspecific(0x4, 0x7FFCDCD0, 0x100010, ...) => return 0x7FFC0000
+31890|0x3f0007b096: Calling pthread_getspecific(0x4, 0x7FFCDCD0, 0x700, ...) => return 0x7FFC0000
+31890|0x3f0007b0a6: Calling pthread_getspecific(0x4, 0x7FFCDCD0, 0x31F004, ...) => return 0x7FFC0000
+31890|0x3f0007b0b6: Calling pthread_getspecific(0x4, 0x7FFCDCD0, 0x600, ...) => return 0x7FFC0000
+31890|0x3f0007b0c6: Calling pthread_getspecific(0x4, 0x7FFCDCD0, 0x700, ...) => return 0x7FFC0000
+31890|0x3f0007b0d6: Calling pthread_getspecific(0x4, 0x7FFCDCD0, 0x0, ...) => return 0x7FFC0000
+31890|0x3f0009f695: Calling snprintf(0x7ffce980, 192, "HWBP_DBG update dr0=%lx dr1=%lx dr2=%lx dr3=%lx dr7=%lx
+" (,0x700)) => return 0x3E(HWBP_DBG update dr0=700 dr1=31f004 dr2=600 dr3=700 dr7=300104
+
+31890|0x3f0009f6a5: Calling write(2, 0x7ffce980"HWBP_DBG update dr0=700 dr1=31f004 dr2=600 dr3=700 dr7=300104
+", 62) => return 0x3E
+31890|0x3f0009a671: Calling mprotect(0x31F000, 0x1000, 0x0, ...) =>mprotect(0x31f000, 4096, 0x0)
+ return 0x0
+31890|0x3f0009a6c7: Calling snprintf(0x7ffce8a0, 160, "HWBP_ARMDBG rw3 page=%lx vprot=%x prot=%x
+" (,0x31f000)) => return 0x2C(HWBP_ARMDBG rw3 page=31f000 vprot=20 prot=0
+)
+31890|0x3f0009a6d7: Calling write(2, 0x7ffce8a0"HWBP_ARMDBG rw3 page=31f000 vprot=20 prot=0
+", 44) => return 0x2C
+31890|0x3f00097bb1: Calling pthread_getspecific(0x4, 0x7FFCE9B0, 0x7FFCECA0, ...) => return 0x7FFC0000
+31890|0x3f0007b6c1: Calling snprintf(0x7ffceac0, 160, "SRE_AFTER code=%lx stack=%lx stackptr=%lx
+" (,0x80000004)) => return 0x35(SRE_AFTER code=80000004 stack=31e800 stackptr=31ef10
+)
+31890|0x3f0007b6d1: Calling write(2, 0x7ffceac0"SRE_AFTER code=80000004 stack=31e800 stackptr=31ef10
+", 53) => return 0x35
+31890|0x3f0007b3a9: Calling getpagesize(0x2, 0x7FFCEAC0, 0x35, ...) => return 0x1000
+31890|0x3f0007b3d5: Calling mprotect(0x31E000, 0x1000, 0x3, ...) =>mprotect(0x31e000, 4096, 0x3)
+ return 0x0
+31890|0x3f0007b59a: Calling pthread_getspecific(0x4, 0x7FFCF710, 0x3, ...) => return 0x7FFC0000
+End of X86 run (0x555d8e73e0), RIP=0x2008b, Stack=0x7ffcf780, unimp=0, emu->fork=0, emu->uc_link=(nil), emu->quit=1
+Context has been changed in Sigactionhanlder, doing siglongjmp to resume emu at 0x7ffff9d76c
+Setjmp DynaRun, fs=0x4b
+Run X86 (0x555d8e73e0), RIP=0x7ffff9d76c, Stack=0x31e800 is32bits=0
+31890|0x3f0007771f: Calling syscall 0x9E (158) 0x1002 0x555d91b950 (nil) 0xfffffffffffffffe 0x10020e8e0 0x2cc31890| arch_prctl(ARCH_SET_FS, 0x555d91b950) (RSP=0x10010fc00, FS=0x4b, GS=0x53)
+Changing segment selector from 0x4b to 0x43
+=> 0x0
+31890|0x3f0007cbef: Calling pthread_getspecific(0x4, 0x10020E8E0, 0x2CC, ...) => return 0x7FFC0000
+31890|0x3f0007ceb7: Calling snprintf(0x10010f970, 160, "WCTX eip=%lx esp=%lx ef=%lx flags=%lx
+" (,0x587036)) => return 0x2E(WCTX eip=587036 esp=31ef18 ef=246 flags=1003f
+)
+31890|0x3f0007cec7: Calling write(2, 0x10010f970"WCTX eip=587036 esp=31ef18 ef=246 flags=1003f
+", 46) => return 0x2E
+31890|0x3f0007ce07: Calling pthread_getspecific(0x4, 0x10010F970, 0x1003F, ...) => return 0x7FFC0000
+31890|0x3f0009373b: Calling pthread_getspecific(0x4, 0x10010F970, 0x300104, ...) => return 0x7FFC0000
+31890|0x3f0007ccde: Calling pthread_getspecific(0x4, 0x10010F970, 0xFFFFFFFFFFFFFFFC, ...) => return 0x7FFC0000
+31890|0x3f0007cd54: Calling pthread_getspecific(0x4, 0x10010F970, 0x2B, ...) => return 0x7FFC0000
+31890|0x3f0007771f: Calling syscall 0x9E (158) 0x1002 0x555d91b950 (nil) 0xfffffffffffffffe 0x10020e0e0 0x2cc31890| arch_prctl(ARCH_SET_FS, 0x555d91b950) (RSP=0x10010fc00, FS=0x4b, GS=0x53)
+Changing segment selector from 0x4b to 0x43
+=> 0x0
+31890|0x3f0007d161: Calling snprintf(0x10010f9f0, 128, "GCTX_DBG size=%lx flags=%lx eip=%lx
+" (,0x2cc)) => return 0x24(GCTX_DBG size=2cc flags=1003f eip=0
+)
+31890|0x3f0007d171: Calling write(2, 0x10010f9f0"GCTX_DBG size=2cc flags=1003f eip=0
+", 36) => return 0x24
+31890|0x3f0007d176: Calling pthread_getspecific(0x4, 0x10010F9F0, 0x24, ...) => return 0x7FFC0000
+31890|0x3f00074ae1: Calling pthread_sigmask(0x0, 0x3F000F5CC0, 0x10010EAE0, ...) => return 0x0
+31890|0x3f00074a45: Calling pthread_getspecific(0x4, 0x3F000F5CC0, 0x10010EAE0, ...) => return 0x7FFC0000
+31890|0x3f00074a58: Calling write(9, 0x10010eb90, 64) => return 0x40
+31890|0x3f00074351: Calling pthread_getspecific(0x4, 0x40, 0x40, ...) => return 0x7FFC0000
+31890|0x3f00074362: Calling read(10, 0x10010eb90, 64) => return 0x40[00 00 00 00 B8 06 00 00 01 00 ...] 
+31890|0x3f00074351: Calling pthread_getspecific(0x4, 0x6B8, 0x40, ...) => return 0x7FFC0000
+31890|0x3f00074362: Calling read(10, 0x10010ec30, 1720) => return 0x6B8[64 86 00 00 10 00 00 00 00 00 ...] 
+31890|0x3f00074afb: Calling pthread_sigmask(0x2, 0x10010EAE0, 0x0, ...) => return 0x0
+31890|0x3f0007d585: Calling pthread_getspecific(0x4, 0x10010EC30, 0x14C8664, ...) => return 0x7FFC0000
+31890|0x3f0007d594: Calling pthread_getspecific(0x4, 0x10010EC30, 0x14C8664, ...) => return 0x7FFC0000
+31890|0x3f0007d5a3: Calling pthread_getspecific(0x4, 0x10010EC30, 0x14C8664, ...) => return 0x7FFC0000
+31890|0x3f0007d5b2: Calling pthread_getspecific(0x4, 0x10010EC30, 0x14C8664, ...) => return 0x7FFC0000
+31890|0x3f0007d5c1: Calling pthread_getspecific(0x4, 0x700, 0x14C8664, ...) => return 0x7FFC0000
+31890|0x3f0007d5d0: Calling pthread_getspecific(0x4, 0x700, 0x14C8664, ...) => return 0x7FFC0000
+31890|0x3f0009f695: Calling snprintf(0x10010f8e0, 192, "HWBP_DBG update dr0=%lx dr1=%lx dr2=%lx dr3=%lx dr7=%lx
+" (,0x700)) => return 0x3E(HWBP_DBG update dr0=700 dr1=31f004 dr2=600 dr3=700 dr7=300104
+
+31890|0x3f0009f6a5: Calling write(2, 0x10010f8e0"HWBP_DBG update dr0=700 dr1=31f004 dr2=600 dr3=700 dr7=300104
+", 62) => return 0x3E
+31890|0x3f0009a671: Calling mprotect(0x31F000, 0x1000, 0x0, ...) =>mprotect(0x31f000, 4096, 0x0)
+ return 0x0
+31890|0x3f0009a6c7: Calling snprintf(0x10010f800, 160, "HWBP_ARMDBG rw3 page=%lx vprot=%x prot=%x
+" (,0x31f000)) => return 0x2C(HWBP_ARMDBG rw3 page=31f000 vprot=20 prot=0
+)
+31890|0x3f0009a6d7: Calling write(2, 0x10010f800"HWBP_ARMDBG rw3 page=31f000 vprot=20 prot=0
+", 44) => return 0x2C
+31890|0x3f0009373b: Calling pthread_getspecific(0x4, 0x10010F800, 0x3, ...) => return 0x7FFC0000
+31890|0x3f0007d28d: Calling pthread_getspecific(0x4, 0x10010F800, 0x587036, ...) => return 0x7FFC0000
+31890|0x3f0007d4ec: Calling snprintf(0x10010f9f0, 192, "GCTX2 dr0=%lx dr1=%lx dr2=%lx dr3=%lx dr6=%lx dr7=%lx eip=%lx
+" (,0x700)) => return 0x45(GCTX2 dr0=700 dr1=31f004 dr2=600 dr3=700 dr6=0 dr7=300104 eip=
+31890|0x3f0007d500: Calling write(2, 0x10010f9f0"GCTX2 dr0=700 dr1=31f004 dr2=600 dr3=700 dr6=0 dr7=300104 eip=587036
+", 69) => return 0x45
+31890|0x3f0007771f: Calling syscall 0x9E (158) 0x1002 0x555d91b950 (nil) 0xfffffffffffffffe 0x10020e0e0 0x2cc31890| arch_prctl(ARCH_SET_FS, 0x555d91b950) (RSP=0x10010fc00, FS=0x4b, GS=0x53)
+Changing segment selector from 0x4b to 0x43
+=> 0x0
+31890|0x3f0007cbef: Calling pthread_getspecific(0x4, 0x10020E0E0, 0x2CC, ...) => return 0x7FFC0000
+31890|0x3f0007ceb7: Calling snprintf(0x10010f970, 160, "WCTX eip=%lx esp=%lx ef=%lx flags=%lx
+" (,0x7acc8df8)) => return 0x30(WCTX eip=7acc8df8 esp=31ea58 ef=246 flags=1003f
+)
+31890|0x3f0007cec7: Calling write(2, 0x10010f970"WCTX eip=7acc8df8 esp=31ea58 ef=246 flags=1003f
+", 48) => return 0x30
+31890|0x3f0007ce07: Calling pthread_getspecific(0x4, 0x10010F970, 0x1003F, ...) => return 0x7FFC0000
+31890|0x3f0009373b: Calling pthread_getspecific(0x4, 0x10010F970, 0x300104, ...) => return 0x7FFC0000
+31890|0x3f0007ccde: Calling pthread_getspecific(0x4, 0x10010F970, 0xFFFFFFFFFFFFFFFC, ...) => return 0x7FFC0000
+31890|0x3f0007cd54: Calling pthread_getspecific(0x4, 0x10010F970, 0x2B, ...) => return 0x7FFC0000
+31890|0x3f0007771f: Calling syscall 0x9E (158) 0x1002 0x555d91b950 (nil) 0x10020df60 0x7ffc0000 0x4031890| arch_prctl(ARCH_SET_FS, 0x555d91b950) (RSP=0x10010fc00, FS=0x4b, GS=0x53)
+Changing segment selector from 0x4b to 0x43
+=> 0x0
+31890|0x3f00076f4c: Calling snprintf(0x10010fb40, 160, "NTCONT rip=%lx eflags=%lx tf=%d eax=%lx ecx=%lx edx=%lx
+" (,0x7ac44a0a)) => return 0x4C(NTCONT rip=7ac44a0a eflags=202 tf=0 eax=7ac44a40 ecx=10020df60
+31890|0x3f00076f60: Calling write(2, 0x10010fb40"NTCONT rip=7ac44a0a eflags=202 tf=0 eax=7ac44a40 ecx=10020df60 edx=7ac44a0a
+", 76) => return 0x4C
+31890|0x3f0007a6d6: Calling pthread_getspecific(0x4, 0x10020DF60, 0x4C, ...) => return 0x7FFC0000
+31890|0x3f0007ab45: Calling pthread_getspecific(0x4, 0x10020E260, 0x4C, ...) => return 0x7FFC0000
+31890|0x3f0007771f: Calling syscall 0x9E (158) 0x1002 0x555d91b950 (nil) 0xfffffffffffffffe 0x31eab0 0x2cc31890| arch_prctl(ARCH_SET_FS, 0x555d91b950) (RSP=0x10010fc00, FS=0x4b, GS=0x53)
+Changing segment selector from 0x4b to 0x43
+=> 0x0
+31890|0x3f0007cbef: Calling pthread_getspecific(0x4, 0x31EAB0, 0x2CC, ...) => return 0x7FFC0000
+31890|0x3f0007ceb7: Calling snprintf(0x10010f970, 160, "WCTX eip=%lx esp=%lx ef=%lx flags=%lx
+" (,0x587036)) => return 0x2E(WCTX eip=587036 esp=31ef18 ef=246 flags=1003f
+)
+31890|0x3f0007cec7: Calling write(2, 0x10010f970"WCTX eip=587036 esp=31ef18 ef=246 flags=1003f
+", 46) => return 0x2E
+31890|0x3f0007ce07: Calling pthread_getspecific(0x4, 0x10010F970, 0x1003F, ...) => return 0x7FFC0000
+31890|0x3f00074ae1: Calling pthread_sigmask(0x0, 0x3F000F5CC0, 0x10010EA70, ...) => return 0x0
+31890|0x3f000749ec: Calling pthread_getspecific(0x4, 0xD70, 0x1, ...) => return 0x7FFC0000
+31890|0x3f000749fd: Calling writev(0x9, 0x10010E9F0, 0x2, ...) => return 0xDB0
+31890|0x3f00074351: Calling pthread_getspecific(0x4, 0x40, 0xDB0, ...) => return 0x7FFC0000
+31890|0x3f00074362: Calling read(10, 0x10010eb10, 64) => return 0x40[00 00 00 00 00 00 00 00 01 00 ...] 
+31890|0x3f00074afb: Calling pthread_sigmask(0x2, 0x10010EA70, 0x0, ...) => return 0x0
+31890|0x3f0007cf4d: Calling pthread_getspecific(0x4, 0x10010EA70, 0x1, ...) => return 0x7FFC0000
+31890|0x3f0007cf5c: Calling pthread_getspecific(0x4, 0x10010EA70, 0x1, ...) => return 0x7FFC0000
+31890|0x3f0007cf6b: Calling pthread_getspecific(0x4, 0x10010EA70, 0x1, ...) => return 0x7FFC0000
+31890|0x3f0007cf7a: Calling pthread_getspecific(0x4, 0x10010EA70, 0x1, ...) => return 0x7FFC0000
+31890|0x3f0007cf89: Calling pthread_getspecific(0x4, 0x10010EA70, 0x1, ...) => return 0x7FFC0000
+31890|0x3f0007cf98: Calling pthread_getspecific(0x4, 0x10010EA70, 0x1, ...) => return 0x7FFC0000
+31890|0x3f0009f695: Calling snprintf(0x10010f860, 192, "HWBP_DBG update dr0=%lx dr1=%lx dr2=%lx dr3=%lx dr7=%lx
+" (,(nil))) => return 0x2E(HWBP_DBG update dr0=0 dr1=0 dr2=0 dr3=0 dr7=0
+)
+31890|0x3f0009f6a5: Calling write(2, 0x10010f860"HWBP_DBG update dr0=0 dr1=0 dr2=0 dr3=0 dr7=0
+", 46) => return 0x2E
+31890|0x3f0009f695: Calling snprintf(0x10010f860, 192, "HWBP_DBG update dr0=%lx dr1=%lx dr2=%lx dr3=%lx dr7=%lx
+" (,(nil))) => return 0x2E(HWBP_DBG update dr0=0 dr1=0 dr2=0 dr3=0 dr7=0
+)
+31890|0x3f0009f6a5: Calling write(2, 0x10010f860"HWBP_DBG update dr0=0 dr1=0 dr2=0 dr3=0 dr7=0
+", 46) => return 0x2E
+31890|0x3f0009373b: Calling pthread_getspecific(0x4, 0x10010F860, 0x0, ...) => return 0x7FFC0000
+31890|0x3f0007ccde: Calling pthread_getspecific(0x4, 0x10010F860, 0xFFFFFFFFFFFFFFFC, ...) => return 0x7FFC0000
+31890|0x3f0007cd54: Calling pthread_getspecific(0x4, 0x10010F860, 0x2B, ...) => return 0x7FFC0000
+31890|SIGSEGV @0x7bba82d9c0 (???(0x7bba82d9c0)) (x64pc=0x587036/???:"???", rsp=0x31ef18, stack=0x7bbce59000:0x7bbd659000 own=(nil) fp=0x31f070), for accessing 0x31f004 (code=2/prot=0), db=0x7bba65c310(0x7bba82d9c0:0x7bba82dbd8/0x587036:0x587078/???:clean, hash:b400b5ef/b400b5ef) handler=0x3f0007b880
+RAX:0x0000000000000000 RCX:0x000000007acdde70 RDX:0x00000000ffffffff RBX:0x00000000c9849958 
+RSP:0x000000000031ef18 RBP:0x000000000031f070 RSI:0x00000000005ab08f RDI:0x000000000031efd4 
+ R8:0x0000000000000000  R9:0x0000000000000000 R10:0x0000003f000c5620 R11:0x0000000000000202 
+R12:0x000000007ffc0000 R13:0x000000010020fd24 R14:0x000000010020f350 R15:0x000000010020f630 
+ES:0x002b CS:0x0023 SS:0x002b DS:0x002b FS:0x004b GS:0x0053 
+RSP-0x20:0x7acc80ac00000000 RSP-0x18:0x0031ef107acc8f54 RSP-0x10:0x0000000000000001 RSP-0x08:0x7acdde700001003f
+RSP+0x00:0x00586f8c0031f180 RSP+0x08:0x005ab08f0031efd4 RSP+0x10:0x0031ef400031f070 RSP+0x18:0x00586f83367b66a7
+Sigactionhanlder for signal #11 called (jump to 0x3f0007b880/???(0x3f0007b880))
+31890|signal #11 function handler 0x3f0007b880 called, RSP=0x7ffcf868
+Run X86 (0x555d8e73e0), RIP=0x3f0007b880, Stack=0x7ffcf778 is32bits=0
+31890|0x3f0007b9fe: Calling syscall(0x9E, 0x1002, 0x555D91B950, ...) =>31890| 0x50cf3: Calling libc syscall 0x9E (158) 0x1002 0x555d91b950 (nil) (nil) (nil)
+31890| arch_prctl(ARCH_SET_FS, 0x555d91b950) (RSP=0x7ffcebd8, FS=0x4b, GS=0x53)
+Changing segment selector from 0x4b to 0x43

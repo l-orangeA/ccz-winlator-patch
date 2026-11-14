@@ -1,0 +1,31 @@
+﻿部署补丁.ps1 说明
+=================
+
+做什么
+------
+1) 检查 adb / 设备 / App(imagefs .img_version=9) / 容器是否存在；
+2) am force-stop com.winlatcn；
+3) 推三个 so 并逐个 md5 校验（校验失败立即中止）：
+     ntdll_fix110b_modfix.so -> files/imagefs/opt/wine/lib/wine/x86_64-unix/ntdll.so    4e7d876d…
+     win32u_r109g.so         -> files/imagefs/opt/wine/lib/wine/x86_64-unix/win32u.so    2be1316c…
+     wineserver_r112b.so     -> files/imagefs/opt/wine/bin/wineserver                     9df1d0c3…
+4) 备份现有 .container 为 .container.bak_<时间戳>，写入 container.json（生产配置）；
+5) 清 files/imagefs/tmp/.wine-* / .X11-unix/* / shm/* 残留。
+
+用法
+----
+  powershell -ExecutionPolicy Bypass -File .\部署补丁.ps1
+  powershell -ExecutionPolicy Bypass -File .\部署补丁.ps1 -Serial PHONE_SERIAL_REDACTED -AdbPath "D:\MuMuPlayer\nx_main\adb.exe"
+
+前置
+----
+- 手机已装 com.winlatcn，且首次打开过（imagefs 装完，约 60 s）；
+- 已在 App 里建过容器（脚本不负责建容器）。
+
+注意
+----
+- 脚本会覆盖容器配置（name=ccz、1280x720、virgl+glVersion4.0、wined3d、pulseaudio、
+  cpuList 0-3 / WoW64 4-7、生产 envVars、drives=D:/storage/emulated/0）；
+  想保留自己的设置就先把 container.json 改好再跑。
+- 若手机没有 root 也没关系：全程用 run-as（APK 是 debuggable）。
+- 设备只有一台时不用传 -Serial。

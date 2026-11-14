@@ -1,0 +1,16 @@
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/WRAPPERS.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/dynarec_native.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/native_pass0.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/native_pass1.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/native_pass2.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/native_pass3.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/test_interpreter.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/dynarec.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/interpreter.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/box64.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/uninstall.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/package.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/package_source.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/test.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/edit_cache.dir
+/tmp/box64-clean/box64-0.3.0/build/CMakeFiles/rebuild_cache.dir

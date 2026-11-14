@@ -1,0 +1,61 @@
+{
+  "label": "m3c6",
+  "elapsed": 60.3,
+  "marks": {
+    "ws": 1.7,
+    "ekd": 5.9
+  },
+  "hwbp_last": "",
+  "hw_rows": [],
+  "cpu_split": {},
+  "clk_tck": 100,
+  "samples": [
+    {
+      "pid": 10603,
+      "utime": 7,
+      "stime": 9,
+      "minflt": 8698,
+      "majflt": 0,
+      "state": "S (sleeping)",
+      "cpu": 5,
+      "rchar": 2278780,
+      "wchar": 40457,
+      "syscr": 521,
+      "syscw": 443,
+      "read_bytes": 0,
+      "write_bytes": 20480,
+      "cancelled_write_bytes": 12288,
+      "threads": 1,
+      "cpus": "0-7",
+      "vctx": 1058,
+      "nvctx": 155,
+      "freq_0": 500000,
+      "freq_4": 3000000,
+      "freq_7": 1200000,
+      "t": 5.85
+    },
+    {
+      "pid": 10603,
+      "utime": 22,
+      "stime": 28,
+      "minflt": 15329,
+      "majflt": 1,
+      "state": "S",
+      "cpu": 7,
+      "rchar": 3138804,
+      "wchar": 285011,
+      "syscr": 3568,
+      "syscw": 3209,
+      "read_bytes": 0,
+      "write_bytes": 98304,
+      "cancelled_write_bytes": 69632,
+      "freq_0": 600000,
+      "freq_4": 2300000,
+      "freq_7": 1200000,
+      "t": 6.52
+    }
+  ],
+  "exec": "/storage/emulated/0/ccz/Ekd5.exe",
+  "clean_leftover": [],
+  "sample_count": 2
+}

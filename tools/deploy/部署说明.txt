@@ -15,7 +15,7 @@
 用法
 ----
   powershell -ExecutionPolicy Bypass -File .\部署补丁.ps1
-  powershell -ExecutionPolicy Bypass -File .\部署补丁.ps1 -Serial 10AD981EF20020P -AdbPath "D:\MuMuPlayer\nx_main\adb.exe"
+  powershell -ExecutionPolicy Bypass -File .\部署补丁.ps1 -Serial PHONE_SERIAL_REDACTED -AdbPath "D:\MuMuPlayer\nx_main\adb.exe"
 
 前置
 ----

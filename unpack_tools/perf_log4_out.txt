@@ -1,0 +1,28 @@
+  [boot1] t=1.2 state=other shot=58730
+  [boot1] t=90.8 state=title shot=972741
+TITLE
+  tap1 -> title (shot=974358)
+  tap2 -> title (shot=974358)
+  tap3 -> confirm (shot=643271)
+  slot tap1 -> confirm (shot=634084) {'title': 3359, 'dialog': 105, 'confirm': 51}
+  confirm -> other (shot=91899)
+  slot tap2 -> other (shot=92305) {'title': 7810, 'dialog': 13473, 'confirm': 13582}
+  slot tap3 -> scene (shot=2704123) {'title': 7286, 'dialog': 8660, 'confirm': 8718}
+BATTLE OK
+--- perf.txt (idle battle) ---
+u=0 r=2 up=0 KB=0 gU=0 gR=14
+
+LATENCY n=127 median=16.62 p90=83.47 max=440.0 buckets={'<20': 67, '<40': 23, '>=80': 15, '<80': 21}
+--- app threads ---
+23446 mali-event-hand
+
+23450 mali-mem-purge
+
+23451 mali-cpu-comman
+
+23500 GLThread 245611
+
+23545 Thread-5
+
+
+DONE

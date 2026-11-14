@@ -1,0 +1,978 @@
+[
+  {
+    "name": "modrm.h",
+    "path": "src/emu/modrm.h",
+    "sha": "2f2cd1fc641ab5699367ac8a6608f9a4da08c52b",
+    "size": 13384,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/modrm.h?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/modrm.h",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/2f2cd1fc641ab5699367ac8a6608f9a4da08c52b",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/modrm.h",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/modrm.h?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/2f2cd1fc641ab5699367ac8a6608f9a4da08c52b",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/modrm.h"
+    }
+  },
+  {
+    "name": "x64compstrings.c",
+    "path": "src/emu/x64compstrings.c",
+    "sha": "52bd8b2147743ca4152135b47ddbd5481a76f78f",
+    "size": 4399,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64compstrings.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64compstrings.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/52bd8b2147743ca4152135b47ddbd5481a76f78f",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64compstrings.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64compstrings.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/52bd8b2147743ca4152135b47ddbd5481a76f78f",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64compstrings.c"
+    }
+  },
+  {
+    "name": "x64compstrings.h",
+    "path": "src/emu/x64compstrings.h",
+    "sha": "b2a785b2cbc1015aa1a0301f60d7d1f6e0ae221f",
+    "size": 386,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64compstrings.h?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64compstrings.h",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/b2a785b2cbc1015aa1a0301f60d7d1f6e0ae221f",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64compstrings.h",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64compstrings.h?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/b2a785b2cbc1015aa1a0301f60d7d1f6e0ae221f",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64compstrings.h"
+    }
+  },
+  {
+    "name": "x64emu.c",
+    "path": "src/emu/x64emu.c",
+    "sha": "f08652990301636bf964b755f2dd82900d5d7f22",
+    "size": 21433,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64emu.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64emu.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/f08652990301636bf964b755f2dd82900d5d7f22",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64emu.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64emu.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/f08652990301636bf964b755f2dd82900d5d7f22",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64emu.c"
+    }
+  },
+  {
+    "name": "x64emu_private.h",
+    "path": "src/emu/x64emu_private.h",
+    "sha": "bef4a9a43295ac93b224ac49c90f40a56d1746e0",
+    "size": 4472,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64emu_private.h?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64emu_private.h",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/bef4a9a43295ac93b224ac49c90f40a56d1746e0",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64emu_private.h",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64emu_private.h?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/bef4a9a43295ac93b224ac49c90f40a56d1746e0",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64emu_private.h"
+    }
+  },
+  {
+    "name": "x64int3.c",
+    "path": "src/emu/x64int3.c",
+    "sha": "3dd818ed90d8d0fe5c7fd0b94fed5f41f3fbee64",
+    "size": 21921,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64int3.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64int3.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/3dd818ed90d8d0fe5c7fd0b94fed5f41f3fbee64",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64int3.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64int3.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/3dd818ed90d8d0fe5c7fd0b94fed5f41f3fbee64",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64int3.c"
+    }
+  },
+  {
+    "name": "x64primop.c",
+    "path": "src/emu/x64primop.c",
+    "sha": "72485ca0778b7eb685f39570bee0f372df56f44e",
+    "size": 39002,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64primop.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64primop.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/72485ca0778b7eb685f39570bee0f372df56f44e",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64primop.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64primop.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/72485ca0778b7eb685f39570bee0f372df56f44e",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64primop.c"
+    }
+  },
+  {
+    "name": "x64primop.h",
+    "path": "src/emu/x64primop.h",
+    "sha": "83f8b00bf37b3b267fcd9bae85ccf95f3062b8a9",
+    "size": 15659,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64primop.h?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64primop.h",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/83f8b00bf37b3b267fcd9bae85ccf95f3062b8a9",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64primop.h",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64primop.h?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/83f8b00bf37b3b267fcd9bae85ccf95f3062b8a9",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64primop.h"
+    }
+  },
+  {
+    "name": "x64run.c",
+    "path": "src/emu/x64run.c",
+    "sha": "01eda2a8bbb3c2287901892a1f43112263ad6277",
+    "size": 82639,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/01eda2a8bbb3c2287901892a1f43112263ad6277",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/01eda2a8bbb3c2287901892a1f43112263ad6277",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run.c"
+    }
+  },
+  {
+    "name": "x64run0f.c",
+    "path": "src/emu/x64run0f.c",
+    "sha": "4f12e615b7c7ede61391f4aa02cdd26ac59ce96b",
+    "size": 75609,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run0f.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run0f.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/4f12e615b7c7ede61391f4aa02cdd26ac59ce96b",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run0f.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run0f.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/4f12e615b7c7ede61391f4aa02cdd26ac59ce96b",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run0f.c"
+    }
+  },
+  {
+    "name": "x64run64.c",
+    "path": "src/emu/x64run64.c",
+    "sha": "fe8da3e5fb544857c7c7617bfbad5fec19a15f8c",
+    "size": 37248,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run64.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run64.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/fe8da3e5fb544857c7c7617bfbad5fec19a15f8c",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run64.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run64.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/fe8da3e5fb544857c7c7617bfbad5fec19a15f8c",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run64.c"
+    }
+  },
+  {
+    "name": "x64run66.c",
+    "path": "src/emu/x64run66.c",
+    "sha": "89aec17c5f9791bb384c2175d2f2c009a3c3e2be",
+    "size": 31642,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run66.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run66.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/89aec17c5f9791bb384c2175d2f2c009a3c3e2be",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run66.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run66.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/89aec17c5f9791bb384c2175d2f2c009a3c3e2be",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run66.c"
+    }
+  },
+  {
+    "name": "x64run660f.c",
+    "path": "src/emu/x64run660f.c",
+    "sha": "84ed4e25eb354e48d65471fb6141afbc61411582",
+    "size": 89177,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run660f.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run660f.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/84ed4e25eb354e48d65471fb6141afbc61411582",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run660f.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run660f.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/84ed4e25eb354e48d65471fb6141afbc61411582",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run660f.c"
+    }
+  },
+  {
+    "name": "x64run6664.c",
+    "path": "src/emu/x64run6664.c",
+    "sha": "299f7f7dafd09bbb80615651d5e3d54dd465a169",
+    "size": 6002,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run6664.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run6664.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/299f7f7dafd09bbb80615651d5e3d54dd465a169",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run6664.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run6664.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/299f7f7dafd09bbb80615651d5e3d54dd465a169",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run6664.c"
+    }
+  },
+  {
+    "name": "x64run66d9.c",
+    "path": "src/emu/x64run66d9.c",
+    "sha": "84b554df155c0f0e35f168bda6b2b2ea62617f76",
+    "size": 2277,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run66d9.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run66d9.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/84b554df155c0f0e35f168bda6b2b2ea62617f76",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run66d9.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run66d9.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/84b554df155c0f0e35f168bda6b2b2ea62617f76",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run66d9.c"
+    }
+  },
+  {
+    "name": "x64run66dd.c",
+    "path": "src/emu/x64run66dd.c",
+    "sha": "7f768aad52152cb55604723fe3c677a246064e15",
+    "size": 2857,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run66dd.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run66dd.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/7f768aad52152cb55604723fe3c677a246064e15",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run66dd.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run66dd.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/7f768aad52152cb55604723fe3c677a246064e15",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run66dd.c"
+    }
+  },
+  {
+    "name": "x64run66f0.c",
+    "path": "src/emu/x64run66f0.c",
+    "sha": "7e6fc5dba56e4a580d2d21e7abcadd2f3d69ed41",
+    "size": 12123,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run66f0.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run66f0.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/7e6fc5dba56e4a580d2d21e7abcadd2f3d69ed41",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run66f0.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run66f0.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/7e6fc5dba56e4a580d2d21e7abcadd2f3d69ed41",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run66f0.c"
+    }
+  },
+  {
+    "name": "x64run66f20f.c",
+    "path": "src/emu/x64run66f20f.c",
+    "sha": "a4ad4438dfe92c05ceb87df59e168272a96b4bb9",
+    "size": 2052,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run66f20f.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run66f20f.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a4ad4438dfe92c05ceb87df59e168272a96b4bb9",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run66f20f.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run66f20f.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a4ad4438dfe92c05ceb87df59e168272a96b4bb9",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run66f20f.c"
+    }
+  },
+  {
+    "name": "x64run66f30f.c",
+    "path": "src/emu/x64run66f30f.c",
+    "sha": "dd466ad56c37a6c0ce0be7e04a1a7db5fd6cb332",
+    "size": 1228,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run66f30f.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run66f30f.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/dd466ad56c37a6c0ce0be7e04a1a7db5fd6cb332",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run66f30f.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run66f30f.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/dd466ad56c37a6c0ce0be7e04a1a7db5fd6cb332",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run66f30f.c"
+    }
+  },
+  {
+    "name": "x64run67.c",
+    "path": "src/emu/x64run67.c",
+    "sha": "f808517dd0a6cfbe15ce78431169f35f2ad846d3",
+    "size": 20236,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run67.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run67.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/f808517dd0a6cfbe15ce78431169f35f2ad846d3",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run67.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run67.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/f808517dd0a6cfbe15ce78431169f35f2ad846d3",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run67.c"
+    }
+  },
+  {
+    "name": "x64run670f.c",
+    "path": "src/emu/x64run670f.c",
+    "sha": "0b3f1493f44cebdfe912582dd1541c8d7ab1bcb0",
+    "size": 4717,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run670f.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run670f.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/0b3f1493f44cebdfe912582dd1541c8d7ab1bcb0",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run670f.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run670f.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/0b3f1493f44cebdfe912582dd1541c8d7ab1bcb0",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run670f.c"
+    }
+  },
+  {
+    "name": "x64run6764_32.c",
+    "path": "src/emu/x64run6764_32.c",
+    "sha": "c17481cc1fb8610d32087cded4226fe1fd547c5b",
+    "size": 2871,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run6764_32.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run6764_32.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/c17481cc1fb8610d32087cded4226fe1fd547c5b",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run6764_32.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run6764_32.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/c17481cc1fb8610d32087cded4226fe1fd547c5b",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run6764_32.c"
+    }
+  },
+  {
+    "name": "x64run6766.c",
+    "path": "src/emu/x64run6766.c",
+    "sha": "080abf9195ebaae20a2e95667bd63551991779ac",
+    "size": 3547,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run6766.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run6766.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/080abf9195ebaae20a2e95667bd63551991779ac",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run6766.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run6766.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/080abf9195ebaae20a2e95667bd63551991779ac",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run6766.c"
+    }
+  },
+  {
+    "name": "x64run67660f.c",
+    "path": "src/emu/x64run67660f.c",
+    "sha": "a58df7c7939195780f576d77b483727c394157ab",
+    "size": 2215,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run67660f.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run67660f.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a58df7c7939195780f576d77b483727c394157ab",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run67660f.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run67660f.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a58df7c7939195780f576d77b483727c394157ab",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run67660f.c"
+    }
+  },
+  {
+    "name": "x64run67_32.c",
+    "path": "src/emu/x64run67_32.c",
+    "sha": "a1df3ba052a81b99e868ea4e60791b94c7d4b647",
+    "size": 2428,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run67_32.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run67_32.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a1df3ba052a81b99e868ea4e60791b94c7d4b647",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run67_32.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run67_32.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a1df3ba052a81b99e868ea4e60791b94c7d4b647",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run67_32.c"
+    }
+  },
+  {
+    "name": "x64run67avx.c",
+    "path": "src/emu/x64run67avx.c",
+    "sha": "c19a22f72f1c178f68e0bac136fa656fbb365bde",
+    "size": 2627,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run67avx.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run67avx.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/c19a22f72f1c178f68e0bac136fa656fbb365bde",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run67avx.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run67avx.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/c19a22f72f1c178f68e0bac136fa656fbb365bde",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run67avx.c"
+    }
+  },
+  {
+    "name": "x64run_private.c",
+    "path": "src/emu/x64run_private.c",
+    "sha": "74df225c9bfeae833062145ea6cbd27f1269de09",
+    "size": 78620,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run_private.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run_private.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/74df225c9bfeae833062145ea6cbd27f1269de09",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run_private.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run_private.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/74df225c9bfeae833062145ea6cbd27f1269de09",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run_private.c"
+    }
+  },
+  {
+    "name": "x64run_private.h",
+    "path": "src/emu/x64run_private.h",
+    "sha": "45a6865952535f242a9f3fd0b29494f94694dce0",
+    "size": 12768,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run_private.h?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run_private.h",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/45a6865952535f242a9f3fd0b29494f94694dce0",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64run_private.h",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64run_private.h?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/45a6865952535f242a9f3fd0b29494f94694dce0",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64run_private.h"
+    }
+  },
+  {
+    "name": "x64runavx.c",
+    "path": "src/emu/x64runavx.c",
+    "sha": "a4e3fc35a6b921152fa1a81252717fdc3c8b876b",
+    "size": 3952,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavx.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavx.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a4e3fc35a6b921152fa1a81252717fdc3c8b876b",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runavx.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavx.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a4e3fc35a6b921152fa1a81252717fdc3c8b876b",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavx.c"
+    }
+  },
+  {
+    "name": "x64runavx0f.c",
+    "path": "src/emu/x64runavx0f.c",
+    "sha": "7bf0c306f48b4b4c8e4ea6ef1300383f3885e7e4",
+    "size": 21160,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavx0f.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavx0f.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/7bf0c306f48b4b4c8e4ea6ef1300383f3885e7e4",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runavx0f.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavx0f.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/7bf0c306f48b4b4c8e4ea6ef1300383f3885e7e4",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavx0f.c"
+    }
+  },
+  {
+    "name": "x64runavx0f38.c",
+    "path": "src/emu/x64runavx0f38.c",
+    "sha": "11e324c9e5f8b2f5ef2e4d55ef930250fb72915c",
+    "size": 6947,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavx0f38.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavx0f38.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/11e324c9e5f8b2f5ef2e4d55ef930250fb72915c",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runavx0f38.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavx0f38.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/11e324c9e5f8b2f5ef2e4d55ef930250fb72915c",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavx0f38.c"
+    }
+  },
+  {
+    "name": "x64runavx660f.c",
+    "path": "src/emu/x64runavx660f.c",
+    "sha": "071547eb0c7859b15d295b30fb3ac1832fdb99f2",
+    "size": 70874,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavx660f.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavx660f.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/071547eb0c7859b15d295b30fb3ac1832fdb99f2",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runavx660f.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavx660f.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/071547eb0c7859b15d295b30fb3ac1832fdb99f2",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavx660f.c"
+    }
+  },
+  {
+    "name": "x64runavx660f38.c",
+    "path": "src/emu/x64runavx660f38.c",
+    "sha": "084a323440a81b494e0d159bf2a6a1b3b0961e3e",
+    "size": 77980,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavx660f38.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavx660f38.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/084a323440a81b494e0d159bf2a6a1b3b0961e3e",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runavx660f38.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavx660f38.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/084a323440a81b494e0d159bf2a6a1b3b0961e3e",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavx660f38.c"
+    }
+  },
+  {
+    "name": "x64runavx660f3a.c",
+    "path": "src/emu/x64runavx660f3a.c",
+    "sha": "4a5ea456bb71710235a61f6bcb7ba37392c647bf",
+    "size": 30837,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavx660f3a.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavx660f3a.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/4a5ea456bb71710235a61f6bcb7ba37392c647bf",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runavx660f3a.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavx660f3a.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/4a5ea456bb71710235a61f6bcb7ba37392c647bf",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavx660f3a.c"
+    }
+  },
+  {
+    "name": "x64runavxf20f.c",
+    "path": "src/emu/x64runavxf20f.c",
+    "sha": "a6224f59e0f08f5df52ea92c2f842ce2dee01ac9",
+    "size": 17383,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavxf20f.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavxf20f.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a6224f59e0f08f5df52ea92c2f842ce2dee01ac9",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runavxf20f.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavxf20f.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a6224f59e0f08f5df52ea92c2f842ce2dee01ac9",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavxf20f.c"
+    }
+  },
+  {
+    "name": "x64runavxf20f38.c",
+    "path": "src/emu/x64runavxf20f38.c",
+    "sha": "05754092665f4b244e1f0bddab334bbfc2f33167",
+    "size": 2921,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavxf20f38.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavxf20f38.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/05754092665f4b244e1f0bddab334bbfc2f33167",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runavxf20f38.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavxf20f38.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/05754092665f4b244e1f0bddab334bbfc2f33167",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavxf20f38.c"
+    }
+  },
+  {
+    "name": "x64runavxf20f3a.c",
+    "path": "src/emu/x64runavxf20f3a.c",
+    "sha": "dc8142dbe482e02f9e623d4ad66aef3b50e36b17",
+    "size": 1895,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavxf20f3a.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavxf20f3a.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/dc8142dbe482e02f9e623d4ad66aef3b50e36b17",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runavxf20f3a.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavxf20f3a.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/dc8142dbe482e02f9e623d4ad66aef3b50e36b17",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavxf20f3a.c"
+    }
+  },
+  {
+    "name": "x64runavxf30f.c",
+    "path": "src/emu/x64runavxf30f.c",
+    "sha": "89c0bad4b94e6d7e0cc3f399d9fd1c4e8ba497f2",
+    "size": 15186,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavxf30f.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavxf30f.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/89c0bad4b94e6d7e0cc3f399d9fd1c4e8ba497f2",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runavxf30f.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavxf30f.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/89c0bad4b94e6d7e0cc3f399d9fd1c4e8ba497f2",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavxf30f.c"
+    }
+  },
+  {
+    "name": "x64runavxf30f38.c",
+    "path": "src/emu/x64runavxf30f38.c",
+    "sha": "a2ed5225559d371f88f7418e46635e5d876bbbc3",
+    "size": 2443,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavxf30f38.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavxf30f38.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a2ed5225559d371f88f7418e46635e5d876bbbc3",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runavxf30f38.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavxf30f38.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a2ed5225559d371f88f7418e46635e5d876bbbc3",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavxf30f38.c"
+    }
+  },
+  {
+    "name": "x64runavxf30f3a.c",
+    "path": "src/emu/x64runavxf30f3a.c",
+    "sha": "c5dc9a17d842cbf2c200eb1e9c64368dcd02ce42",
+    "size": 1352,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavxf30f3a.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavxf30f3a.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/c5dc9a17d842cbf2c200eb1e9c64368dcd02ce42",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runavxf30f3a.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runavxf30f3a.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/c5dc9a17d842cbf2c200eb1e9c64368dcd02ce42",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runavxf30f3a.c"
+    }
+  },
+  {
+    "name": "x64rund8.c",
+    "path": "src/emu/x64rund8.c",
+    "sha": "fcd0b0eec7f1fb3d19a06551c22bb583db70897f",
+    "size": 4072,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64rund8.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64rund8.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/fcd0b0eec7f1fb3d19a06551c22bb583db70897f",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64rund8.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64rund8.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/fcd0b0eec7f1fb3d19a06551c22bb583db70897f",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64rund8.c"
+    }
+  },
+  {
+    "name": "x64rund9.c",
+    "path": "src/emu/x64rund9.c",
+    "sha": "df39ed3e30bb1d9fc3a643f0779749d9a4851c0d",
+    "size": 7936,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64rund9.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64rund9.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/df39ed3e30bb1d9fc3a643f0779749d9a4851c0d",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64rund9.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64rund9.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/df39ed3e30bb1d9fc3a643f0779749d9a4851c0d",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64rund9.c"
+    }
+  },
+  {
+    "name": "x64runda.c",
+    "path": "src/emu/x64runda.c",
+    "sha": "aed775f90402a5f582e67759c5795b6dbf7e57c1",
+    "size": 3424,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runda.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runda.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/aed775f90402a5f582e67759c5795b6dbf7e57c1",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runda.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runda.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/aed775f90402a5f582e67759c5795b6dbf7e57c1",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runda.c"
+    }
+  },
+  {
+    "name": "x64rundb.c",
+    "path": "src/emu/x64rundb.c",
+    "sha": "9fdae84771a9502aca5c15259d678520fb742322",
+    "size": 5208,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64rundb.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64rundb.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/9fdae84771a9502aca5c15259d678520fb742322",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64rundb.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64rundb.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/9fdae84771a9502aca5c15259d678520fb742322",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64rundb.c"
+    }
+  },
+  {
+    "name": "x64rundc.c",
+    "path": "src/emu/x64rundc.c",
+    "sha": "6d9ff07bf2ca0a70cdd26bbd4ea5eee479091afc",
+    "size": 3764,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64rundc.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64rundc.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/6d9ff07bf2ca0a70cdd26bbd4ea5eee479091afc",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64rundc.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64rundc.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/6d9ff07bf2ca0a70cdd26bbd4ea5eee479091afc",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64rundc.c"
+    }
+  },
+  {
+    "name": "x64rundd.c",
+    "path": "src/emu/x64rundd.c",
+    "sha": "5aa2339541369bebdb3e2fa654bb1bf5467d5531",
+    "size": 4576,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64rundd.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64rundd.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/5aa2339541369bebdb3e2fa654bb1bf5467d5531",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64rundd.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64rundd.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/5aa2339541369bebdb3e2fa654bb1bf5467d5531",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64rundd.c"
+    }
+  },
+  {
+    "name": "x64runde.c",
+    "path": "src/emu/x64runde.c",
+    "sha": "4cb5e4a2aabf9abcbb9ac8b7ac76be811132c9f6",
+    "size": 3998,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runde.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runde.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/4cb5e4a2aabf9abcbb9ac8b7ac76be811132c9f6",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runde.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runde.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/4cb5e4a2aabf9abcbb9ac8b7ac76be811132c9f6",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runde.c"
+    }
+  },
+  {
+    "name": "x64rundf.c",
+    "path": "src/emu/x64rundf.c",
+    "sha": "dfedb2930d799ba7e4fbc4f8aadce07b696cc883",
+    "size": 4547,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64rundf.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64rundf.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/dfedb2930d799ba7e4fbc4f8aadce07b696cc883",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64rundf.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64rundf.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/dfedb2930d799ba7e4fbc4f8aadce07b696cc883",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64rundf.c"
+    }
+  },
+  {
+    "name": "x64runf0.c",
+    "path": "src/emu/x64runf0.c",
+    "sha": "0f6c9297a7ceb1d20f39c102a2379f51eae357f0",
+    "size": 63720,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runf0.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runf0.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/0f6c9297a7ceb1d20f39c102a2379f51eae357f0",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runf0.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runf0.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/0f6c9297a7ceb1d20f39c102a2379f51eae357f0",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runf0.c"
+    }
+  },
+  {
+    "name": "x64runf20f.c",
+    "path": "src/emu/x64runf20f.c",
+    "sha": "92292f3c937ed4b15e71fc0ea23d5660c3e6ea5d",
+    "size": 12597,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runf20f.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runf20f.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/92292f3c937ed4b15e71fc0ea23d5660c3e6ea5d",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runf20f.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runf20f.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/92292f3c937ed4b15e71fc0ea23d5660c3e6ea5d",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runf20f.c"
+    }
+  },
+  {
+    "name": "x64runf30f.c",
+    "path": "src/emu/x64runf30f.c",
+    "sha": "d42586fed5f22561c929de52d5985866657b354b",
+    "size": 12671,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runf30f.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runf30f.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/d42586fed5f22561c929de52d5985866657b354b",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64runf30f.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64runf30f.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/d42586fed5f22561c929de52d5985866657b354b",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64runf30f.c"
+    }
+  },
+  {
+    "name": "x64shaext.c",
+    "path": "src/emu/x64shaext.c",
+    "sha": "a0533bb38f57131b1803302faaeb30441cfa3223",
+    "size": 4642,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64shaext.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64shaext.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a0533bb38f57131b1803302faaeb30441cfa3223",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64shaext.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64shaext.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a0533bb38f57131b1803302faaeb30441cfa3223",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64shaext.c"
+    }
+  },
+  {
+    "name": "x64shaext.h",
+    "path": "src/emu/x64shaext.h",
+    "sha": "a86102dc1de775fd11ea73f42a487d4d0176070e",
+    "size": 635,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64shaext.h?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64shaext.h",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a86102dc1de775fd11ea73f42a487d4d0176070e",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64shaext.h",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64shaext.h?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/a86102dc1de775fd11ea73f42a487d4d0176070e",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64shaext.h"
+    }
+  },
+  {
+    "name": "x64syscall.c",
+    "path": "src/emu/x64syscall.c",
+    "sha": "9e30045e32fddabb440f4b44f728f489c794e1c3",
+    "size": 40170,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64syscall.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64syscall.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/9e30045e32fddabb440f4b44f728f489c794e1c3",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64syscall.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64syscall.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/9e30045e32fddabb440f4b44f728f489c794e1c3",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64syscall.c"
+    }
+  },
+  {
+    "name": "x64test.c",
+    "path": "src/emu/x64test.c",
+    "sha": "95021ca4fba2d5d2a590d90501076a19c0cbc869",
+    "size": 6785,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64test.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64test.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/95021ca4fba2d5d2a590d90501076a19c0cbc869",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64test.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64test.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/95021ca4fba2d5d2a590d90501076a19c0cbc869",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64test.c"
+    }
+  },
+  {
+    "name": "x64tls.c",
+    "path": "src/emu/x64tls.c",
+    "sha": "78f83c74e937a17a794726b76c711181d9b4dcd8",
+    "size": 12978,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64tls.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64tls.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/78f83c74e937a17a794726b76c711181d9b4dcd8",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64tls.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64tls.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/78f83c74e937a17a794726b76c711181d9b4dcd8",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64tls.c"
+    }
+  },
+  {
+    "name": "x64trace.c",
+    "path": "src/emu/x64trace.c",
+    "sha": "415a268ca8edb77560056ad7b72b91d13f4b1b3c",
+    "size": 4996,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64trace.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64trace.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/415a268ca8edb77560056ad7b72b91d13f4b1b3c",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x64trace.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x64trace.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/415a268ca8edb77560056ad7b72b91d13f4b1b3c",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x64trace.c"
+    }
+  },
+  {
+    "name": "x86syscall.c",
+    "path": "src/emu/x86syscall.c",
+    "sha": "1d28a989df0a90b99dd5398949390407249f818d",
+    "size": 9221,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x86syscall.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x86syscall.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/1d28a989df0a90b99dd5398949390407249f818d",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x86syscall.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x86syscall.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/1d28a989df0a90b99dd5398949390407249f818d",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x86syscall.c"
+    }
+  },
+  {
+    "name": "x86zydis.h",
+    "path": "src/emu/x86zydis.h",
+    "sha": "ec7aea7965a6b55b41c3027824f9c2bf570f1a74",
+    "size": 125338,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x86zydis.h?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x86zydis.h",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/ec7aea7965a6b55b41c3027824f9c2bf570f1a74",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x86zydis.h",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x86zydis.h?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/ec7aea7965a6b55b41c3027824f9c2bf570f1a74",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x86zydis.h"
+    }
+  },
+  {
+    "name": "x87emu_private.c",
+    "path": "src/emu/x87emu_private.c",
+    "sha": "c54f80d58b6301c5b1fbf126358bcc3b45ff7e19",
+    "size": 18014,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x87emu_private.c?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x87emu_private.c",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/c54f80d58b6301c5b1fbf126358bcc3b45ff7e19",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x87emu_private.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x87emu_private.c?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/c54f80d58b6301c5b1fbf126358bcc3b45ff7e19",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x87emu_private.c"
+    }
+  },
+  {
+    "name": "x87emu_private.h",
+    "path": "src/emu/x87emu_private.h",
+    "sha": "74758acf0447da8044be0ed78b39e519fd5c2195",
+    "size": 5844,
+    "url": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x87emu_private.h?ref=v0.3.0",
+    "html_url": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x87emu_private.h",
+    "git_url": "https://api.github.com/repos/ptitSeb/box64/git/blobs/74758acf0447da8044be0ed78b39e519fd5c2195",
+    "download_url": "https://raw.githubusercontent.com/ptitSeb/box64/v0.3.0/src/emu/x87emu_private.h",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ptitSeb/box64/contents/src/emu/x87emu_private.h?ref=v0.3.0",
+      "git": "https://api.github.com/repos/ptitSeb/box64/git/blobs/74758acf0447da8044be0ed78b39e519fd5c2195",
+      "html": "https://github.com/ptitSeb/box64/blob/v0.3.0/src/emu/x87emu_private.h"
+    }
+  }
+]

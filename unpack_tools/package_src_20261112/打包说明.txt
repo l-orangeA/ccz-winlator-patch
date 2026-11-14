@@ -1,0 +1,32 @@
+﻿2026-11-13 整合包（曹操传Winlator整合包_20261113.zip）打包说明
+============================================================
+
+定位：只放**安装所需**文件，不含技术文档/日志/记录（那些在 GitHub 仓库 docs/ 里）。
+包内 10 项：
+  说明.txt
+  2-模拟器\  winlator8.0_ccz_fr120.apk、winlator8.0_original.apk、testkey.p12
+  3-补丁\    ntdll_fix110b_modfix.so、win32u_r109g.so、wineserver_r112b.so、
+             container.json（= device_backup\phone_container_20261112_live.json）、
+             部署补丁.ps1、部署说明.txt
+  （不含游戏）
+
+本目录是本包的 canonical 源（四个手写/生成文件）：
+  说明.txt / 3-补丁_部署补丁.ps1 / 3-补丁_部署说明.txt / 打包说明.txt
+其余文件直接取自仓库现有路径，不另存副本。
+
+重建步骤
+  1) 建 staging：deliverables\_stage_YYYYMMDD\曹操传Winlator整合包\{2-模拟器,3-补丁}
+  2) 复制：apk\ 两个 APK + testkey.p12；build\ 三个 so；
+           device_backup\phone_container_20261112_live.json -> 3-补丁\container.json；
+           本目录的 说明.txt / 3-补丁_部署补丁.ps1 / 3-补丁_部署说明.txt
+  3) PowerShell：
+     Add-Type -AssemblyName System.IO.Compression.FileSystem
+     [System.IO.Compression.ZipFile]::CreateFromDirectory(
+        '<staging>\曹操传Winlator整合包', '<dist>\曹操传Winlator整合包_YYYYMMDD.zip',
+        [System.IO.Compression.CompressionLevel]::Fastest, $true)
+  4) 删 staging；算 SHA256 填到 Release 说明里。
+
+注意
+  - 部署补丁.ps1 必须带 UTF-8 BOM（PS 5.1 否则按 ANSI 解析中文会报 Unexpected token）。
+  - 打包后建议从 zip 解出 3-补丁 实跑一次脚本验收（11-12 这样测过：exit 0、md5 全对）。
+  - 11-12 版曾带 4-文档（报告/攻坚日志/设备快照），按用户要求 11-13 起移除。

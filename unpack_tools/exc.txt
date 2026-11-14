@@ -1,0 +1,6 @@
+55924:29006|0x3f000426b4: Calling write(2, 0x7ffc3404"00e4:warn:seh:dispatch_exception EXCEPTION_BREAKPOINT exception (code=80000003) raised
+56011:29006|0x3f000426d3: Calling write(2, 0x7ffc3404"00e4:warn:seh:dispatch_exception EXCEPTION_BREAKPOINT exception (code=80000003) raised
+56093:29006|0x3f000426b4: Calling write(2, 0x7ffc3404"00e4:warn:seh:dispatch_exception EXCEPTION_BREAKPOINT exception (code=80000003) raised
+56180:29006|0x3f000426d3: Calling write(2, 0x7ffc3404"00e4:warn:seh:dispatch_exception EXCEPTION_BREAKPOINT exception (code=80000003) raised
+56221:29006|SIGSEGV @0x770c1ef4e0 (???(0x770c1ef4e0)) (x64pc=0x587057/???:"???", rsp=0x8afdc0, stack=0x770e801000:0x770f001000 own=(nil) fp=0x31fe80), for accessing 0x8afdbe (code=2/prot=5), db=0x770bfe41a8(0x770c1ef458:0x770c1ef690/0x58703
+56282:29006|0x3f0004276d: Calling write(2, 0x7ffc3404"00e4:err:virtual:virtual_setup_exception nested exception on signal stack addr 0x3f0007b224 stack 0x7ffcf170

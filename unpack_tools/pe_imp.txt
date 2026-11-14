@@ -1,0 +1,13 @@
+ImportDir RVA=00233000
+  KERNEL32.dll             1 funcs
+  USER32.dll               1 funcs
+  KERNEL32.dll             43 funcs
+  USER32.dll               18 funcs
+  GDI32.dll                7 funcs
+  ADVAPI32.dll             1 funcs
+  SHELL32.dll              1 funcs
+  ole32.dll                1 funcs
+  PSAPI.DLL                1 funcs
+  imagehlp.dll             1 funcs
+  COMCTL32.dll             2 funcs
+  SHLWAPI.dll              1 funcs

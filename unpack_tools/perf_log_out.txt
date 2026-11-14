@@ -1,0 +1,24 @@
+  [boot1] t=1.3 state=other shot=57750
+  [boot1] t=68.3 state=title shot=972741
+TITLE
+  tap1 -> title (shot=974358)
+  tap2 -> confirm (shot=643271)
+  slot tap1 -> confirm (shot=634084) {'title': 3359, 'dialog': 105, 'confirm': 51}
+  confirm -> scene (shot=2657154)
+BATTLE OK
+--- CCZPERF (idle battle) ---
+
+LATENCY n=127 median=12.45 p90=24.91 max=348.8 buckets={'<20': 112, '>=80': 9, '<40': 3, '<80': 2}
+--- app threads ---
+19503 mali-event-hand
+
+19506 mali-mem-purge
+
+19507 mali-cpu-comman
+
+19517 GLThread 245585
+
+19550 Thread-5
+
+
+DONE

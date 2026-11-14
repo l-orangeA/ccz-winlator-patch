@@ -1,0 +1,7 @@
+init "D:\ccz_winlator_patch\unpack_tools\game\Ekd5.exe"
+bp ntdll.NtTerminateProcess
+bp kernel32.ExitProcess
+erun
+erun
+savedata "D:\ccz_winlator_patch\unpack_tools\exitstack.bin", esp, 512
+stop

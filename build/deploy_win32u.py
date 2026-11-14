@@ -4,7 +4,7 @@
 import subprocess, os, sys
 
 ADB = os.environ.get("ADB", r"D:\MuMuPlayer\nx_main\adb.exe")
-SER = "10AD981EF20020P"
+SER = "PHONE_SERIAL_REDACTED"
 ENV = dict(os.environ, MSYS_NO_PATHCONV="1")
 REMOTE = "files/imagefs/opt/wine/lib/wine/x86_64-unix/win32u.so"
 

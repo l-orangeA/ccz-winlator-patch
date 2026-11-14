@@ -1,0 +1,447 @@
+00010000-00016000 rwxp 00000000 00:00 0 
+00020000-00021000 rwxp 00000000 00:00 0 
+00030000-00031000 rwxp 00000000 00:00 0 
+00040000-00041000 rwxp 00000000 00:00 0 
+00050000-00052000 rwxp 00000000 00:00 0 
+00060000-00061000 rwxp 00000000 00:00 0 
+00070000-00071000 rwxp 00000000 00:00 0 
+00080000-00081000 rwxp 00000000 00:00 0 
+00090000-00091000 rwxp 00000000 00:00 0 
+000a0000-000a1000 rwxp 00000000 00:00 0 
+000b0000-000b1000 rwxp 00000000 00:00 0 
+000c0000-000c1000 rwxp 00000000 00:00 0 
+000d0000-000d1000 rwxp 00000000 00:00 0 
+000e0000-000e1000 rwxp 00000000 00:00 0 
+000f0000-000f2000 rwxp 00000000 00:00 0 
+00100000-00101000 rwxp 00000000 00:00 0 
+00110000-00112000 r-xs 00000000 fe:50 143695                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/share/wine/nls/l_intl.nls
+00120000-00122000 ---p 00000000 00:00 0 
+00122000-0031f000 rwxp 00000000 00:00 0 
+0031f000-00320000 rw-p 00000000 00:00 0 
+00320000-00331000 r-xs 00000000 fe:50 168154                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/apisetschema.dll
+00340000-0035a000 rwxp 00000000 00:00 0 
+00360000-00370000 rwxp 00000000 00:00 0 
+00370000-003a1000 r-xs 00000000 fe:50 143692                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/share/wine/nls/c_936.nls
+003b0000-003e1000 r-xs 00000000 fe:50 143692                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/share/wine/nls/c_936.nls
+003f0000-003ff000 r-xs 00000000 fe:50 143698                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/share/wine/nls/normnfc.nls
+00400000-0056e000 r-xp 00000000 00:00 0 
+0056e000-0056f000 rwxp 00000000 00:00 0 
+0056f000-00570000 r-xp 00000000 00:00 0 
+00570000-00585000 rwxp 00000000 00:00 0 
+00585000-0058e000 r-xp 00000000 00:00 0 
+0058e000-005ae000 rwxp 00000000 00:00 0 
+005ae000-005af000 r-xp 00000000 00:00 0 
+005af000-00633000 rwxp 00000000 00:00 0 
+00633000-00646000 r-xp 00000000 00:00 0 
+00650000-0070a000 r-xs 00000000 fe:50 143696                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/share/wine/nls/locale.nls
+00710000-00790000 rwxp 00000000 00:00 0 
+00790000-008af000 r-xs 00000000 fe:50 143708                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/share/wine/nls/sortdefault.nls
+008af000-008b0000 rw-p 00000000 00:00 0 
+008b0000-00ac9000 r-xs 00120000 fe:50 143708                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/share/wine/nls/sortdefault.nls
+00ad0000-00ae6000 rwxp 00000000 00:00 0 
+00af0000-00b01000 r-xs 00000000 fe:50 143569                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/share/wine/nls/c_20127.nls
+00b10000-00b26000 rwxp 00000000 00:00 0 
+00b30000-00cb0000 rwxp 00000000 00:00 0 
+00cb0000-00cc1000 r-xs 00000000 fe:50 143507                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/share/wine/nls/c_10000.nls
+00cd0000-00ce1000 rwxp 00000000 00:00 0 
+00cf0000-00cf1000 rwxp 00000000 00:00 0 
+10000000-10081000 ---p 00000000 00:00 0 
+30110000-30111000 rwxp 00000000 00:00 0 
+30120000-30121000 rwxp 00000000 00:00 0 
+30130000-30131000 rwxp 00000000 00:00 0 
+30140000-30141000 rwxp 00000000 00:00 0 
+30150000-30151000 rwxp 00000000 00:00 0 
+30160000-30161000 rwxp 00000000 00:00 0 
+30170000-30171000 rwxp 00000000 00:00 0 
+30180000-30181000 rwxp 00000000 00:00 0 
+30190000-30191000 rwxp 00000000 00:00 0 
+34800000-359c2000 r-xp 00000000 fe:50 149630                             /data/user/0/com.winlatcn/files/imagefs/usr/local/bin/box64
+359d2000-35ab6000 r--p 011c2000 fe:50 149630                             /data/user/0/com.winlatcn/files/imagefs/usr/local/bin/box64
+35ab6000-35aba000 rw-p 012a6000 fe:50 149630                             /data/user/0/com.winlatcn/files/imagefs/usr/local/bin/box64
+35aba000-36c39000 rw-p 00000000 00:00 0 
+60000000-60201000 rw-p 00000000 00:00 0 
+60210000-60510000 rw-p 00000000 00:00 0 
+60510000-60511000 rw-s 00000000 fe:50 224438                             /data/user/0/com.winlatcn/files/imagefs/tmp/shm/wine-23ed1-esync
+60520000-60521000 rw-s 00001000 fe:50 224438                             /data/user/0/com.winlatcn/files/imagefs/tmp/shm/wine-23ed1-esync
+60530000-60534000 r--p 00000000 fe:50 143458                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/share/wine/fonts/svgasys.fon
+79f60000-79f64000 r-xp 00000000 fe:50 175750                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/winex11.drv
+79f64000-79f66000 rwxp 00004000 fe:50 175750                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/winex11.drv
+79f66000-79f71000 r-xp 00006000 fe:50 175750                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/winex11.drv
+79f71000-79f72000 rwxp 00000000 00:00 0 
+79f72000-79f73000 r-xp 00011000 fe:50 175750                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/winex11.drv
+79f73000-79f75000 rwxp 00012000 fe:50 175750                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/winex11.drv
+79f75000-79f76000 r-xp 00014000 fe:50 175750                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/winex11.drv
+79f90000-79f93000 r-xp 00000000 fe:50 136279                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/mswsock.dll
+79f93000-79f95000 rwxp 00003000 fe:50 136279                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/mswsock.dll
+79f95000-79f97000 r-xp 00005000 fe:50 136279                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/mswsock.dll
+79f97000-79f98000 rwxp 00000000 00:00 0 
+79f98000-79f99000 r-xp 00007000 fe:50 136279                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/mswsock.dll
+79f99000-79f9b000 rwxp 00008000 fe:50 136279                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/mswsock.dll
+79f9b000-79f9c000 r-xp 0000a000 fe:50 136279                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/mswsock.dll
+79fb0000-79fc4000 r-xp 00000000 fe:50 127063                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ws2_32.dll
+79fc4000-79fc6000 rwxp 00014000 fe:50 127063                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ws2_32.dll
+79fc6000-79fcc000 r-xp 00016000 fe:50 127063                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ws2_32.dll
+79fcc000-79fcd000 rwxp 00000000 00:00 0 
+79fcd000-79fcf000 r-xp 0001c000 fe:50 127063                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ws2_32.dll
+79fcf000-79fd3000 rwxp 0001e000 fe:50 127063                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ws2_32.dll
+79fd3000-79fd5000 r-xp 00022000 fe:50 127063                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ws2_32.dll
+79ff0000-79fff000 r-xp 00000000 fe:50 8767                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/imm32.dll
+79fff000-7a001000 rwxp 0000f000 fe:50 8767                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/imm32.dll
+7a001000-7a005000 r-xp 00011000 fe:50 8767                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/imm32.dll
+7a005000-7a006000 rwxp 00000000 00:00 0 
+7a006000-7a007000 r-xp 00015000 fe:50 8767                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/imm32.dll
+7a007000-7a009000 rwxp 00016000 fe:50 8767                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/imm32.dll
+7a009000-7a00a000 r-xp 00018000 fe:50 8767                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/imm32.dll
+7a020000-7a0de000 r-xp 00000000 fe:50 177469                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/comctl32.dll
+7a0de000-7a0e0000 rwxp 000be000 fe:50 177469                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/comctl32.dll
+7a0e0000-7a102000 r-xp 000c0000 fe:50 177469                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/comctl32.dll
+7a102000-7a104000 rwxp 00000000 00:00 0 
+7a104000-7a106000 r-xp 000e2000 fe:50 177469                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/comctl32.dll
+7a106000-7a151000 rwxp 000e4000 fe:50 177469                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/comctl32.dll
+7a151000-7a15c000 r-xp 0012f000 fe:50 177469                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/comctl32.dll
+7a170000-7a1c2000 r-xp 00000000 fe:50 133570                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/dbghelp.dll
+7a1c2000-7a1c4000 rwxp 00052000 fe:50 133570                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/dbghelp.dll
+7a1c4000-7a1d2000 r-xp 00054000 fe:50 133570                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/dbghelp.dll
+7a1d2000-7a1d9000 rwxp 00000000 00:00 0 
+7a1d9000-7a1db000 r-xp 00062000 fe:50 133570                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/dbghelp.dll
+7a1db000-7a1dd000 rwxp 00064000 fe:50 133570                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/dbghelp.dll
+7a1dd000-7a1e2000 r-xp 00066000 fe:50 133570                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/dbghelp.dll
+7a200000-7a204000 r-xp 00000000 fe:50 177491                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/coml2.dll
+7a204000-7a206000 rwxp 00004000 fe:50 177491                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/coml2.dll
+7a206000-7a210000 r-xp 00006000 fe:50 177491                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/coml2.dll
+7a210000-7a211000 rwxp 00000000 00:00 0 
+7a211000-7a212000 r-xp 00010000 fe:50 177491                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/coml2.dll
+7a212000-7a213000 rwxp 00011000 fe:50 177491                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/coml2.dll
+7a213000-7a214000 r-xp 00012000 fe:50 177491                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/coml2.dll
+7a230000-7a283000 r-xp 00000000 fe:50 168801                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/rpcrt4.dll
+7a283000-7a286000 rwxp 00053000 fe:50 168801                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/rpcrt4.dll
+7a286000-7a2a1000 r-xp 00056000 fe:50 168801                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/rpcrt4.dll
+7a2a1000-7a2a2000 rwxp 00000000 00:00 0 
+7a2a2000-7a2a7000 r-xp 00071000 fe:50 168801                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/rpcrt4.dll
+7a2a7000-7a2aa000 rwxp 00076000 fe:50 168801                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/rpcrt4.dll
+7a2aa000-7a2b0000 r-xp 00079000 fe:50 168801                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/rpcrt4.dll
+7a2c0000-7a2eb000 r-xp 00000000 fe:50 177471                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/combase.dll
+7a2eb000-7a2ee000 rwxp 0002b000 fe:50 177471                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/combase.dll
+7a2ee000-7a300000 r-xp 0002e000 fe:50 177471                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/combase.dll
+7a300000-7a301000 rwxp 00000000 00:00 0 
+7a301000-7a304000 r-xp 00040000 fe:50 177471                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/combase.dll
+7a304000-7a306000 rwxp 00043000 fe:50 177471                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/combase.dll
+7a306000-7a309000 r-xp 00045000 fe:50 177471                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/combase.dll
+7a320000-7a3c4000 r-xp 00000000 fe:50 8615                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ole32.dll
+7a3c4000-7a3c6000 rwxp 000a4000 fe:50 8615                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ole32.dll
+7a3c6000-7a3e3000 r-xp 000a6000 fe:50 8615                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ole32.dll
+7a3e3000-7a3e4000 rwxp 00000000 00:00 0 
+7a3e4000-7a3e8000 r-xp 000c3000 fe:50 8615                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ole32.dll
+7a3e8000-7a410000 rwxp 000c7000 fe:50 8615                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ole32.dll
+7a410000-7a41a000 r-xp 000ef000 fe:50 8615                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ole32.dll
+7a430000-7a43b000 r-xp 00000000 fe:50 154473                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shcore.dll
+7a43b000-7a43d000 rwxp 0000b000 fe:50 154473                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shcore.dll
+7a43d000-7a442000 r-xp 0000d000 fe:50 154473                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shcore.dll
+7a442000-7a443000 rwxp 00000000 00:00 0 
+7a443000-7a444000 r-xp 00012000 fe:50 154473                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shcore.dll
+7a444000-7a445000 rwxp 00013000 fe:50 154473                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shcore.dll
+7a445000-7a446000 r-xp 00014000 fe:50 154473                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shcore.dll
+7a460000-7a483000 r-xp 00000000 fe:50 168066                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shlwapi.dll
+7a483000-7a486000 rwxp 00023000 fe:50 168066                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shlwapi.dll
+7a486000-7a498000 r-xp 00026000 fe:50 168066                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shlwapi.dll
+7a498000-7a499000 rwxp 00000000 00:00 0 
+7a499000-7a49e000 r-xp 00038000 fe:50 168066                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shlwapi.dll
+7a49e000-7a4a8000 rwxp 0003d000 fe:50 168066                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shlwapi.dll
+7a4a8000-7a4aa000 r-xp 00047000 fe:50 168066                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shlwapi.dll
+7a4c0000-7a567000 r-xp 00000000 fe:50 162839                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shell32.dll
+7a567000-7a56a000 rwxp 000a7000 fe:50 162839                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shell32.dll
+7a56a000-7a595000 r-xp 000aa000 fe:50 162839                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shell32.dll
+7a595000-7a596000 rwxp 00000000 00:00 0 
+7a596000-7a59a000 r-xp 000d5000 fe:50 162839                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shell32.dll
+7a59a000-7a659000 rwxp 000d9000 fe:50 162839                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shell32.dll
+7a659000-7a664000 r-xp 00198000 fe:50 162839                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/shell32.dll
+7a680000-7a68d000 r-xp 00000000 fe:50 154349                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/win32u.dll
+7a68d000-7a696000 rwxp 0000d000 fe:50 154349                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/win32u.dll
+7a696000-7a69f000 r-xp 00016000 fe:50 154349                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/win32u.dll
+7a69f000-7a6a0000 rwxp 00000000 00:00 0 
+7a6a0000-7a6ac000 r-xp 0001f000 fe:50 154349                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/win32u.dll
+7a6ac000-7a6ad000 rwxp 0002b000 fe:50 154349                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/win32u.dll
+7a6ad000-7a6af000 r-xp 0002c000 fe:50 154349                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/win32u.dll
+7a6c0000-7a70e000 r-xp 00000000 fe:50 143905                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/gdi32.dll
+7a70e000-7a710000 rwxp 0004e000 fe:50 143905                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/gdi32.dll
+7a710000-7a72b000 r-xp 00050000 fe:50 143905                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/gdi32.dll
+7a72b000-7a72c000 rwxp 00000000 00:00 0 
+7a72c000-7a730000 r-xp 0006b000 fe:50 143905                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/gdi32.dll
+7a730000-7a738000 rwxp 0006f000 fe:50 143905                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/gdi32.dll
+7a738000-7a73c000 r-xp 00077000 fe:50 143905                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/gdi32.dll
+7a750000-7a7e4000 r-xp 00000000 fe:50 131020                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ucrtbase.dll
+7a7e4000-7a7ea000 rwxp 00094000 fe:50 131020                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ucrtbase.dll
+7a7ea000-7a80a000 r-xp 0009a000 fe:50 131020                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ucrtbase.dll
+7a80a000-7a80c000 rwxp 00000000 00:00 0 
+7a80c000-7a81a000 r-xp 000ba000 fe:50 131020                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ucrtbase.dll
+7a81a000-7a81d000 rwxp 000c8000 fe:50 131020                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ucrtbase.dll
+7a81d000-7a823000 r-xp 000cb000 fe:50 131020                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ucrtbase.dll
+7a840000-7a859000 r-xp 00000000 fe:50 183439                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/sechost.dll
+7a859000-7a85b000 rwxp 00019000 fe:50 183439                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/sechost.dll
+7a85b000-7a860000 r-xp 0001b000 fe:50 183439                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/sechost.dll
+7a860000-7a861000 rwxp 00000000 00:00 0 
+7a861000-7a863000 r-xp 00020000 fe:50 183439                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/sechost.dll
+7a863000-7a864000 rwxp 00022000 fe:50 183439                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/sechost.dll
+7a864000-7a866000 r-xp 00023000 fe:50 183439                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/sechost.dll
+7a880000-7a8fa000 r-xp 00000000 fe:50 168829                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/msvcrt.dll
+7a8fa000-7a8fe000 rwxp 0007a000 fe:50 168829                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/msvcrt.dll
+7a8fe000-7a912000 r-xp 0007e000 fe:50 168829                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/msvcrt.dll
+7a912000-7a914000 rwxp 00000000 00:00 0 
+7a914000-7a91b000 r-xp 00092000 fe:50 168829                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/msvcrt.dll
+7a91b000-7a91e000 rwxp 00099000 fe:50 168829                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/msvcrt.dll
+7a91e000-7a923000 r-xp 0009c000 fe:50 168829                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/msvcrt.dll
+7a940000-7a964000 r-xp 00000000 fe:50 177298                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/advapi32.dll
+7a964000-7a966000 rwxp 00024000 fe:50 177298                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/advapi32.dll
+7a966000-7a970000 r-xp 00026000 fe:50 177298                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/advapi32.dll
+7a970000-7a972000 rwxp 00000000 00:00 0 
+7a972000-7a977000 r-xp 00030000 fe:50 177298                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/advapi32.dll
+7a977000-7a97b000 rwxp 00035000 fe:50 177298                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/advapi32.dll
+7a97b000-7a97d000 r-xp 00039000 fe:50 177298                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/advapi32.dll
+7a990000-7aa2a000 r-xp 00000000 fe:50 8874                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/user32.dll
+7aa2a000-7aa2c000 rwxp 0009a000 fe:50 8874                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/user32.dll
+7aa2c000-7aa44000 r-xp 0009c000 fe:50 8874                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/user32.dll
+7aa44000-7aa45000 rwxp 00000000 00:00 0 
+7aa45000-7aa4b000 r-xp 000b4000 fe:50 8874                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/user32.dll
+7aa4b000-7ab0e000 rwxp 000ba000 fe:50 8874                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/user32.dll
+7ab0e000-7ab15000 r-xp 0017d000 fe:50 8874                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/user32.dll
+7ab30000-7abb4000 r-xp 00000000 fe:50 168820                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/kernelbase.dll
+7abb4000-7abb8000 rwxp 00084000 fe:50 168820                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/kernelbase.dll
+7abb8000-7abd6000 r-xp 00088000 fe:50 168820                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/kernelbase.dll
+7abd6000-7abd8000 rwxp 00000000 00:00 0 
+7abd8000-7abe3000 r-xp 000a6000 fe:50 168820                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/kernelbase.dll
+7abe3000-7adb4000 rwxp 000b1000 fe:50 168820                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/kernelbase.dll
+7adb4000-7adba000 r-xp 00282000 fe:50 168820                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/kernelbase.dll
+7add0000-7adff000 r-xp 00000000 fe:50 168919                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/kernel32.dll
+7adff000-7ae03000 rwxp 0002f000 fe:50 168919                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/kernel32.dll
+7ae03000-7ae0f000 r-xp 00033000 fe:50 168919                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/kernel32.dll
+7ae0f000-7ae10000 rwxp 00000000 00:00 0 
+7ae10000-7ae11000 r-xp 0003f000 fe:50 168919                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/kernel32.dll
+7ae11000-7ae1c000 r-xp 00040000 fe:50 168919                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/kernel32.dll
+7ae1c000-7ae2d000 rwxp 0004b000 fe:50 168919                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/kernel32.dll
+7ae2d000-7ae30000 r-xp 0005c000 fe:50 168919                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/kernel32.dll
+7ae40000-7ae4c000 r-xp 00000000 fe:50 143070                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64win.dll
+7ae4c000-7ae4d000 rwxp 0000c000 fe:50 143070                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64win.dll
+7ae4d000-7ae53000 r-xp 0000d000 fe:50 143070                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64win.dll
+7ae53000-7ae58000 rwxp 00013000 fe:50 143070                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64win.dll
+7ae58000-7ae59000 r-xp 00018000 fe:50 143070                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64win.dll
+7ae70000-7ae85000 r-xp 00000000 fe:50 143061                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64.dll
+7ae85000-7ae87000 rwxp 00015000 fe:50 143061                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64.dll
+7ae87000-7ae8c000 r-xp 00017000 fe:50 143061                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64.dll
+7ae8c000-7ae8d000 rwxp 00000000 00:00 0 
+7ae8d000-7ae8e000 r-xp 0001c000 fe:50 143061                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64.dll
+7ae8e000-7ae91000 rwxp 0001d000 fe:50 143061                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64.dll
+7ae91000-7ae92000 r-xp 00020000 fe:50 143061                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64.dll
+7aeb0000-7af20000 r-xp 00000000 fe:50 136491                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ntdll.dll
+7af20000-7af24000 rwxp 00070000 fe:50 136491                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ntdll.dll
+7af24000-7af3f000 r-xp 00074000 fe:50 136491                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ntdll.dll
+7af3f000-7af42000 rwxp 00000000 00:00 0 
+7af42000-7af4d000 r-xp 0008f000 fe:50 136491                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ntdll.dll
+7af4d000-7af4f000 rwxp 0009a000 fe:50 136491                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ntdll.dll
+7af4f000-7af53000 r-xp 0009c000 fe:50 136491                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/ntdll.dll
+7b110000-7b117000 r-xp 00000000 fe:50 8766                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/imagehlp.dll
+7b117000-7b119000 rwxp 00007000 fe:50 8766                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/imagehlp.dll
+7b119000-7b11b000 r-xp 00009000 fe:50 8766                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/imagehlp.dll
+7b11b000-7b11c000 rwxp 00000000 00:00 0 
+7b11c000-7b11d000 r-xp 0000b000 fe:50 8766                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/imagehlp.dll
+7b11d000-7b11e000 rwxp 0000c000 fe:50 8766                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/imagehlp.dll
+7b11e000-7b11f000 r-xp 0000d000 fe:50 8766                               /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/imagehlp.dll
+7b350000-7b352000 r-xp 00000000 fe:50 168898                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/psapi.dll
+7b352000-7b354000 rwxp 00002000 fe:50 168898                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/psapi.dll
+7b354000-7b357000 r-xp 00004000 fe:50 168898                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/psapi.dll
+7b357000-7b359000 rwxp 00007000 fe:50 168898                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/psapi.dll
+7b359000-7b35a000 r-xp 00009000 fe:50 168898                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/i386-windows/psapi.dll
+7b8d0000-7b8d2000 r-xp 00000000 fe:50 143069                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64cpu.dll
+7b8d2000-7b8d4000 rwxp 00002000 fe:50 143069                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64cpu.dll
+7b8d4000-7b8d7000 r-xp 00004000 fe:50 143069                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64cpu.dll
+7b8d7000-7b8d8000 rwxp 00000000 00:00 0 
+7b8d8000-7b8d9000 r-xp 00000000 00:00 0 
+7b8d9000-7b8da000 r-xp 00007000 fe:50 143069                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64cpu.dll
+7b8da000-7b8db000 rwxp 00008000 fe:50 143069                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64cpu.dll
+7b8db000-7b8dc000 r-xp 00009000 fe:50 143069                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/wow64cpu.dll
+7b990000-7b99e000 r-xp 00000000 fe:50 142350                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/win32u.dll
+7b99e000-7b9a7000 rwxp 0000e000 fe:50 142350                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/win32u.dll
+7b9a7000-7b9b6000 r-xp 00017000 fe:50 142350                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/win32u.dll
+7b9b6000-7b9b7000 rwxp 00000000 00:00 0 
+7b9b7000-7b9c3000 r-xp 00026000 fe:50 142350                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/win32u.dll
+7b9c3000-7b9c4000 rwxp 00032000 fe:50 142350                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/win32u.dll
+7b9c4000-7b9c5000 r-xp 00033000 fe:50 142350                             /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/win32u.dll
+7fde0000-7ffc0000 ---p 00000000 00:00 0 
+7ffc0000-7ffe0000 rwxp 00000000 00:00 0 
+7ffe0000-7ffe1000 r-xs 00000000 fe:50 224440                             /data/user/0/com.winlatcn/files/imagefs/tmp/.wine-10303/server-fe50-23ed1/tmpmap-abe3ab4b (deleted)
+7ffe1000-7ffe2000 rw-p 00000000 00:00 0 
+100000000-100001000 r--p 00000000 fe:50 177077                           /data/user/0/com.winlatcn/files/imagefs/opt/wine/bin/wine
+100001000-100002000 r-xp 00001000 fe:50 177077                           /data/user/0/com.winlatcn/files/imagefs/opt/wine/bin/wine
+100002000-100003000 r--p 00002000 fe:50 177077                           /data/user/0/com.winlatcn/files/imagefs/opt/wine/bin/wine
+100003000-100006000 rw-p 00000000 00:00 0 
+100010000-100110000 rwxp 00000000 00:00 0 
+100110000-100112000 ---p 00000000 00:00 0 
+100112000-100210000 rwxp 00000000 00:00 0 
+3f00000000-3f00021000 r-xp 00000000 fe:50 146158                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/ld-2.31.so
+3f00031000-3f00032000 r--p 00021000 fe:50 146158                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/ld-2.31.so
+3f00032000-3f00034000 rw-p 00022000 fe:50 146158                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/ld-2.31.so
+3f00034000-3f0003e000 r--p 00000000 fe:50 158325                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-unix/ntdll.so
+3f0003e000-3f000a4000 r-xp 0000a000 fe:50 158325                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-unix/ntdll.so
+3f000a4000-3f000c2000 r--p 00070000 fe:50 158325                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-unix/ntdll.so
+3f000c2000-3f000c3000 ---p 00000000 00:00 0 
+3f000c3000-3f00110000 rw-p 00000000 00:00 0 
+3f01000000-3f01003000 r--p 00000000 fe:50 146685                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+3f01003000-3f0101a000 r-xp 00003000 fe:50 146685                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+3f0101a000-3f0101e000 r--p 0001a000 fe:50 146685                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+3f0101e000-3f01021000 rw-p 00000000 00:00 0 
+3f02000000-3f0201f000 r--p 00000000 fe:50 78123                          /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-unix/win32u.so
+3f0201f000-3f020f8000 r-xp 0001f000 fe:50 78123                          /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-unix/win32u.so
+3f020f8000-3f02137000 r--p 000f8000 fe:50 78123                          /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-unix/win32u.so
+3f02137000-3f021ab000 rw-p 00000000 00:00 0 
+3f03000000-3f0300d000 r--p 00000000 fe:50 164911                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-unix/winex11.so
+3f0300d000-3f03055000 r-xp 0000d000 fe:50 164911                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-unix/winex11.so
+3f03055000-3f03073000 r--p 00055000 fe:50 164911                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-unix/winex11.so
+3f03073000-3f03085000 rw-p 00000000 00:00 0 
+3f04000000-3f04001000 r--p 00000000 fe:50 118793                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-unix/ws2_32.so
+3f04001000-3f04004000 r-xp 00001000 fe:50 118793                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-unix/ws2_32.so
+3f04004000-3f04005000 r--p 00004000 fe:50 118793                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-unix/ws2_32.so
+3f04005000-3f04008000 rw-p 00000000 00:00 0 
+5581b86000-5581c9d000 rw-p 00000000 00:00 0                              [heap]
+6ff4564000-6ff47a4000 rw-p 00000000 00:00 0 
+6ff47a4000-6ff47a9000 r-xp 00000000 fe:50 146181                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXfixes.so.3.1.0
+6ff47a9000-6ff47b8000 ---p 00005000 fe:50 146181                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXfixes.so.3.1.0
+6ff47b8000-6ff47b9000 r--p 00004000 fe:50 146181                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXfixes.so.3.1.0
+6ff47b9000-6ff47ba000 rw-p 00005000 fe:50 146181                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXfixes.so.3.1.0
+6ff47ba000-6ff47c3000 r-xp 00000000 fe:50 146173                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXcursor.so.1.0.2
+6ff47c3000-6ff47d2000 ---p 00009000 fe:50 146173                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXcursor.so.1.0.2
+6ff47d2000-6ff47d3000 r--p 00008000 fe:50 146173                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXcursor.so.1.0.2
+6ff47d3000-6ff47d4000 rw-p 00009000 fe:50 146173                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXcursor.so.1.0.2
+6ff47d4000-6ff4844000 rw-p 00000000 00:00 0 
+6ff4844000-6ff4853000 r-xp 00000000 fe:50 146183                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXi.so.6.1.0
+6ff4853000-6ff4862000 ---p 0000f000 fe:50 146183                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXi.so.6.1.0
+6ff4862000-6ff4863000 r--p 0000e000 fe:50 146183                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXi.so.6.1.0
+6ff4863000-6ff4864000 rw-p 0000f000 fe:50 146183                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXi.so.6.1.0
+6ff4864000-6ff4866000 r-xp 00000000 fe:50 146171                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXcomposite.so.1.0.0
+6ff4866000-6ff4875000 ---p 00002000 fe:50 146171                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXcomposite.so.1.0.0
+6ff4875000-6ff4876000 r--p 00001000 fe:50 146171                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXcomposite.so.1.0.0
+6ff4876000-6ff4877000 rw-p 00002000 fe:50 146171                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXcomposite.so.1.0.0
+6ff4877000-6ff4881000 r-xp 00000000 fe:50 146185                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXrandr.so.2.2.0
+6ff4881000-6ff4890000 ---p 0000a000 fe:50 146185                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXrandr.so.2.2.0
+6ff4890000-6ff4891000 r--p 00009000 fe:50 146185                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXrandr.so.2.2.0
+6ff4891000-6ff4892000 rw-p 0000a000 fe:50 146185                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXrandr.so.2.2.0
+6ff4892000-6ff489a000 r-xp 00000000 fe:50 146187                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXrender.so.1.3.0
+6ff489a000-6ff48a9000 ---p 00008000 fe:50 146187                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXrender.so.1.3.0
+6ff48a9000-6ff48aa000 r--p 00007000 fe:50 146187                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXrender.so.1.3.0
+6ff48aa000-6ff48ab000 rw-p 00008000 fe:50 146187                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXrender.so.1.3.0
+6ff48ab000-6ff4abc000 rw-p 00000000 00:00 0 
+6ff4abc000-6ff4ac0000 r-xp 00000000 fe:50 146191                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXxf86vm.so.1.0.0
+6ff4ac0000-6ff4ad0000 ---p 00004000 fe:50 146191                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXxf86vm.so.1.0.0
+6ff4ad0000-6ff4ad1000 r--p 00004000 fe:50 146191                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXxf86vm.so.1.0.0
+6ff4ad1000-6ff4ad2000 rw-p 00005000 fe:50 146191                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXxf86vm.so.1.0.0
+6ff4ad2000-6ff4b12000 rw-p 00000000 00:00 0 
+6ff4b12000-6ff4b26000 r-xp 00000000 fe:50 146229                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libbsd.so.0.10.0
+6ff4b26000-6ff4b36000 ---p 00014000 fe:50 146229                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libbsd.so.0.10.0
+6ff4b36000-6ff4b37000 r--p 00014000 fe:50 146229                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libbsd.so.0.10.0
+6ff4b37000-6ff4b38000 rw-p 00015000 fe:50 146229                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libbsd.so.0.10.0
+6ff4b38000-6ff4b39000 rw-p 00000000 00:00 0 
+6ff4b39000-6ff4b3e000 r-xp 00000000 fe:50 146177                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXdmcp.so.6.0.0
+6ff4b3e000-6ff4b4d000 ---p 00005000 fe:50 146177                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXdmcp.so.6.0.0
+6ff4b4d000-6ff4b4e000 r--p 00004000 fe:50 146177                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXdmcp.so.6.0.0
+6ff4b4e000-6ff4b4f000 rw-p 00005000 fe:50 146177                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXdmcp.so.6.0.0
+6ff4b4f000-6ff4b51000 r-xp 00000000 fe:50 146169                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXau.so.6.0.0
+6ff4b51000-6ff4b61000 ---p 00002000 fe:50 146169                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXau.so.6.0.0
+6ff4b61000-6ff4b62000 r--p 00002000 fe:50 146169                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXau.so.6.0.0
+6ff4b62000-6ff4b63000 rw-p 00003000 fe:50 146169                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXau.so.6.0.0
+6ff4b63000-6ff4b88000 r-xp 00000000 fe:50 146608                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libxcb.so.1.1.0
+6ff4b88000-6ff4b98000 ---p 00025000 fe:50 146608                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libxcb.so.1.1.0
+6ff4b98000-6ff4b99000 r--p 00025000 fe:50 146608                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libxcb.so.1.1.0
+6ff4b99000-6ff4b9a000 rw-p 00026000 fe:50 146608                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libxcb.so.1.1.0
+6ff4b9a000-6ff4cca000 r-xp 00000000 fe:50 146167                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libX11.so.6.3.0
+6ff4cca000-6ff4cda000 ---p 00130000 fe:50 146167                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libX11.so.6.3.0
+6ff4cda000-6ff4cdb000 r--p 00130000 fe:50 146167                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libX11.so.6.3.0
+6ff4cdb000-6ff4cdf000 rw-p 00131000 fe:50 146167                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libX11.so.6.3.0
+6ff4cdf000-6ff4cf0000 r-xp 00000000 fe:50 146179                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXext.so.6.4.0
+6ff4cf0000-6ff4d00000 ---p 00011000 fe:50 146179                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXext.so.6.4.0
+6ff4d00000-6ff4d01000 r--p 00011000 fe:50 146179                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXext.so.6.4.0
+6ff4d01000-6ff4d02000 rw-p 00012000 fe:50 146179                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libXext.so.6.4.0
+6ff4d02000-6ff4f22000 rw-p 00000000 00:00 0 
+6ff4f22000-6ff5122000 rwxp 00000000 00:00 0 
+6ff5122000-6ff5172000 rw-p 00000000 00:00 0 
+6ff5176000-6ff5186000 rw-p 00000000 00:00 0 
+6ff5186000-6ff518c000 r--s 00000000 fe:50 149445                         /data/user/0/com.winlatcn/files/imagefs/var/cache/fontconfig/e1341159-d4eb-4ed1-b49c-729274c8a9cc-le64.cache-7
+6ff518c000-6ff5192000 r--s 00000000 fe:50 147134                         /data/user/0/com.winlatcn/files/imagefs/var/cache/fontconfig/687126d1-c504-4ee7-835f-36338ea54fa0-le64.cache-7
+6ff5192000-6ff5198000 r--s 00000000 fe:50 146813                         /data/user/0/com.winlatcn/files/imagefs/var/cache/fontconfig/ac63f2da-97ab-4ed5-8b96-69c7cd77d68d-le64.cache-7
+6ff5198000-6ff519e000 r-xp 00000000 fe:50 146559                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libuuid.so.1.3.0
+6ff519e000-6ff51ad000 ---p 00006000 fe:50 146559                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libuuid.so.1.3.0
+6ff51ad000-6ff51ae000 r--p 00005000 fe:50 146559                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libuuid.so.1.3.0
+6ff51ae000-6ff51af000 rw-p 00006000 fe:50 146559                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libuuid.so.1.3.0
+6ff51af000-6ff51d3000 r-xp 00000000 fe:50 146271                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libexpat.so.1.6.11
+6ff51d3000-6ff51e3000 ---p 00024000 fe:50 146271                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libexpat.so.1.6.11
+6ff51e3000-6ff51e5000 r--p 00024000 fe:50 146271                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libexpat.so.1.6.11
+6ff51e5000-6ff51e6000 rw-p 00026000 fe:50 146271                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libexpat.so.1.6.11
+6ff51e6000-6ff5229000 r-xp 00000000 fe:50 146299                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libfontconfig.so.1.12.0
+6ff5229000-6ff5238000 ---p 00043000 fe:50 146299                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libfontconfig.so.1.12.0
+6ff5238000-6ff523a000 r--p 00042000 fe:50 146299                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libfontconfig.so.1.12.0
+6ff523a000-6ff523b000 rw-p 00044000 fe:50 146299                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libfontconfig.so.1.12.0
+6ff523b000-6ff524b000 rw-p 00000000 00:00 0 
+6ff524b000-6ff5264000 r-xp 00000000 fe:50 146614                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libz.so.1.2.11
+6ff5264000-6ff5273000 ---p 00019000 fe:50 146614                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libz.so.1.2.11
+6ff5273000-6ff5274000 r--p 00018000 fe:50 146614                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libz.so.1.2.11
+6ff5274000-6ff5275000 rw-p 00019000 fe:50 146614                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libz.so.1.2.11
+6ff5275000-6ff52a7000 r-xp 00000000 fe:50 146468                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libpng16.so.16.37.0
+6ff52a7000-6ff52b7000 ---p 00032000 fe:50 146468                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libpng16.so.16.37.0
+6ff52b7000-6ff52b8000 r--p 00032000 fe:50 146468                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libpng16.so.16.37.0
+6ff52b8000-6ff52b9000 rw-p 00033000 fe:50 146468                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libpng16.so.16.37.0
+6ff52b9000-6ff5361000 r-xp 00000000 fe:50 146301                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libfreetype.so.6.17.1
+6ff5361000-6ff5371000 ---p 000a8000 fe:50 146301                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libfreetype.so.6.17.1
+6ff5371000-6ff5377000 r--p 000a8000 fe:50 146301                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libfreetype.so.6.17.1
+6ff5377000-6ff5378000 rw-p 000ae000 fe:50 146301                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libfreetype.so.6.17.1
+6ff5378000-6ff5ffa000 rw-p 00000000 00:00 0 
+6ff5ffa000-6ff6ad9000 r--p 00000000 fe:50 146667                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/locale/locale-archive
+6ff6ad9000-6ff6f1b000 rw-p 00000000 00:00 0 
+6ff6f1b000-6ff711b000 rwxp 00000000 00:00 0 
+6ff711b000-6ff753d000 rw-p 00000000 00:00 0 
+6ff763d000-6ff7e3d000 rw-p 00000000 00:00 0 
+6ff7e3d000-6ff7e50000 rw-p 00000000 00:00 0 
+6ff7e50000-6ff7e52000 r-xp 00000000 fe:50 146556                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libutil-2.31.so
+6ff7e52000-6ff7e62000 ---p 00002000 fe:50 146556                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libutil-2.31.so
+6ff7e62000-6ff7e63000 r--p 00002000 fe:50 146556                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libutil-2.31.so
+6ff7e63000-6ff7e64000 rw-p 00003000 fe:50 146556                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libutil-2.31.so
+6ff7e64000-6ff7e77000 r-xp 00000000 fe:50 146479                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libresolv-2.31.so
+6ff7e77000-6ff7e86000 ---p 00013000 fe:50 146479                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libresolv-2.31.so
+6ff7e86000-6ff7e87000 r--p 00012000 fe:50 146479                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libresolv-2.31.so
+6ff7e87000-6ff7e88000 rw-p 00013000 fe:50 146479                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libresolv-2.31.so
+6ff7e88000-6ff7e8c000 rw-p 00000000 00:00 0 
+6ff7e8c000-6ff7ea6000 r-xp 00000000 fe:50 146473                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libpthread-2.31.so
+6ff7ea6000-6ff7eb6000 ---p 0001a000 fe:50 146473                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libpthread-2.31.so
+6ff7eb6000-6ff7eb7000 r--p 0001a000 fe:50 146473                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libpthread-2.31.so
+6ff7eb7000-6ff7eb8000 rw-p 0001b000 fe:50 146473                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libpthread-2.31.so
+6ff7eb8000-6ff7ebc000 rw-p 00000000 00:00 0 
+6ff7ebc000-6ff7ec3000 r-xp 00000000 fe:50 146486                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/librt-2.31.so
+6ff7ec3000-6ff7ed2000 ---p 00007000 fe:50 146486                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/librt-2.31.so
+6ff7ed2000-6ff7ed3000 r--p 00006000 fe:50 146486                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/librt-2.31.so
+6ff7ed3000-6ff7ed4000 rw-p 00007000 fe:50 146486                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/librt-2.31.so
+6ff7ed4000-6ff7ed7000 r-xp 00000000 fe:50 146260                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libdl-2.31.so
+6ff7ed7000-6ff7ee6000 ---p 00003000 fe:50 146260                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libdl-2.31.so
+6ff7ee6000-6ff7ee7000 r--p 00002000 fe:50 146260                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libdl-2.31.so
+6ff7ee7000-6ff7ee8000 rw-p 00003000 fe:50 146260                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libdl-2.31.so
+6ff7ee8000-6ff7f81000 r-xp 00000000 fe:50 146408                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libm-2.31.so
+6ff7f81000-6ff7f91000 ---p 00099000 fe:50 146408                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libm-2.31.so
+6ff7f91000-6ff7f92000 r--p 00099000 fe:50 146408                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libm-2.31.so
+6ff7f92000-6ff7f93000 rw-p 0009a000 fe:50 146408                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libm-2.31.so
+6ff7f93000-6ff80ec000 r-xp 00000000 fe:50 146232                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libc-2.31.so
+6ff80ec000-6ff80fb000 ---p 00159000 fe:50 146232                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libc-2.31.so
+6ff80fb000-6ff80fe000 r--p 00158000 fe:50 146232                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libc-2.31.so
+6ff80fe000-6ff8101000 rw-p 0015b000 fe:50 146232                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libc-2.31.so
+6ff8101000-6ff8104000 rw-p 00000000 00:00 0 
+6ff8104000-6ff8106000 r-xp 00000000 fe:50 149047                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libandroid-sysvshm.so
+6ff8106000-6ff8115000 ---p 00002000 fe:50 149047                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libandroid-sysvshm.so
+6ff8115000-6ff8116000 r--p 00001000 fe:50 149047                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libandroid-sysvshm.so
+6ff8116000-6ff8117000 rw-p 00002000 fe:50 149047                         /data/user/0/com.winlatcn/files/imagefs/usr/lib/aarch64-linux-gnu/libandroid-sysvshm.so
+6ff8117000-6ff8119000 rw-p 00000000 00:00 0 
+6ff8119000-6ff811b000 r--p 00000000 00:00 0                              [vvar]
+6ff811b000-6ff811c000 r-xp 00000000 00:00 0                              [vdso]
+6ff811c000-6ff811d000 r-xp 00000000 fe:50 182813                         /data/app/~~IOuHeUwV0REsmgFaImg9NA==/com.winlatcn-Uwh8oIJ9dxHAVKK2o4pV4Q==/lib/arm64/libtinyproot-loader.so
+6ff811d000-6ff811f000 rw-p 00000000 fe:50 182813                         /data/app/~~IOuHeUwV0REsmgFaImg9NA==/com.winlatcn-Uwh8oIJ9dxHAVKK2o4pV4Q==/lib/arm64/libtinyproot-loader.so
+7fd7581000-7fd75a2000 rw-p 00000000 00:00 0                              [stack]
+7ffff40000-7ffffb4000 r-xp 00000000 fe:50 168754                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/ntdll.dll
+7ffffb4000-7ffffb8000 rwxp 00074000 fe:50 168754                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/ntdll.dll
+7ffffb8000-7ffffdb000 r-xp 00078000 fe:50 168754                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/ntdll.dll
+7ffffdb000-7ffffdf000 rwxp 00000000 00:00 0 
+7ffffdf000-7ffffea000 r-xp 0009b000 fe:50 168754                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/ntdll.dll
+7ffffea000-7ffffec000 rwxp 000a6000 fe:50 168754                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/ntdll.dll
+7ffffec000-7ffffed000 r-xp 000a8000 fe:50 168754                         /data/user/0/com.winlatcn/files/imagefs/opt/wine/lib/wine/x86_64-windows/ntdll.dll

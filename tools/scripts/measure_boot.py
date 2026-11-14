@@ -2,7 +2,7 @@ import sys, time, os, subprocess, io
 from PIL import Image
 
 ADB = r"D:\MuMuPlayer\nx_main\adb.exe"
-SER = "88f39f0d"
+SER = "TABLET_SERIAL_REDACTED"
 ENV = dict(os.environ, MSYS_NO_PATHCONV="1")
 
 def sh(a, t=90):

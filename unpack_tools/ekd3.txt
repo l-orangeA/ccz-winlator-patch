@@ -1,0 +1,20 @@
+BOX64: Detected running wine with "Ekd5.exe"
+argv[1]="Ekd5.exe"
+26060|0x3f0004263f: Calling strlen("L"D:\\Download\\ccz22\\Ekd5.exe"") => return 0x20
+26060|0x3f0005891a: Calling strlen("/home/xuser/.wine/dosdevices/d:/Download/ccz22/Ekd5.exe") => return 0x37
+26060|0x3f0004263f: Calling strlen("L"\\??\\D:\\Download\\ccz22\\Ekd5.exe"") => return 0x26
+26060|0x3f0004393b: Calling strlen("Ekd5.exe") => return 0x8
+26060|0x3f000476fd: Calling prctl(0xF, 0x7EDC991B7E, 0x1, ...) =>BOX64: set process name to "Ekd5.exe"
+BOX64: hacking orig command line to "Ekd5.exe"
+26060|0x3f0004263f: Calling strlen("L"D:\\Download\\ccz22\\Ekd5.exe"") => return 0x20
+26060|0x3f0004276d: Calling write(2, 0x7ffc3404"00e4:err:environ:init_peb starting L"D:\\Download\\ccz22\\Ekd5.exe" in experimental wow64 mode
+26060|0x3f000426d3: Calling write(2, 0x7ffc3404"00e4:trace:loaddll:build_module Loaded L"D:\\Download\\ccz22\\Ekd5.exe" at 00400000: native
+26060|0x3f00054765: Calling strlen("Ekd5.exe") => return 0x8
+26060|0x3f00054765: Calling strlen("Ekd5.exe-up.txt") => return 0xF
+26060|0x3f00054765: Calling strlen("Ekd5.exe") => return 0x8
+26060|0x3f00054765: Calling strlen("Ekd5.exe-up.txt") => return 0xF
+26060|0x3f00054765: Calling strlen("Ekd5.exe") => return 0x8
+26060|0x3f00054765: Calling strlen("Ekd5.exe-up.txt") => return 0xF
+26060|0x3f00054765: Calling strlen("Ekd5.exe") => return 0x8
+26060|0x3f00054765: Calling strlen("Ekd5.exe-up.txt") => return 0xF
+26060|0x3f00054765: Calling strlen("Ekd5.exe") => return 0x8

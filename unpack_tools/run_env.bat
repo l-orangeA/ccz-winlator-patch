@@ -1,0 +1,33 @@
+@echo off
+cd /d D:\Download\ccz22
+set WINEPREFIX=
+set WINEDEBUG=
+set WINELOADER=
+set WINELOADERNOEXEC=
+set WINESERVERSOCKET=
+set WINEESYNC=
+set BOX64_LOG=
+set BOX64_NOBANNER=
+set BOX64_DYNAREC=
+set BOX64_CPUNAME=
+set BOX64_CPUMHZ=
+set BOX64_PATH=
+set BOX64_LD_LIBRARY_PATH=
+set LD_LIBRARY_PATH=
+set LD_PRELOAD=
+set DISPLAY=
+set PULSE_SERVER=
+set PULSE_LATENCY_MSEC=
+set ANDROID_SYSVSHM_SERVER=
+set TINYPROOT_LOADER=
+set LC_ALL=
+set MESA_DEBUG=
+set MESA_NO_ERROR=
+set TU_OVERRIDE_HEAP_SIZE=
+set GALLIUM_DRIVER=
+set WINEVKUSEPLACEDADDR=
+set CNC_DDRAW_CONFIG_FILE=
+echo ==== START ==== > D:\Download\ccz22\run_env.log
+set >> D:\Download\ccz22\env_after.txt
+Ekd5.exe >> D:\Download\ccz22\run_env.log 2>&1
+echo EXIT %ERRORLEVEL% >> D:\Download\ccz22\run_env.log

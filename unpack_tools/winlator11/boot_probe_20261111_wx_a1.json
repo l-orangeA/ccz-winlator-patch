@@ -1,0 +1,103 @@
+{
+  "label": "wx_a1",
+  "elapsed": 60.6,
+  "marks": {
+    "ws": 1.6,
+    "ekd": 6.1
+  },
+  "hwbp_last": "pid=14311 arms=128 faults=1126 steps=1096 hits=32 t=0.5",
+  "hw_rows": [
+    {
+      "t": 7.49,
+      "arms": 128,
+      "faults": 1126,
+      "steps": 1096,
+      "hits": 32,
+      "ht": 0.5,
+      "rfault": null,
+      "wfault": null
+    }
+  ],
+  "cpu_split": {
+    "span_s": 1.39,
+    "samples": 3,
+    "utime_s": 0.29,
+    "stime_s": 0.34,
+    "cpu_total_s": 0.63,
+    "stime_pct": 54.0,
+    "vctx_delta": -695,
+    "vctx_per_s": -500.0,
+    "threads_first": 1,
+    "threads_last": null,
+    "cpus": "0-7",
+    "cpu_core_first": 7,
+    "cpu_core_last": 4
+  },
+  "clk_tck": 100,
+  "samples": [
+    {
+      "pid": 14311,
+      "utime": 6,
+      "stime": 6,
+      "minflt": 7745,
+      "majflt": 0,
+      "state": "R (running)",
+      "cpu": 7,
+      "rchar": 2267532,
+      "wchar": 27454,
+      "syscr": 395,
+      "syscw": 245,
+      "read_bytes": 0,
+      "write_bytes": 20480,
+      "cancelled_write_bytes": 12288,
+      "threads": 1,
+      "cpus": "0-7",
+      "vctx": 695,
+      "nvctx": 50,
+      "freq_0": 400000,
+      "freq_4": 700000,
+      "freq_7": 2200000,
+      "t": 6.1
+    },
+    {
+      "pid": 14311,
+      "utime": 20,
+      "stime": 25,
+      "minflt": 14371,
+      "majflt": 5,
+      "state": "R (running)",
+      "cpu": 4,
+      "rchar": 2859022,
+      "wchar": 144464,
+      "syscr": 2500,
+      "syscw": 1663,
+      "read_bytes": 16384,
+      "write_bytes": 24576,
+      "cancelled_write_bytes": 12288,
+      "threads": 1,
+      "cpus": "0-7",
+      "vctx": 5058,
+      "nvctx": 576,
+      "freq_0": 300000,
+      "freq_4": 2600000,
+      "freq_7": 1200000,
+      "t": 6.78
+    },
+    {
+      "pid": 14311,
+      "utime": 35,
+      "stime": 40,
+      "minflt": 16211,
+      "majflt": 6,
+      "state": "t",
+      "cpu": 4,
+      "freq_0": 220000,
+      "freq_4": 2200000,
+      "freq_7": 1200000,
+      "t": 7.49
+    }
+  ],
+  "exec": "/storage/emulated/0/ccz/Ekd5.exe",
+  "clean_leftover": [],
+  "sample_count": 3
+}

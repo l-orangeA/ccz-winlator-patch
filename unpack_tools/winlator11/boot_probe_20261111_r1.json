@@ -1,0 +1,15 @@
+{
+  "label": "r1",
+  "elapsed": 61.5,
+  "marks": {
+    "ws": 1.6
+  },
+  "hwbp_last": "",
+  "hw_rows": [],
+  "cpu_split": {},
+  "clk_tck": 100,
+  "samples": [],
+  "exec": "/storage/emulated/0/ccz/Ekd5.exe",
+  "clean_leftover": [],
+  "sample_count": 0
+}

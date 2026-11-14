@@ -1,0 +1,30 @@
+BOX64: Detected running wine with "Ekd5.exe"
+argv[1]="D:\Download\ccz22\Ekd5.exe"
+23882|0x3f000425df: Calling strlen("L"D:\\Download\\ccz22\\Ekd5.exe"") => return 0x20
+23882|0x3f0005860a: Calling strlen("/home/xuser/.wine/dosdevices/d:/Download/ccz22/Ekd5.exe") => return 0x37
+23882|0x3f000425df: Calling strlen("L"\\??\\D:\\Download\\ccz22\\Ekd5.exe"") => return 0x26
+23882|0x3f0004392b: Calling strlen("D:\Download\ccz22\Ekd5.exe") => return 0x1A
+23882|0x3f00047651: Calling prctl(0xF, 0x702D740B7E, 0x1, ...) =>BOX64: set process name to "Ekd5.exe"
+BOX64: hacking orig command line to "Ekd5.exe"
+23882|0x3f000425df: Calling strlen("L"D:\\Download\\ccz22\\Ekd5.exe"") => return 0x20
+23882|0x3f000426ed: Calling write(2, 0x7ffc3404"00e8:err:environ:init_peb starting L"D:\\Download\\ccz22\\Ekd5.exe" in experimental wow64 mode
+23882|0x3f00042653: Calling write(2, 0x7ffc3404"00e8:trace:loaddll:build_module Loaded L"D:\\Download\\ccz22\\Ekd5.exe" at 00400000: native
+23882|0x3f00054505: Calling strlen("Ekd5.exe") => return 0x8
+23882|0x3f00054505: Calling strlen("Ekd5.exe-up.txt") => return 0xF
+23882|0x3f00054505: Calling strlen("Ekd5.exe") => return 0x8
+23882|0x3f00054505: Calling strlen("Ekd5.exe-up.txt") => return 0xF
+23882|0x3f00054505: Calling strlen("Ekd5.exe") => return 0x8
+23882|0x3f00054505: Calling strlen("Ekd5.exe-up.txt") => return 0xF
+23882|0x3f00054505: Calling strlen("Ekd5.exe") => return 0x8
+23882|0x3f00054505: Calling strlen("Ekd5.exe-up.txt") => return 0xF
+23882|0x3f00054505: Calling strlen("Ekd5.exe") => return 0x8
+23882|0x3f00054505: Calling strlen("Ekd5.exe-up.txt") => return 0xF
+23882|0x3f00054505: Calling strlen("Ekd5.exe") => return 0x8
+23882|0x3f00054505: Calling strlen("Ekd5.exe-up.txt") => return 0xF
+23882|0x3f00054505: Calling strlen("Ekd5.exe") => return 0x8
+23882|0x3f00054505: Calling strlen("Ekd5.exe-up.txt") => return 0xF
+23882|0x3f00054505: Calling strlen("Ekd5.exe") => return 0x8
+23882|0x3f00054505: Calling strlen("Ekd5.exe-up.txt") => return 0xF
+23882|0x3f00054505: Calling strlen("Ekd5.exe") => return 0x8
+23882|0x3f00054505: Calling strlen("Ekd5.exe-up.txt") => return 0xF
+23882|0x3f00054505: Calling strlen("Ekd5.exe") => return 0x8
